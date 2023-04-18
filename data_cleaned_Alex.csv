@@ -1,0 +1,683 @@
+Salary Estimate,Rating,Size,Industry,Sector,Job State,Job Simplified,Vader
+129163,3.1,10000+,Drug & Health Stores,Retail & Wholesale,IL,mle,0.52
+112751,3.7,10000+,Investment & Asset Management,Financial Services,PA,mle,0.19
+86585,3.7,1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",TX,data scientist,0.82
+77143,3.9,1001 - 5000,Health Care Services & Hospitals,Healthcare,TX,analyst,0.18
+98663,3.2,10000+,Car & Truck Rental,Transportation & Logistics,FL,data scientist,0.51
+99160,3.7,1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",TX,data scientist,0.82
+92554,3.8,10000+,Energy & Utilities,"Energy, Mining & Utilities",MA,data scientist,0.09
+141056,4.2,1001 - 5000,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.54
+125166,4.5,1001 - 5000,Investment & Asset Management,Financial Services,NY,analyst,0.53
+60000,3.7,51 - 200,Legal,Legal,NV,data scientist,0.5
+105000,4.5,501 - 1000,Information Technology Support Services,Information Technology,NY,analyst,0.49
+73162,3.0,5001 - 10000,Membership Organizations,Management & Consulting,TX,data scientist,0.35
+70624,3.8,201 - 500,Insurance Carriers,Insurance,WI,analyst,0.0
+72500,3.0,1001 - 5000,Civic & Social Services,Nonprofit & NGO,NY,data scientist,0.29
+125075,3.1,10000+,Drug & Health Stores,Retail & Wholesale,IL,data scientist,0.35
+80000,3.5,51 - 200,Enterprise Software & Network Solutions,Information Technology,TX,data scientist,0.44
+130350,4.1,10000+,Internet & Web Services,Information Technology,CA,data scientist,0.25
+114603,3.7,10000+,Health Care Services & Hospitals,Healthcare,IL,mle,0.4
+97406,4.0,10000+,Health Care Services & Hospitals,Healthcare,MA,data scientist,0.11
+116657,4.7,201 - 500,Computer Hardware Development,Information Technology,MA,mle,0.37
+81450,3.4,10000+,Food & Beverage Manufacturing,Manufacturing,IL,data scientist,0.25
+91262,3.8,10000+,Insurance Carriers,Insurance,MA,data scientist,0.45
+107469,4.1,10000+,Consumer Product Manufacturing,Manufacturing,OR,data scientist,0.31
+100000,3.7,1 - 50,Business Consulting,Management & Consulting,Remote,mle,0.49
+79904,4.0,501 - 1000,Aerospace & Defense,Aerospace & Defense,VA,analyst,0.44
+75232,3.8,10000+,Consumer Product Manufacturing,Manufacturing,OH,analyst,0.54
+94621,4.0,5001 - 10000,Colleges & Universities,Education,TX,data scientist,0.39
+82500,3.3,51 - 200,Advertising & Public Relations,Media & Communication,DC,data scientist,0.73
+135000,4.1,51 - 200,Banking & Lending,Financial Services,UT,data scientist,0.59
+182000,3.9,10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.4
+120100,3.9,1001 - 5000,Insurance Carriers,Insurance,CA,analyst,0.65
+126489,3.9,1001 - 5000,Banking & Lending,Financial Services,IL,data scientist,0.34
+117279,3.9,1001 - 5000,Banking & Lending,Financial Services,IL,data scientist,0.34
+115683,4.3,10000+,Investment & Asset Management,Financial Services,MA,mle,0.45
+168700,3.5,501 - 1000,Health Care Services & Hospitals,Healthcare,CO,data scientist,0.35
+96771,4.1,10000+,Accounting & Tax,Financial Services,FL,data engineer,0.42
+205000,4.1,10000+,Computer Hardware Development,Information Technology,CT,statistician,0.34
+178044,3.8,10000+,Telecommunications Services,Telecommunications,PA,data scientist,0.33
+106254,3.8,5001 - 10000,Insurance Carriers,Insurance,ME,data scientist,0.45
+155700,4.2,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.11
+174000,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.44
+125215,4.4,10000+,Business Consulting,Management & Consulting,GA,data scientist,0.47
+112760,4.3,10000+,Investment & Asset Management,Financial Services,NC,mle,0.28
+143058,4.4,51 - 200,Business Consulting,Management & Consulting,MD,data scientist,0.39
+112350,3.7,1001 - 5000,Business Consulting,Management & Consulting,GA,data scientist,0.31
+166500,4.3,201 - 500,Staffing & Subcontracting,Human Resources & Staffing,CA,data scientist,0.51
+103572,3.9,1001 - 5000,Business Consulting,Management & Consulting,NJ,data scientist,0.37
+150000,4.1,10000+,Computer Hardware Development,Information Technology,CT,data scientist,0.38
+144780,3.9,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data architect,0.32
+175000,4.3,201 - 500,Staffing & Subcontracting,Human Resources & Staffing,CT,data scientist,0.48
+90000,3.8,10000+,Health Care Services & Hospitals,Healthcare,NC,data scientist,0.91
+190000,3.6,10000+,Information Technology Support Services,Information Technology,VA,data scientist,0.24
+100476,3.5,10000+,Health Care Services & Hospitals,Healthcare,TX,data scientist,0.71
+137500,4.3,201 - 500,Staffing & Subcontracting,Human Resources & Staffing,TX,data scientist,0.62
+160000,4.2,1 - 50,HR Consulting,Human Resources & Staffing,TX,data scientist,0.16
+90000,4.5,201 - 500,HR Consulting,Human Resources & Staffing,MD,research scientist,0.31
+110165,3.7,1001 - 5000,Business Consulting,Management & Consulting,VA,data scientist,-0.12
+205000,4.1,10000+,Computer Hardware Development,Information Technology,CT,mle,0.37
+212500,4.1,10000+,Computer Hardware Development,Information Technology,CT,data scientist,0.34
+212500,4.1,10000+,Computer Hardware Development,Information Technology,CT,data scientist,0.34
+87785,3.2,10000+,Car & Truck Rental,Transportation & Logistics,FL,data scientist,0.39
+110398,3.2,10000+,Car & Truck Rental,Transportation & Logistics,FL,data scientist,0.34
+105186,3.8,5001 - 10000,Insurance Carriers,Insurance,GA,analyst,0.41
+82955,3.5,10000+,Health Care Services & Hospitals,Healthcare,MO,data scientist,0.59
+125000,4.8,1 - 50,Information Technology Support Services,Information Technology,TX,data scientist,0.06
+121209,4.4,5001 - 10000,National Agencies,Government & Public Administration,CA,data scientist,0.7
+110000,3.9,501 - 1000,Health Care Services & Hospitals,Healthcare,Remote,data scientist,0.49
+134586,4.2,1001 - 5000,Internet & Web Services,Information Technology,CA,mle,0.27
+117711,4.0,51 - 200,Computer Hardware Development,Information Technology,CA,mle,0.08
+212500,4.5,51 - 200,Ticket Sales,"Arts, Entertainment & Recreation",Remote,mle,0.41
+117041,4.1,10000+,Accounting & Tax,Financial Services,VA,mle,0.39
+120000,3.6,51 - 200,Enterprise Software & Network Solutions,Information Technology,CO,data scientist,0.54
+108421,3.9,10000+,Transportation Equipment Manufacturing,Manufacturing,TN,data scientist,0.32
+61160,3.2,10000+,Car & Truck Rental,Transportation & Logistics,FL,data scientist,0.46
+110591,3.8,10000+,Internet & Web Services,Information Technology,MA,data scientist,0.42
+125559,3.9,10000+,Telecommunications Services,Telecommunications,MA,data scientist,0.27
+156900,2.7,5001 - 10000,Insurance Carriers,Insurance,CA,data scientist,0.21
+94895,3.9,1001 - 5000,Information Technology Support Services,Information Technology,MA,data scientist,0.43
+165350,4.4,10000+,Computer Hardware Development,Information Technology,CA,mle,0.22
+155000,3.6,51 - 200,Internet & Web Services,Information Technology,CA,mle,0.09
+175500,4.5,51 - 200,Enterprise Software & Network Solutions,Information Technology,NY,data scientist,0.48
+152650,4.2,10000+,Business Consulting,Management & Consulting,MD,mle,0.35
+142830,4.3,5001 - 10000,Internet & Web Services,Information Technology,CA,mle,0.34
+119831,3.9,1001 - 5000,Insurance Carriers,Insurance,MA,mle,0.51
+105703,3.9,10000+,Telecommunications Services,Telecommunications,MA,data scientist,0.32
+134500,3.8,10000+,Internet & Web Services,Information Technology,CA,mle,0.37
+172000,4.0,1001 - 5000,Health Care Services & Hospitals,Healthcare,Remote,data scientist,0.53
+109578,3.9,10000+,Investment & Asset Management,Financial Services,IL,data scientist,0.45
+92500,3.6,51 - 200,Information Technology Support Services,Information Technology,Remote,data scientist,0.42
+144025,4.2,5001 - 10000,Telecommunications Services,Telecommunications,CA,data scientist,0.31
+175403,4.2,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,TX,mle,0.49
+240500,3.8,5001 - 10000,Computer Hardware Development,Information Technology,CA,data scientist,0.54
+110761,3.7,201 - 500,Information Technology Support Services,Information Technology,MO,analyst,0.34
+86902,3.7,5001 - 10000,Business Consulting,Management & Consulting,MD,data scientist,0.36
+84097,4.8,201 - 500,Information Technology Support Services,Information Technology,VA,data scientist,0.38
+88146,3.1,1001 - 5000,Consumer Product Manufacturing,Manufacturing,WI,data scientist,0.46
+120000,3.6,201 - 500,Staffing & Subcontracting,Human Resources & Staffing,OH,data scientist,0.54
+114503,4.1,201 - 500,Information Technology Support Services,Information Technology,VA,mle,0.27
+67652,3.9,201 - 500,Research & Development,Management & Consulting,VA,data scientist,0.61
+101870,3.9,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.36
+180000,3.2,1001 - 5000,Security & Protective,Management & Consulting,MD,data scientist,0.35
+105320,3.9,5001 - 10000,Consumer Product Manufacturing,Manufacturing,VA,data scientist,0.31
+86319,3.7,51 - 200,Investment & Asset Management,Financial Services,SC,analyst,0.39
+128349,3.9,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data architect,0.33
+122841,3.9,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.38
+125000,4.3,201 - 500,Staffing & Subcontracting,Human Resources & Staffing,NC,mle,0.37
+72500,4.4,1 - 50,National Agencies,Government & Public Administration,DC,statistician,0.31
+93429,4.1,201 - 500,Advertising & Public Relations,Media & Communication,OH,data scientist,0.64
+104307,4.2,1 - 50,Internet & Web Services,Information Technology,NC,data scientist,0.51
+77360,4.7,51 - 200,Software Development,Information Technology,VA,data scientist,0.44
+120789,3.9,10000+,Information Technology Support Services,Information Technology,CA,data scientist,0.39
+145000,4.0,1001 - 5000,Health Care Services & Hospitals,Healthcare,Remote,data scientist,0.58
+106442,4.5,201 - 500,Information Technology Support Services,Information Technology,VA,data scientist,0.38
+106240,1.0,1 - 50,Colleges & Universities,Education,DC,data scientist,0.0
+140000,4.0,501 - 1000,Automotive Parts & Accessories Stores,Retail & Wholesale,Remote,data engineer,0.24
+113258,3.8,1001 - 5000,Research & Development,Management & Consulting,VA,data scientist,0.34
+121959,4.5,1 - 50,Information Technology Support Services,Information Technology,Remote,data scientist,0.5
+97061,3.9,1001 - 5000,Business Consulting,Management & Consulting,NY,data scientist,0.35
+121220,4.3,5001 - 10000,Telecommunications Services,Telecommunications,MA,data scientist,0.31
+106885,4.4,51 - 200,Business Consulting,Management & Consulting,NC,data scientist,0.37
+113924,4.3,5001 - 10000,Colleges & Universities,Education,GA,data scientist,0.22
+232752,4.2,1001 - 5000,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.46
+115000,2.8,1001 - 5000,Primary & Secondary Schools,Education,NY,data scientist,0.55
+85000,5.0,1 - 50,Advertising & Public Relations,Media & Communication,DC,data scientist,0.29
+94718,3.5,201 - 500,Health Care Services & Hospitals,Healthcare,DC,data scientist,0.35
+106510,3.6,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.4
+103235,3.8,1001 - 5000,Computer Hardware Development,Information Technology,MA,data scientist,0.45
+128357,4.6,51 - 200,Enterprise Software & Network Solutions,Information Technology,CA,mle,0.41
+124155,4.4,1 - 50,Computer Hardware Development,Information Technology,CA,data scientist,0.49
+127100,3.8,10000+,Health Care Services & Hospitals,Healthcare,CT,data scientist,0.48
+141737,4.5,5001 - 10000,Information Technology Support Services,Information Technology,MA,data scientist,0.52
+94109,3.9,10000+,Telecommunications Services,Telecommunications,FL,data scientist,0.32
+142650,3.7,1001 - 5000,Business Consulting,Management & Consulting,GA,data scientist,0.47
+87655,4.4,1 - 50,Computer Hardware Development,Information Technology,TX,analyst,0.3
+79087,3.4,10000+,Computer Hardware Development,Information Technology,NJ,analyst,0.71
+152650,4.2,10000+,Business Consulting,Management & Consulting,AL,data scientist,0.39
+103354,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,GA,data scientist,0.32
+167250,4.0,10000+,Insurance Carriers,Insurance,CT,data engineer,0.35
+101737,3.7,501 - 1000,Investment & Asset Management,Financial Services,TX,data engineer,0.26
+124350,4.1,10000+,Banking & Lending,Financial Services,VA,data engineer,0.3
+136000,3.8,10000+,Internet & Web Services,Information Technology,CA,data scientist,0.31
+167000,3.9,10000+,Telecommunications Services,Telecommunications,NY,data scientist,0.32
+147500,4.3,10000+,Consumer Product Manufacturing,Manufacturing,CA,mle,0.29
+89733,3.8,10000+,Information Technology Support Services,Information Technology,PA,data scientist,0.46
+120000,3.9,10000+,Aerospace & Defense,Aerospace & Defense,CA,mle,0.46
+148800,4.0,10000+,Insurance Carriers,Insurance,CT,data scientist,0.55
+119500,4.2,10000+,Business Consulting,Management & Consulting,AL,data scientist,0.4
+152650,4.2,10000+,Business Consulting,Management & Consulting,DC,data engineer,0.39
+118940,3.7,10000+,Health Care Services & Hospitals,Healthcare,OH,data scientist,0.28
+152650,4.2,10000+,Business Consulting,Management & Consulting,VA,data scientist,0.49
+116500,3.9,10000+,Investment & Asset Management,Financial Services,DE,data scientist,0.09
+125574,3.7,10000+,Health Care Services & Hospitals,Healthcare,IL,mle,0.42
+112500,3.8,1 - 50,HR Consulting,Human Resources & Staffing,Remote,data scientist,0.62
+101938,3.8,10000+,Information Technology Support Services,Information Technology,TX,data scientist,0.36
+84702,3.4,201 - 500,Information Technology Support Services,Information Technology,PA,data scientist,0.42
+105893,4.1,10000+,Accounting & Tax,Financial Services,VA,data scientist,0.29
+85600,3.7,10000+,Gambling,"Arts, Entertainment & Recreation",Remote,data scientist,0.51
+122582,3.1,10000+,Drug & Health Stores,Retail & Wholesale,IL,data scientist,0.17
+97800,3.5,1001 - 5000,Home Furniture & Housewares Stores,Retail & Wholesale,NC,data scientist,0.34
+93125,3.8,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.37
+89299,3.9,10000+,Food & Beverage Manufacturing,Manufacturing,PA,data scientist,0.43
+89477,4.4,10000+,Colleges & Universities,Education,MA,data scientist,0.2
+92581,4.0,51 - 200,Information Technology Support Services,Information Technology,NJ,data scientist,0.49
+95000,4.1,201 - 500,Business Consulting,Management & Consulting,Remote,analyst,0.5
+104894,2.2,51 - 200,Publishing,Media & Communication,NY,data scientist,0.43
+87500,3.9,5001 - 10000,Advertising & Public Relations,Media & Communication,NY,data scientist,0.22
+106973,3.1,10000+,Drug & Health Stores,Retail & Wholesale,IL,mle,0.41
+130000,3.9,10000+,Aerospace & Defense,Aerospace & Defense,VA,mle,0.32
+99288,4.7,201 - 500,Aerospace & Defense,Aerospace & Defense,FL,data scientist,0.22
+120000,3.7,51 - 200,Information Technology Support Services,Information Technology,Remote,data scientist,0.4
+95000,4.8,51 - 200,Municipal Agencies,Government & Public Administration,Remote,data scientist,0.58
+140000,4.3,201 - 500,Health Care Services & Hospitals,Healthcare,NE,data engineer,0.46
+150000,3.7,51 - 200,HR Consulting,Human Resources & Staffing,CO,data scientist,0.37
+98565,3.4,51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.26
+101124,4.4,1 - 50,Information Technology Support Services,Information Technology,MD,data scientist,0.5
+112675,3.7,1001 - 5000,Business Consulting,Management & Consulting,VA,data scientist,0.38
+115847,4.0,1001 - 5000,Aerospace & Defense,Aerospace & Defense,IN,mle,0.28
+97622,3.7,1001 - 5000,Business Consulting,Management & Consulting,AL,data engineer,0.37
+101890,5.0,1 - 50,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.4
+158250,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.42
+115158,3.7,1001 - 5000,Business Consulting,Management & Consulting,VA,statistician,0.36
+166600,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.49
+122828,3.4,1001 - 5000,Insurance Carriers,Insurance,MA,data scientist,0.35
+94272,3.5,1001 - 5000,Consumer Product Manufacturing,Manufacturing,NC,data engineer,0.35
+124100,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.44
+236000,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.37
+102500,3.1,51 - 200,Banking & Lending,Financial Services,FL,analyst,0.3
+229000,3.8,1 - 50,Shipping & Trucking,Transportation & Logistics,CA,mle,0.38
+194500,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.43
+104194,3.4,1 - 50,Software Development,Information Technology,TX,data scientist,0.39
+105976,3.9,5001 - 10000,Advertising & Public Relations,Media & Communication,IL,data scientist,0.39
+100882,3.7,1001 - 5000,Business Consulting,Management & Consulting,VA,data engineer,0.27
+135000,4.1,51 - 200,HR Consulting,Human Resources & Staffing,CT,data scientist,0.16
+105523,3.7,1001 - 5000,Business Consulting,Management & Consulting,DC,data scientist,0.39
+166600,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.28
+160000,4.3,501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MD,data scientist,0.43
+124261,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.25
+82662,3.4,201 - 500,Information Technology Support Services,Information Technology,PA,data engineer,0.44
+91653,3.4,201 - 500,Building & Personnel Services,Management & Consulting,TN,data scientist,0.45
+89373,4.1,501 - 1000,Computer Hardware Development,Information Technology,AZ,data scientist,0.46
+89373,3.8,5001 - 10000,Consumer Product Manufacturing,Manufacturing,WI,data scientist,0.32
+152650,4.2,10000+,Business Consulting,Management & Consulting,VA,data scientist,0.4
+120000,4.2,1001 - 5000,Colleges & Universities,Education,NY,data scientist,0.32
+121000,3.2,501 - 1000,Banking & Lending,Financial Services,TX,data scientist,0.6
+83505,4.6,51 - 200,National Agencies,Government & Public Administration,DC,analyst,0.47
+123464,4.1,201 - 500,Information Technology Support Services,Information Technology,DC,data architect,0.13
+143100,4.1,10000+,Banking & Lending,Financial Services,VA,data engineer,0.32
+130000,4.5,1 - 50,HR Consulting,Human Resources & Staffing,PA,data scientist,0.12
+175500,4.4,5001 - 10000,HR Consulting,Human Resources & Staffing,OR,mle,0.4
+150000,3.7,201 - 500,Shipping & Trucking,Transportation & Logistics,CO,data scientist,0.39
+120353,4.0,10000+,Insurance Carriers,Insurance,IL,data scientist,0.22
+132476,3.8,1001 - 5000,Beauty & Wellness,Personal Consumer Services,MD,data scientist,0.59
+115625,3.6,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.33
+148800,4.0,10000+,Insurance Carriers,Insurance,CT,data scientist,0.52
+124400,4.0,10000+,Aerospace & Defense,Aerospace & Defense,UT,data scientist,0.42
+243000,4.7,10000+,Computer Hardware Development,Information Technology,CA,data scientist,0.4
+173000,4.0,10000+,Insurance Carriers,Insurance,CT,data scientist,0.43
+210000,4.1,501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,mle,0.37
+82695,3.7,10000+,Machinery Manufacturing,Manufacturing,ME,data scientist,0.46
+117150,4.0,10000+,Insurance Carriers,Insurance,CT,data scientist,0.42
+80393,4.1,10000+,Accounting & Tax,Financial Services,VA,data scientist,0.53
+182000,3.9,10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.38
+222000,3.6,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.21
+150950,4.0,10000+,Insurance Carriers,Insurance,CT,data engineer,0.34
+150950,4.0,10000+,Insurance Carriers,Insurance,CT,data engineer,0.33
+151000,4.1,10000+,Accounting & Tax,Financial Services,CO,data scientist,0.44
+245500,4.0,10000+,Health Care Products Manufacturing,Manufacturing,CA,data scientist,0.42
+98486,3.0,501 - 1000,Banking & Lending,Financial Services,OR,data engineer,0.38
+114341,3.4,51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.43
+91937,3.7,51 - 200,Taxi & Car Services,Transportation & Logistics,IN,data engineer,0.44
+57524,3.6,1001 - 5000,HR Consulting,Human Resources & Staffing,MI,data scientist,0.49
+104945,3.2,201 - 500,Drug & Health Stores,Retail & Wholesale,PA,data engineer,0.3
+103554,4.5,51 - 200,Business Consulting,Management & Consulting,DC,data engineer,0.39
+87321,3.2,501 - 1000,Health Care Services & Hospitals,Healthcare,WA,data engineer,0.28
+98000,4.4,501 - 1000,Insurance Carriers,Insurance,NY,data engineer,0.33
+108655,3.5,1001 - 5000,Food & Beverage Manufacturing,Manufacturing,AR,data engineer,0.22
+113745,4.4,1001 - 5000,Banking & Lending,Financial Services,IL,data scientist,0.35
+116947,4.2,51 - 200,Enterprise Software & Network Solutions,Information Technology,OR,data engineer,0.46
+124601,3.4,1001 - 5000,Machinery Manufacturing,Manufacturing,MD,data engineer,0.27
+130500,4.0,51 - 200,Business Consulting,Management & Consulting,UT,data engineer,0.47
+148650,4.4,5001 - 10000,Energy & Utilities,"Energy, Mining & Utilities",CA,data scientist,0.24
+106038,4.0,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.38
+126291,4.0,501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NC,data engineer,0.42
+115595,4.2,51 - 200,Enterprise Software & Network Solutions,Information Technology,ID,data engineer,0.49
+61482,3.3,201 - 500,Aerospace & Defense,Aerospace & Defense,NY,data scientist,0.43
+105751,3.1,501 - 1000,Banking & Lending,Financial Services,NY,data engineer,0.61
+134000,4.4,51 - 200,Business Consulting,Management & Consulting,CA,data engineer,0.26
+80000,3.9,1001 - 5000,Mining & Metals,"Energy, Mining & Utilities",VA,data engineer,0.53
+212500,4.1,10000+,Computer Hardware Development,Information Technology,NY,mle,0.35
+99500,4.2,1001 - 5000,Metal & Mineral Manufacturing,Manufacturing,OH,data engineer,0.53
+127300,4.2,1001 - 5000,Health Care Services & Hospitals,Healthcare,TX,data engineer,0.32
+113650,3.9,501 - 1000,Health Care Services & Hospitals,Healthcare,Remote,data engineer,0.4
+115600,3.8,5001 - 10000,Wood & Paper Manufacturing,Manufacturing,WA,data engineer,0.33
+95700,4.2,10000+,Business Consulting,Management & Consulting,VA,data engineer,0.47
+123030,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data engineer,0.24
+157500,3.9,10000+,Health Care Services & Hospitals,Healthcare,Remote,data engineer,0.28
+101737,3.7,501 - 1000,Investment & Asset Management,Financial Services,TX,data engineer,0.18
+91748,4.5,1 - 50,Advertising & Public Relations,Media & Communication,GA,data engineer,0.29
+93125,3.8,1001 - 5000,Insurance Carriers,Insurance,NC,data engineer,0.37
+135420,3.8,10000+,Telecommunications Services,Telecommunications,CO,data engineer,0.35
+153550,3.9,10000+,Insurance Carriers,Insurance,NH,data engineer,0.67
+132500,3.3,1001 - 5000,Health Care Products Manufacturing,Manufacturing,CO,data engineer,0.39
+112381,3.9,10000+,Insurance Carriers,Insurance,MA,data scientist,0.52
+113986,4.4,10000+,Business Consulting,Management & Consulting,GA,data engineer,0.44
+124350,4.1,10000+,Banking & Lending,Financial Services,FL,data engineer,0.3
+125000,3.6,5001 - 10000,Business Consulting,Management & Consulting,Remote,data scientist,0.11
+170000,4.4,5001 - 10000,HR Consulting,Human Resources & Staffing,OR,data engineer,0.37
+155811,3.8,10000+,Telecommunications Services,Telecommunications,PA,data scientist,0.37
+89257,4.2,51 - 200,Business Consulting,Management & Consulting,FL,data scientist,0.56
+104047,4.4,51 - 200,Information Technology Support Services,Information Technology,MN,data engineer,0.45
+142500,4.3,201 - 500,Security & Protective,Management & Consulting,NY,data engineer,0.17
+89338,3.5,5001 - 10000,Wholesale,Retail & Wholesale,WI,data engineer,0.28
+70602,3.8,1001 - 5000,Investment & Asset Management,Financial Services,OK,data engineer,0.16
+91588,4.1,1001 - 5000,Vehicle Dealers,Retail & Wholesale,OK,data scientist,0.25
+100363,3.4,10000+,Insurance Agencies & Brokerages,Insurance,IL,data engineer,0.32
+166250,3.6,51 - 200,Internet & Web Services,Information Technology,CA,data engineer,0.42
+105000,3.1,10000+,Health Care Services & Hospitals,Healthcare,TX,data engineer,0.62
+97163,3.2,201 - 500,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.32
+98800,4.0,1001 - 5000,Computer Hardware Development,Information Technology,CA,data engineer,0.49
+101500,4.1,1001 - 5000,Investment & Asset Management,Financial Services,DC,data engineer,0.31
+111922,2.7,5001 - 10000,Banking & Lending,Financial Services,MI,data scientist,0.38
+82200,3.5,10000+,Catering & Food Service Contractors,Restaurants & Food Service,NY,data engineer,0.3
+110500,3.9,10000+,Business Consulting,Management & Consulting,TX,data engineer,0.49
+150000,3.9,10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.46
+80414,4.6,1001 - 5000,Banking & Lending,Financial Services,ID,data engineer,0.29
+102499,3.4,10000+,Health Care Services & Hospitals,Healthcare,MN,data scientist,0.23
+171620,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.45
+98800,4.0,1001 - 5000,Computer Hardware Development,Information Technology,Remote,data scientist,0.4
+200000,4.1,10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.3
+113616,4.0,1001 - 5000,Rail Transportation,Transportation & Logistics,IL,data engineer,0.28
+145500,4.0,51 - 200,Business Consulting,Management & Consulting,CA,data engineer,0.47
+118329,4.1,1001 - 5000,Construction,"Construction, Repair & Maintenance Services",TX,data engineer,0.4
+90041,3.8,1001 - 5000,Farm Support,Agriculture,KY,data engineer,0.58
+92419,3.7,1001 - 5000,Business Consulting,Management & Consulting,AL,data engineer,0.32
+87425,3.9,10000+,Aerospace & Defense,Aerospace & Defense,MO,data scientist,0.25
+200000,4.1,10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.41
+106301,3.6,10000+,Health Care Products Manufacturing,Manufacturing,IL,data engineer,0.56
+95650,4.2,10000+,Business Consulting,Management & Consulting,HI,data engineer,0.39
+75000,4.3,1001 - 5000,Construction,"Construction, Repair & Maintenance Services",OH,data scientist,0.23
+120000,4.3,201 - 500,Other Retail Stores,Retail & Wholesale,Remote,data engineer,0.43
+119665,3.9,10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.43
+80874,4.3,1001 - 5000,Construction,"Construction, Repair & Maintenance Services",IL,data scientist,0.39
+106810,3.0,5001 - 10000,Internet & Web Services,Information Technology,PA,data engineer,0.48
+100020,3.5,5001 - 10000,Wholesale,Retail & Wholesale,WI,data engineer,0.28
+84000,3.9,10000+,Aerospace & Defense,Aerospace & Defense,VA,data engineer,0.2
+85027,3.4,1001 - 5000,Crop Production,Agriculture,LA,data engineer,0.16
+114436,4.0,10000+,Insurance Agencies & Brokerages,Insurance,NC,data engineer,0.42
+96135,4.0,51 - 200,Staffing & Subcontracting,Human Resources & Staffing,TX,data engineer,0.38
+84356,3.7,1001 - 5000,Business Consulting,Management & Consulting,AL,data engineer,0.28
+109174,3.5,1001 - 5000,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.21
+96447,3.3,10000+,Grocery Stores,Retail & Wholesale,MI,data engineer,0.3
+135900,4.0,10000+,Insurance Carriers,Insurance,CT,data engineer,0.32
+94394,3.5,10000+,Banking & Lending,Financial Services,UT,data engineer,0.31
+151400,4.1,10000+,National Agencies,Government & Public Administration,NM,data scientist,0.39
+123500,4.2,10000+,Consumer Product Manufacturing,Manufacturing,NJ,data scientist,0.45
+126800,4.0,10000+,Aerospace & Defense,Aerospace & Defense,AZ,data scientist,0.33
+157500,3.9,501 - 1000,Information Technology Support Services,Information Technology,MD,data engineer,0.46
+116993,4.3,1001 - 5000,Computer Hardware Development,Information Technology,WA,data scientist,0.44
+82200,3.5,10000+,Catering & Food Service Contractors,Restaurants & Food Service,GA,data engineer,0.3
+109500,3.4,10000+,Insurance Agencies & Brokerages,Insurance,IL,data scientist,0.3
+90000,3.4,201 - 500,Automotive Parts & Accessories Stores,Retail & Wholesale,Remote,data engineer,0.34
+112569,3.9,1001 - 5000,Banking & Lending,Financial Services,MD,data scientist,0.23
+134390,4.1,10000+,Computer Hardware Development,Information Technology,NJ,data scientist,0.42
+60055,3.6,51 - 200,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",MI,data scientist,0.14
+91687,3.0,1001 - 5000,Health Care Services & Hospitals,Healthcare,FL,data scientist,0.28
+91687,3.9,1 - 50,Insurance Carriers,Insurance,MI,data engineer,0.28
+101484,3.6,10000+,Information Technology Support Services,Information Technology,MA,data engineer,0.31
+114410,2.6,51 - 200,Health Care Services & Hospitals,Healthcare,TX,data engineer,0.54
+85648,3.3,51 - 200,Energy & Utilities,"Energy, Mining & Utilities",TX,data engineer,0.44
+133571,4.6,51 - 200,Information Technology Support Services,Information Technology,NY,data engineer,0.33
+103000,4.0,1001 - 5000,Business Consulting,Management & Consulting,NY,data engineer,0.29
+73651,3.0,10000+,Other Retail Stores,Retail & Wholesale,IN,data engineer,0.27
+112000,3.3,501 - 1000,Health Care Services & Hospitals,Healthcare,Remote,data engineer,0.34
+79761,4.6,1001 - 5000,Insurance Agencies & Brokerages,Insurance,IA,data engineer,0.42
+88500,3.0,1001 - 5000,Education & Training Services,Education,IL,data engineer,0.43
+225000,5.0,1 - 50,Enterprise Software & Network Solutions,Information Technology,NY,data engineer,0.21
+93588,4.3,201 - 500,Computer Hardware Development,Information Technology,WI,data engineer,0.11
+73000,3.1,1 - 50,Enterprise Software & Network Solutions,Information Technology,CA,data engineer,0.36
+107959,3.4,1 - 50,HR Consulting,Human Resources & Staffing,MD,data engineer,0.67
+83490,3.9,10000+,Aerospace & Defense,Aerospace & Defense,WA,data scientist,0.24
+51918,3.5,10000+,Construction,"Construction, Repair & Maintenance Services",CO,data scientist,0.32
+70000,4.4,51 - 200,Energy & Utilities,"Energy, Mining & Utilities",CO,data scientist,0.37
+71994,4.7,51 - 200,Software Development,Information Technology,MD,data scientist,0.44
+95249,4.4,1001 - 5000,Business Consulting,Management & Consulting,VA,data scientist,0.39
+94315,4.0,1001 - 5000,Software Development,Information Technology,PA,data scientist,0.24
+91239,3.9,10000+,Health Care Services & Hospitals,Healthcare,MN,analyst,0.31
+128000,3.0,201 - 500,Computer Hardware Development,Information Technology,Remote,data scientist,0.51
+87400,3.6,5001 - 10000,Health Care Services & Hospitals,Healthcare,CO,data scientist,0.18
+102170,5.0,1 - 50,Energy & Utilities,"Energy, Mining & Utilities",TX,data scientist,0.52
+65000,4.3,1 - 50,Computer Hardware Development,Information Technology,Remote,data scientist,0.3
+107121,3.9,1 - 50,Business Consulting,Management & Consulting,VA,data scientist,0.21
+125000,4.0,51 - 200,Publishing,Media & Communication,NY,data scientist,0.26
+130941,3.8,201 - 500,Other Retail Stores,Retail & Wholesale,MN,data scientist,0.3
+110524,3.9,1001 - 5000,Business Consulting,Management & Consulting,MA,data scientist,0.35
+93273,4.5,51 - 200,Health Care Services & Hospitals,Healthcare,UT,data scientist,0.49
+102485,3.9,1001 - 5000,Legal,Legal,TX,data scientist,0.35
+93987,4.5,51 - 200,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.34
+112210,4.4,51 - 200,Enterprise Software & Network Solutions,Information Technology,VA,data scientist,0.53
+115564,4.4,51 - 200,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.55
+105382,4.0,10000+,Energy & Utilities,"Energy, Mining & Utilities",CO,data scientist,0.4
+130000,3.8,1001 - 5000,Publishing,Media & Communication,Remote,data scientist,0.25
+100957,3.9,501 - 1000,Colleges & Universities,Education,IA,data scientist,0.36
+107574,4.1,10000+,Aerospace & Defense,Aerospace & Defense,NJ,mle,0.29
+111397,4.1,10000+,Energy & Utilities,"Energy, Mining & Utilities",TX,data scientist,0.35
+105000,4.3,51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.44
+116848,4.2,51 - 200,Computer Hardware Development,Information Technology,MI,data engineer,0.19
+95221,4.7,51 - 200,Enterprise Software & Network Solutions,Information Technology,TX,data scientist,0.27
+126583,4.0,51 - 200,Information Technology Support Services,Information Technology,VA,data engineer,0.22
+86370,3.8,501 - 1000,Information Technology Support Services,Information Technology,MI,data engineer,0.16
+120000,4.8,201 - 500,Energy & Utilities,"Energy, Mining & Utilities",TX,data engineer,0.42
+80605,3.3,201 - 500,Taxi & Car Services,Transportation & Logistics,IL,data engineer,0.5
+175000,4.0,10000+,General Merchandise & Superstores,Retail & Wholesale,WA,data engineer,0.3
+112500,4.2,1 - 50,Aerospace & Defense,Aerospace & Defense,MD,data engineer,0.43
+112500,4.0,1001 - 5000,Business Consulting,Management & Consulting,WA,data engineer,0.37
+82757,3.8,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MD,statistician,0.15
+85000,2.9,51 - 200,Health Care Services & Hospitals,Healthcare,Remote,statistician,0.24
+48500,4.1,5001 - 10000,Colleges & Universities,Education,DC,data scientist,-0.2
+147500,4.5,201 - 500,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.11
+99989,5.0,1 - 50,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,PA,data scientist,0.27
+81569,4.5,201 - 500,HR Consulting,Human Resources & Staffing,NJ,statistician,0.29
+123521,5.0,1 - 50,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.23
+94016,4.3,10000+,Colleges & Universities,Education,CA,analyst,0.35
+115500,4.1,10000+,Farm Support,Agriculture,IN,research scientist,0.32
+118873,3.4,51 - 200,Business Consulting,Management & Consulting,VA,data scientist,0.15
+118831,3.7,1001 - 5000,Research & Development,Management & Consulting,MD,statistician,0.35
+84768,3.9,10000+,National Agencies,Government & Public Administration,NM,statistician,0.2
+80800,4.1,51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,WA,data scientist,0.32
+65050,4.1,1 - 50,Colleges & Universities,Education,NC,statistician,0.48
+78199,4.1,10000+,Colleges & Universities,Education,NC,statistician,0.27
+87200,4.0,10000+,Health Care Services & Hospitals,Healthcare,NY,statistician,0.11
+72500,3.9,10000+,Health Care Services & Hospitals,Healthcare,TX,statistician,0.12
+131474,3.0,1 - 50,Health Care Services & Hospitals,Healthcare,CA,statistician,0.26
+63650,4.2,10000+,Colleges & Universities,Education,UT,statistician,0.18
+121500,4.2,10000+,Consumer Product Manufacturing,Manufacturing,OH,data scientist,0.34
+70000,4.0,1001 - 5000,Civic & Social Services,Nonprofit & NGO,NC,statistician,0.11
+105935,4.2,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,IL,data scientist,0.33
+164531,4.1,501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,DE,data scientist,0.3
+111196,3.6,501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,statistician,0.31
+112650,4.1,51 - 200,Health Care Services & Hospitals,Healthcare,MA,statistician,0.45
+130807,4.3,201 - 500,Biotechnology,Pharmaceutical & Biotechnology,CA,data scientist,0.21
+78591,4.2,10000+,Colleges & Universities,Education,IL,statistician,0.17
+76746,3.9,5001 - 10000,Colleges & Universities,Education,TX,statistician,0.26
+70644,3.8,10000+,Health Care Services & Hospitals,Healthcare,IA,statistician,0.21
+60750,4.1,10000+,Colleges & Universities,Education,NY,data scientist,0.53
+114670,3.8,10000+,National Agencies,Government & Public Administration,VA,statistician,0.18
+107500,4.3,10000+,Colleges & Universities,Education,CA,statistician,0.24
+73015,3.6,201 - 500,Health Care Services & Hospitals,Healthcare,IL,statistician,0.29
+83836,4.3,10000+,Colleges & Universities,Education,CA,statistician,0.11
+72590,3.9,1001 - 5000,Research & Development,Management & Consulting,IL,statistician,0.23
+111196,3.6,501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,statistician,0.31
+98517,4.1,1001 - 5000,Civic & Social Services,Nonprofit & NGO,WA,statistician,0.17
+47012,3.9,10000+,Health Care Services & Hospitals,Healthcare,FL,data scientist,0.3
+86262,3.9,10000+,Aerospace & Defense,Aerospace & Defense,TX,statistician,0.31
+50329,4.1,10000+,Colleges & Universities,Education,NY,data scientist,0.23
+72134,4.4,10000+,Colleges & Universities,Education,MI,data scientist,0.29
+93177,4.0,1001 - 5000,Health Care Services & Hospitals,Healthcare,NY,statistician,0.52
+70004,3.9,10000+,Health Care Services & Hospitals,Healthcare,OH,analyst,0.15
+60750,4.1,10000+,Colleges & Universities,Education,NY,data scientist,0.46
+71701,4.2,5001 - 10000,Colleges & Universities,Education,TX,data scientist,0.24
+130855,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NC,statistician,0.35
+93908,3.6,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,statistician,0.35
+84286,4.0,10000+,Health Care Services & Hospitals,Healthcare,MA,data scientist,0.27
+82901,4.0,51 - 200,Biotechnology,Pharmaceutical & Biotechnology,TX,statistician,0.33
+98334,4.1,10000+,Farm Support,Agriculture,IL,statistician,0.5
+49001,4.1,5001 - 10000,Colleges & Universities,Education,SC,analyst,0.35
+134000,4.0,10000+,Health Care Products Manufacturing,Manufacturing,CA,statistician,0.24
+92448,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CT,statistician,0.35
+109621,4.1,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,PA,statistician,0.35
+93500,3.9,10000+,Health Care Services & Hospitals,Healthcare,Remote,statistician,0.28
+110834,4.2,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,statistician,0.21
+78740,4.3,10000+,Colleges & Universities,Education,CA,analyst,0.24
+115500,4.1,10000+,Farm Support,Agriculture,IN,research scientist,0.33
+115000,3.7,51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,statistician,0.5
+97062,4.0,1001 - 5000,Health Care Services & Hospitals,Healthcare,NY,analyst,0.35
+100638,3.9,5001 - 10000,Food & Beverage Manufacturing,Manufacturing,IL,data scientist,0.46
+120000,3.9,10000+,Aerospace & Defense,Aerospace & Defense,VA,mle,0.46
+205000,4.1,10000+,Computer Hardware Development,Information Technology,NY,statistician,0.34
+164600,4.3,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.31
+145000,4.3,501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,IL,data scientist,0.4
+116383,4.1,201 - 500,Business Consulting,Management & Consulting,GA,data scientist,0.3
+136508,3.3,10000+,Colleges & Universities,Education,Remote,data scientist,0.26
+121142,4.1,5001 - 10000,Machinery Manufacturing,Manufacturing,WA,mle,0.34
+189971,3.8,10000+,Telecommunications Services,Telecommunications,CA,data scientist,0.28
+114579,4.5,201 - 500,Information Technology Support Services,Information Technology,DC,data scientist,0.46
+70229,3.5,10000+,Food & Beverage Manufacturing,Manufacturing,AR,data scientist,0.29
+185000,3.7,10000+,Investment & Asset Management,Financial Services,Remote,mle,0.41
+146250,3.7,201 - 500,Business Consulting,Management & Consulting,Remote,data engineer,0.47
+160000,4.1,51 - 200,HR Consulting,Human Resources & Staffing,OH,data scientist,0.35
+141000,3.6,5001 - 10000,Business Consulting,Management & Consulting,NC,data scientist,0.36
+134100,4.1,10000+,Banking & Lending,Financial Services,VA,data scientist,0.35
+120000,4.5,1 - 50,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.3
+160000,4.2,1 - 50,HR Consulting,Human Resources & Staffing,TX,data scientist,0.23
+182375,3.4,10000+,Insurance Agencies & Brokerages,Insurance,IL,data scientist,0.35
+160500,4.4,5001 - 10000,HR Consulting,Human Resources & Staffing,OR,mle,0.4
+193300,3.9,10000+,"Airlines, Airports & Air Transportation",Transportation & Logistics,WA,data scientist,0.35
+106345,4.2,201 - 500,Staffing & Subcontracting,Human Resources & Staffing,TX,mle,0.34
+123460,3.9,1001 - 5000,HR Consulting,Human Resources & Staffing,AZ,mle,0.29
+93698,3.7,10000+,Investment & Asset Management,Financial Services,NC,analyst,0.34
+82640,4.5,201 - 500,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.15
+101000,3.0,1001 - 5000,Insurance Carriers,Insurance,NJ,analyst,0.28
+150000,4.5,201 - 500,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.12
+72940,3.3,10000+,Colleges & Universities,Education,Remote,analyst,0.48
+101335,3.3,10000+,Preschools & Child Care Services,Education,TX,analyst,0.15
+114943,4.0,1001 - 5000,Chemical Manufacturing,Manufacturing,TX,data scientist,0.31
+120100,4.0,1001 - 5000,Insurance Carriers,Insurance,CA,analyst,0.38
+90000,4.0,5001 - 10000,Metal & Mineral Manufacturing,Manufacturing,AL,data scientist,0.31
+46073,3.1,201 - 500,Machinery Manufacturing,Manufacturing,NJ,data scientist,0.17
+116000,3.0,201 - 500,Construction,"Construction, Repair & Maintenance Services",CO,data scientist,0.38
+75460,3.7,201 - 500,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",IL,data scientist,0.44
+63094,3.1,201 - 500,Machinery Manufacturing,Manufacturing,MN,data scientist,0.26
+55000,5.0,1 - 50,Construction,"Construction, Repair & Maintenance Services",ID,data scientist,0.34
+105000,3.5,1001 - 5000,Metal & Mineral Manufacturing,Manufacturing,OH,data scientist,0.43
+65000,5.0,201 - 500,Construction,"Construction, Repair & Maintenance Services",TX,data scientist,0.41
+72500,1.4,51 - 200,Machinery Manufacturing,Manufacturing,NY,data scientist,0.23
+55000,3.5,201 - 500,Machinery Manufacturing,Manufacturing,IA,data scientist,0.29
+162500,4.8,51 - 200,Information Technology Support Services,Information Technology,HI,data scientist,0.42
+107500,3.7,10000+,Chemical Manufacturing,Manufacturing,UT,data scientist,0.31
+70000,2.8,501 - 1000,Metal & Mineral Manufacturing,Manufacturing,IL,data scientist,0.32
+53956,3.3,51 - 200,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",MD,data scientist,0.29
+47217,4.0,1001 - 5000,Computer Hardware Development,Information Technology,IL,data scientist,0.36
+87500,3.7,51 - 200,Publishing,Media & Communication,MO,data scientist,0.36
+72279,3.7,51 - 200,Construction,"Construction, Repair & Maintenance Services",NJ,data scientist,0.4
+137500,2.3,1 - 50,Automotive Parts & Accessories Stores,Retail & Wholesale,CA,data scientist,0.34
+84735,4.3,201 - 500,Advertising & Public Relations,Media & Communication,IL,data scientist,0.29
+83500,2.8,201 - 500,Consumer Product Manufacturing,Manufacturing,SC,data scientist,0.48
+160000,4.1,1 - 50,HR Consulting,Human Resources & Staffing,CA,data scientist,0.43
+70918,3.3,501 - 1000,Computer Hardware Development,Information Technology,NY,data scientist,0.37
+69365,4.3,201 - 500,National Agencies,Government & Public Administration,MN,data scientist,0.21
+52500,3.4,10000+,Transportation Equipment Manufacturing,Manufacturing,OH,data scientist,0.21
+72770,3.7,51 - 200,Food & Beverage Manufacturing,Manufacturing,OH,data scientist,0.31
+46890,4.3,51 - 200,Metal & Mineral Manufacturing,Manufacturing,KS,data scientist,0.46
+87500,3.3,1001 - 5000,Consumer Product Manufacturing,Manufacturing,NY,data scientist,0.24
+90000,4.0,1 - 50,Accounting & Tax,Financial Services,NJ,data scientist,0.44
+60000,3.4,5001 - 10000,Advertising & Public Relations,Media & Communication,TN,data scientist,0.25
+160000,3.2,501 - 1000,Electronics Manufacturing,Manufacturing,CA,data scientist,0.36
+65000,5.0,201 - 500,Construction,"Construction, Repair & Maintenance Services",AL,data scientist,0.41
+120000,3.9,10000+,Machinery Manufacturing,Manufacturing,IN,data scientist,0.66
+115000,2.9,1001 - 5000,Machinery Manufacturing,Manufacturing,NH,data scientist,0.29
+115000,3.0,51 - 200,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",CA,data scientist,0.46
+69559,3.4,1001 - 5000,Consumer Product Manufacturing,Manufacturing,WI,data scientist,0.33
+72642,5.0,1 - 50,Construction,"Construction, Repair & Maintenance Services",ID,data scientist,0.33
+108000,4.0,1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",OK,data scientist,0.25
+72500,2.8,501 - 1000,Metal & Mineral Manufacturing,Manufacturing,IL,data scientist,0.32
+73049,3.0,201 - 500,Machinery Manufacturing,Manufacturing,DE,data scientist,0.39
+96878,3.4,501 - 1000,Construction,"Construction, Repair & Maintenance Services",NY,data scientist,0.19
+117500,3.9,51 - 200,Food & Beverage Manufacturing,Manufacturing,CA,data scientist,0.44
+122500,3.6,1001 - 5000,HR Consulting,Human Resources & Staffing,VA,data scientist,0.32
+75000,3.8,201 - 500,Machinery Manufacturing,Manufacturing,IL,data scientist,0.34
+101525,3.2,1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",OK,data scientist,0.4
+68993,3.4,1001 - 5000,Machinery Manufacturing,Manufacturing,OH,data scientist,0.2
+62217,3.3,1001 - 5000,Electronics Manufacturing,Manufacturing,OH,data scientist,0.32
+86709,2.9,1001 - 5000,Machinery Manufacturing,Manufacturing,NH,data scientist,0.37
+76500,3.6,1001 - 5000,Consumer Product Manufacturing,Manufacturing,OH,data scientist,0.32
+137500,2.3,1 - 50,Automotive Parts & Accessories Stores,Retail & Wholesale,CA,data scientist,0.32
+205000,4.1,10000+,Computer Hardware Development,Information Technology,NY,mle,0.39
+150000,4.1,10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.39
+97000,3.9,10000+,Aerospace & Defense,Aerospace & Defense,OH,data scientist,0.23
+212500,4.1,10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.34
+90000,3.1,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,IL,analyst,0.32
+154200,4.0,10000+,Aerospace & Defense,Aerospace & Defense,UT,data scientist,0.42
+212500,4.1,10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.35
+102500,3.1,51 - 200,Banking & Lending,Financial Services,NY,analyst,0.3
+143100,4.1,10000+,Banking & Lending,Financial Services,VA,data engineer,0.32
+140000,3.7,10000+,Investment & Asset Management,Financial Services,Remote,mle,0.45
+171200,4.2,1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.29
+149513,4.3,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,mle,0.24
+120000,3.5,1001 - 5000,Business Consulting,Management & Consulting,WA,analyst,0.31
+121163,3.4,10000+,Insurance Agencies & Brokerages,Insurance,IL,data scientist,0.34
+190000,3.6,10000+,Information Technology Support Services,Information Technology,MD,data scientist,0.17
+133405,4.0,51 - 200,Staffing & Subcontracting,Human Resources & Staffing,MA,mle,0.3
+127158,4.1,501 - 1000,Energy & Utilities,"Energy, Mining & Utilities",WA,analyst,0.23
+72784,4.3,51 - 200,Education & Training Services,Education,AL,data scientist,0.17
+81038,3.8,10000+,Health Care Products Manufacturing,Manufacturing,MA,analyst,0.29
+140000,4.0,1 - 50,Advertising & Public Relations,Media & Communication,Remote,mle,0.28
+137500,3.3,201 - 500,Computer Hardware Development,Information Technology,NY,data scientist,0.39
+107697,3.6,51 - 200,Investment & Asset Management,Financial Services,TX,data scientist,0.3
+91283,4.7,51 - 200,Information Technology Support Services,Information Technology,VA,data scientist,0.53
+76922,2.5,501 - 1000,Health Care Services & Hospitals,Healthcare,TX,data scientist,0.33
+91507,3.6,501 - 1000,Research & Development,Management & Consulting,MD,data scientist,0.36
+105000,3.7,51 - 200,Internet & Web Services,Information Technology,NY,mle,0.4
+99954,4.6,51 - 200,Energy & Utilities,"Energy, Mining & Utilities",CT,data scientist,0.58
+159847,4.5,501 - 1000,Internet & Web Services,Information Technology,CA,data scientist,0.38
+90000,3.1,51 - 200,Advertising & Public Relations,Media & Communication,WA,data scientist,0.36
+84493,3.5,10000+,Wholesale,Retail & Wholesale,TX,data scientist,0.37
+103862,4.4,501 - 1000,Insurance Carriers,Insurance,OH,data scientist,0.44
+63000,2.9,51 - 200,Civic & Social Services,Nonprofit & NGO,SC,data scientist,0.29
+88650,3.8,51 - 200,Health Care Services & Hospitals,Healthcare,WA,analyst,0.21
+64914,3.3,1001 - 5000,Machinery Manufacturing,Manufacturing,IN,analyst,0.55
+63000,3.8,201 - 500,Primary & Secondary Schools,Education,PA,analyst,0.56
+83555,3.8,51 - 200,Health Care Services & Hospitals,Healthcare,NY,analyst,0.37
+78477,3.9,1001 - 5000,Investment & Asset Management,Financial Services,MA,analyst,0.46
+60696,3.5,1001 - 5000,Debt Relief,Financial Services,VA,analyst,0.7
+86250,3.0,1001 - 5000,Health Care Services & Hospitals,Healthcare,MD,analyst,0.48
+67092,3.5,501 - 1000,Consumer Product Manufacturing,Manufacturing,CA,analyst,0.24
+59986,4.4,501 - 1000,Insurance Carriers,Insurance,OR,analyst,0.26
+65000,3.4,1 - 50,State & Regional Agencies,Government & Public Administration,WV,analyst,0.29
+38539,3.7,51 - 200,Primary & Secondary Schools,Education,MN,analyst,0.31
+61512,4.0,201 - 500,Automotive Parts & Accessories Stores,Retail & Wholesale,PA,analyst,0.49
+56329,3.3,1001 - 5000,Insurance Carriers,Insurance,MN,analyst,0.29
+67742,3.0,501 - 1000,Banking & Lending,Financial Services,PA,analyst,0.3
+62121,3.5,10000+,Health Care Services & Hospitals,Healthcare,PA,analyst,0.33
+63760,3.9,51 - 200,Civic & Social Services,Nonprofit & NGO,IL,analyst,0.72
+71996,3.4,10000+,Primary & Secondary Schools,Education,CO,analyst,0.31
+73500,3.4,1001 - 5000,Health Care Services & Hospitals,Healthcare,CT,analyst,0.42
+70000,2.5,201 - 500,Travel Agencies,Hotels & Travel Accommodation,TX,analyst,0.31
+75526,2.8,1 - 50,Machinery Manufacturing,Manufacturing,MN,analyst,0.58
+71329,4.2,501 - 1000,Energy & Utilities,"Energy, Mining & Utilities",WV,analyst,0.49
+67192,3.2,51 - 200,Machinery Manufacturing,Manufacturing,CT,analyst,0.31
+53468,3.5,51 - 200,Shipping & Trucking,Transportation & Logistics,IN,analyst,0.47
+70093,4.4,501 - 1000,Business Consulting,Management & Consulting,NE,analyst,0.41
+67005,4.0,201 - 500,Insurance Agencies & Brokerages,Insurance,RI,analyst,0.26
+60639,3.7,5001 - 10000,Wood & Paper Manufacturing,Manufacturing,TN,analyst,0.34
+72500,3.5,51 - 200,Energy & Utilities,"Energy, Mining & Utilities",PA,analyst,0.56
+76105,4.1,10000+,Energy & Utilities,"Energy, Mining & Utilities",DE,analyst,0.28
+73417,3.0,501 - 1000,Real Estate,Real Estate,GA,analyst,0.43
+60000,3.3,51 - 200,Civic & Social Services,Nonprofit & NGO,OK,analyst,0.29
+93554,4.1,10000+,Electronics Manufacturing,Manufacturing,CA,analyst,0.27
+71219,3.3,1001 - 5000,State & Regional Agencies,Government & Public Administration,KS,analyst,0.32
+47000,4.3,501 - 1000,Internet & Web Services,Information Technology,PA,analyst,0.54
+54501,4.1,201 - 500,Health Care Services & Hospitals,Healthcare,NE,analyst,0.59
+58764,3.9,10000+,Health Care Services & Hospitals,Healthcare,FL,analyst,0.31
+95000,4.0,1001 - 5000,Insurance Carriers,Insurance,FL,analyst,0.27
+100970,3.7,10000+,"Department, Clothing & Shoe Stores",Retail & Wholesale,NJ,analyst,0.63
+55574,3.9,1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",TX,analyst,0.14
+55691,3.6,10000+,Health Care Services & Hospitals,Healthcare,DE,analyst,0.5
+62500,5.0,1 - 50,HR Consulting,Human Resources & Staffing,OK,analyst,0.49
+65000,3.2,51 - 200,Transportation Equipment Manufacturing,Manufacturing,NY,analyst,0.36
+61643,3.5,501 - 1000,Banking & Lending,Financial Services,AZ,analyst,0.25
+228800,3.7,1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",TX,analyst,0.28
+75131,3.0,501 - 1000,Sports & Recreation,"Arts, Entertainment & Recreation",MN,analyst,0.43
+61294,3.8,501 - 1000,Security & Protective,Management & Consulting,NJ,analyst,0.32
+65000,2.6,201 - 500,Health Care Products Manufacturing,Manufacturing,IL,analyst,0.42
+44658,4.1,501 - 1000,Colleges & Universities,Education,IL,analyst,0.55
+60000,4.0,1 - 50,Business Consulting,Management & Consulting,MD,analyst,0.39
+52128,3.4,5001 - 10000,Machinery Manufacturing,Manufacturing,PA,analyst,0.23
+64735,3.6,1001 - 5000,Wholesale,Retail & Wholesale,OH,analyst,0.25
+65080,3.4,10000+,Shipping & Trucking,Transportation & Logistics,NJ,analyst,0.33
+49222,2.9,1001 - 5000,Health Care Services & Hospitals,Healthcare,AZ,analyst,0.58
+70000,4.0,501 - 1000,Health Care Services & Hospitals,Healthcare,CA,analyst,0.18
+70274,3.2,10000+,Food & Beverage Manufacturing,Manufacturing,GA,analyst,0.27
+66474,3.9,10000+,Food & Beverage Manufacturing,Manufacturing,IL,analyst,0.4
+87422,3.1,501 - 1000,Health Care Services & Hospitals,Healthcare,WA,data engineer,0.28
+100080,4.0,501 - 1000,Energy & Utilities,"Energy, Mining & Utilities",WA,data engineer,0.19
+105000,4.5,51 - 200,Enterprise Software & Network Solutions,Information Technology,MN,data engineer,0.49
+110996,3.0,501 - 1000,Health Care Services & Hospitals,Healthcare,CA,data engineer,0.29
+132500,3.4,1001 - 5000,Health Care Products Manufacturing,Manufacturing,CO,data engineer,0.39
+93867,3.7,5001 - 10000,Insurance Carriers,Insurance,MN,data scientist,0.38
+130000,3.8,201 - 500,Sports & Recreation,"Arts, Entertainment & Recreation",NY,data engineer,0.44
+125000,4.0,201 - 500,Shipping & Trucking,Transportation & Logistics,MN,data engineer,0.27
+123750,3.7,10000+,Beauty & Wellness,Personal Consumer Services,TX,data engineer,0.53
+108000,4.0,1001 - 5000,Business Consulting,Management & Consulting,WA,data engineer,0.29
+79446,3.7,201 - 500,Software Development,Information Technology,GA,data engineer,0.42
+100219,3.6,51 - 200,Information Technology Support Services,Information Technology,OH,data engineer,0.99
+87409,4.4,201 - 500,Software Development,Information Technology,UT,data engineer,0.35
+99000,3.4,501 - 1000,Publishing,Media & Communication,NY,data engineer,0.48
+64000,4.1,1 - 50,Accounting & Tax,Financial Services,Remote,data engineer,0.32
+75715,3.8,501 - 1000,Culture & Entertainment,"Arts, Entertainment & Recreation",TN,data engineer,0.41
+114026,3.7,10000+,Computer Hardware Development,Information Technology,TX,data engineer,0.14
+117327,4.2,51 - 200,Insurance Agencies & Brokerages,Insurance,NY,data engineer,0.51
+88197,4.1,201 - 500,Information Technology Support Services,Information Technology,TX,data engineer,0.98
+87017,3.2,51 - 200,Financial Transaction Processing,Financial Services,MT,data engineer,0.37
+90000,3.7,51 - 200,Enterprise Software & Network Solutions,Information Technology,CO,data scientist,0.47
+98843,4.1,201 - 500,Information Technology Support Services,Information Technology,TX,data engineer,0.19
+85515,3.0,1001 - 5000,Food & Beverage Manufacturing,Manufacturing,TN,data engineer,0.21
+130500,3.8,51 - 200,Business Consulting,Management & Consulting,UT,data engineer,0.47
+110000,4.6,1001 - 5000,HR Consulting,Human Resources & Staffing,NY,data engineer,0.45
+72500,4.4,51 - 200,Information Technology Support Services,Information Technology,NJ,data engineer,0.44
+120000,4.1,201 - 500,Other Retail Stores,Retail & Wholesale,Remote,data engineer,0.43
+110000,3.7,5001 - 10000,Vehicle Dealers,Retail & Wholesale,Remote,data engineer,0.81
+99026,3.0,51 - 200,Business Consulting,Management & Consulting,VA,data engineer,0.48
+108057,4.6,201 - 500,Information Technology Support Services,Information Technology,WA,data engineer,0.4
+112500,3.8,1001 - 5000,Other Retail Stores,Retail & Wholesale,NY,data engineer,0.36
+106112,3.7,1001 - 5000,Aerospace & Defense,Aerospace & Defense,TX,data engineer,0.38
+90041,3.7,1001 - 5000,Farm Support,Agriculture,KY,data engineer,0.58
+145000,4.6,51 - 200,Information Technology Support Services,Information Technology,TX,data engineer,0.7
+148500,3.3,201 - 500,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.32
+109242,3.7,1001 - 5000,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.21
+112500,4.6,201 - 500,Information Technology Support Services,Information Technology,DC,data engineer,0.48
+114545,4.0,1 - 50,Banking & Lending,Financial Services,KS,data scientist,0.31
+99288,4.5,201 - 500,Aerospace & Defense,Aerospace & Defense,FL,data scientist,0.22
+130000,3.8,10000+,Aerospace & Defense,Aerospace & Defense,VA,mle,0.32
+89628,4.0,1 - 50,Banking & Lending,Financial Services,KS,data scientist,0.29
+134799,4.1,1001 - 5000,Metal & Mineral Manufacturing,Manufacturing,WI,data scientist,0.25
+117954,2.8,5001 - 10000,State & Regional Agencies,Government & Public Administration,WA,statistician,0.35
+185000,3.6,501 - 1000,Information Technology Support Services,Information Technology,PA,data scientist,0.27
+115000,3.2,201 - 500,Office Supply & Copy Stores,Retail & Wholesale,FL,analyst,0.24
+109856,3.7,1001 - 5000,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.99
+91585,3.2,51 - 200,Chemical Manufacturing,Manufacturing,TX,data scientist,0.24
+133385,3.5,1001 - 5000,Insurance Agencies & Brokerages,Insurance,NY,data scientist,0.28
+100629,3.8,10000+,Health Care Services & Hospitals,Healthcare,TX,data scientist,0.48
+110400,4.1,501 - 1000,National Agencies,Government & Public Administration,VA,data scientist,0.35
+102500,4.6,501 - 1000,Health Care Services & Hospitals,Healthcare,Remote,data scientist,0.53
+124156,3.1,10000+,Drug & Health Stores,Retail & Wholesale,IL,data scientist,0.37
+117500,4.2,1 - 50,Consumer Electronics & Appliances Stores,Retail & Wholesale,NY,data scientist,0.35
+132419,3.7,10000+,Restaurants & Cafes,Restaurants & Food Service,WA,mle,0.18
+80500,4.4,1 - 50,Information Technology Support Services,Information Technology,CA,data engineer,0.29
+101567,4.4,10000+,Business Consulting,Management & Consulting,CA,data scientist,0.47
+67427,4.9,1 - 50,Computer Hardware Development,Information Technology,MS,data scientist,0.66
+117307,3.6,51 - 200,Information Technology Support Services,Information Technology,TX,data scientist,0.55
+100385,4.1,10000+,Machinery Manufacturing,Manufacturing,IL,data scientist,0.32
+99955,2.5,201 - 500,Education & Training Services,Education,WA,data scientist,0.43
+91353,3.8,10000+,Sporting Goods Stores,Retail & Wholesale,NY,data scientist,0.23
+106210,4.2,10000+,Health Care Services & Hospitals,Healthcare,WI,data scientist,0.27
+73000,3.6,5001 - 10000,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.45
+160708,4.0,1001 - 5000,Internet & Web Services,Information Technology,CA,data scientist,0.33
+84892,3.3,1001 - 5000,Gambling,"Arts, Entertainment & Recreation",MN,data scientist,0.39
+100346,3.6,51 - 200,Information Technology Support Services,Information Technology,CA,analyst,0.4
+93124,3.9,51 - 200,Software Development,Information Technology,MD,data scientist,0.18
+92988,3.2,201 - 500,Computer Hardware Development,Information Technology,TX,data scientist,0.15
+96589,3.3,51 - 200,Investment & Asset Management,Financial Services,TX,mle,0.2
+133143,3.5,5001 - 10000,Insurance Carriers,Insurance,VA,data scientist,0.2
+105946,4.3,201 - 500,Internet & Web Services,Information Technology,TX,mle,0.27
+86500,3.0,1 - 50,Information Technology Support Services,Information Technology,TX,mle,0.97
+153938,3.1,10000+,Drug & Health Stores,Retail & Wholesale,IL,data scientist,0.22
+135000,4.3,1 - 50,Computer Hardware Development,Information Technology,WA,mle,0.51
+120000,4.1,501 - 1000,Banking & Lending,Financial Services,NJ,data scientist,0.35
+76304,4.1,501 - 1000,Information Technology Support Services,Information Technology,TX,data scientist,0.37
+149166,4.2,201 - 500,Information Technology Support Services,Information Technology,CA,data scientist,0.49
+99950,4.2,51 - 200,Enterprise Software & Network Solutions,Information Technology,TX,mle,0.11
+125000,4.1,10000+,Energy & Utilities,"Energy, Mining & Utilities",MA,data scientist,0.53
+110100,3.6,501 - 1000,Insurance Carriers,Insurance,RI,data scientist,0.34
+104957,4.3,5001 - 10000,Aerospace & Defense,Aerospace & Defense,MD,data scientist,0.4
