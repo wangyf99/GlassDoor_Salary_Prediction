@@ -1,0 +1,1169 @@
+Salary Estimate,Rating,Company Name,Location,Size,Industry,Sector,Job State,Job Simplified,Vader
+129163.0,3.1,WALGREENS,"Chicago, IL",10000+,Drug & Health Stores,Retail & Wholesale,IL,mle,0.52
+112751.0,3.7,Vanguard,"Philadelphia, PA",10000+,Investment & Asset Management,Financial Services,PA,mle,0.19
+86585.0,3.7,Patterson-UTI,"Houston, TX",1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",TX,data scientist,0.82
+77143.0,3.9,Scottish Rite for Children,"Dallas, TX",1001 - 5000,Health Care Services & Hospitals,Healthcare,TX,analyst,0.18
+98663.0,3.2,Hertz,"Estero, FL",10000+,Car & Truck Rental,Transportation & Logistics,FL,data scientist,0.51
+99160.0,3.7,Patterson-UTI,"Houston, TX",1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",TX,data scientist,0.82
+92554.0,3.8,Veolia,"Boston, MA",10000+,Energy & Utilities,"Energy, Mining & Utilities",MA,data scientist,0.09
+141056.0,4.2,The Aerospace Corporation,"Chantilly, VA",1001 - 5000,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.54
+125166.0,4.5,"D. E. Shaw & Co., L.P.","New York, NY",1001 - 5000,Investment & Asset Management,Financial Services,NY,analyst,0.53
+60000.0,3.7,LegalMatch,"Reno, NV",51 - 200,Legal,Legal,NV,data scientist,0.5
+105000.0,4.5,Smart AdServer,Manhattan,501 - 1000,Information Technology Support Services,Information Technology,NY,analyst,0.49
+73162.0,3.0,AAA Texas,"Coppell, TX",5001 - 10000,Membership Organizations,Management & Consulting,TX,data scientist,0.35
+561600.0,3.1,Kett Engineering Corporation,"Santa Clara, CA",501 - 1000,Accounting & Tax,Financial Services,CA,analyst,0.54
+70624.0,3.8,Society Insurance Company,"Fond du Lac, WI",201 - 500,Insurance Carriers,Insurance,WI,analyst,0.0
+72500.0,3.0,Harlem Children's Zone,"New York, NY",1001 - 5000,Civic & Social Services,Nonprofit & NGO,NY,data scientist,0.29
+748800.0,-1.0,Sciome LLC,"Research Triangle Park, NC",1 - 50,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NC,statistician,0.46
+125075.0,3.1,WALGREENS,"Chicago, IL",10000+,Drug & Health Stores,Retail & Wholesale,IL,data scientist,0.35
+80000.0,3.5,Lymba Corporation,"Richardson, TX",51 - 200,Enterprise Software & Network Solutions,Information Technology,TX,data scientist,0.44
+130350.0,4.1,Tencent,"Palo Alto, CA",10000+,Internet & Web Services,Information Technology,CA,data scientist,0.25
+114603.0,3.7,Elevance Health,"Chicago, IL",10000+,Health Care Services & Hospitals,Healthcare,IL,mle,0.4
+97406.0,4.0,Massachusetts General Hospital(MGH),"Somerville, MA",10000+,Health Care Services & Hospitals,Healthcare,MA,data scientist,0.11
+92500.0,-1.0,Illumination Works,Remote,51 - 200,Information Technology Support Services,Information Technology,Remote,data scientist,0.35
+116657.0,4.7,Boston Dynamics,"Waltham, MA",201 - 500,Computer Hardware Development,Information Technology,MA,mle,0.37
+81450.0,3.4,Kraft Heinz Company,Illinois,10000+,Food & Beverage Manufacturing,Manufacturing,IL,data scientist,0.25
+91262.0,3.8,Sun Life,"Wellesley Hills, MA",10000+,Insurance Carriers,Insurance,MA,data scientist,0.45
+107469.0,4.1,Nike,"Beaverton, OR",10000+,Consumer Product Manufacturing,Manufacturing,OR,data scientist,0.31
+100000.0,3.7,Stemuli Studios Inc.,Remote,1 - 50,Business Consulting,Management & Consulting,Remote,mle,0.49
+79904.0,4.0,CNA,"Arlington, VA",501 - 1000,Aerospace & Defense,Aerospace & Defense,VA,analyst,0.44
+75232.0,3.8,Sherwin-Williams,"Cleveland, OH",10000+,Consumer Product Manufacturing,Manufacturing,OH,analyst,0.54
+94621.0,4.0,UTHealth Houston,"Houston, TX",5001 - 10000,Colleges & Universities,Education,TX,data scientist,0.39
+82500.0,3.3,MissionWired,"Washington, DC",51 - 200,Advertising & Public Relations,Media & Communication,DC,data scientist,0.73
+135000.0,4.1,Arivo Acceptance LLC,"Salt Lake City, UT",51 - 200,Banking & Lending,Financial Services,UT,data scientist,0.59
+182000.0,3.9,Leidos,"Reston, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.4
+120100.0,3.9,SCAN Health Plan,"Long Beach, CA",1001 - 5000,Insurance Carriers,Insurance,CA,analyst,0.65
+126489.0,3.9,Discover Financial Services,"Riverwoods, IL",1001 - 5000,Banking & Lending,Financial Services,IL,data scientist,0.34
+117279.0,3.9,Discover Financial Services,"Riverwoods, IL",1001 - 5000,Banking & Lending,Financial Services,IL,data scientist,0.34
+115683.0,4.3,Fidelity Investments,"Boston, MA",10000+,Investment & Asset Management,Financial Services,MA,mle,0.45
+168700.0,3.5,Strive Health,"Denver, CO",501 - 1000,Health Care Services & Hospitals,Healthcare,CO,data scientist,0.35
+96771.0,4.1,Deloitte,"Tampa, FL",10000+,Accounting & Tax,Financial Services,FL,data engineer,0.42
+205000.0,4.1,Bloomberg,"Middletown, CT",10000+,Computer Hardware Development,Information Technology,CT,statistician,0.34
+178044.0,3.8,Comcast,"Philadelphia, PA",10000+,Telecommunications Services,Telecommunications,PA,data scientist,0.33
+106254.0,3.8,Unum,"Portland, ME",5001 - 10000,Insurance Carriers,Insurance,ME,data scientist,0.45
+155700.0,4.2,Vertex Pharmaceuticals,"Boston, MA",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.11
+174000.0,4.1,Takeda Pharmaceutical,"Boston, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.44
+125215.0,4.4,Boston Consulting Group,"Atlanta, GA",10000+,Business Consulting,Management & Consulting,GA,data scientist,0.47
+112760.0,4.3,Fidelity Investments,"Durham, NC",10000+,Investment & Asset Management,Financial Services,NC,mle,0.28
+143058.0,4.4,Elder Research Inc,"Fort Meade, MD",51 - 200,Business Consulting,Management & Consulting,MD,data scientist,0.39
+112350.0,3.7,Guidehouse,"Atlanta, GA",1001 - 5000,Business Consulting,Management & Consulting,GA,data scientist,0.31
+166500.0,4.3,CyberCoders,"Lake Forest, CA",201 - 500,Staffing & Subcontracting,Human Resources & Staffing,CA,data scientist,0.51
+103572.0,3.9,Genesis10,"Jersey City, NJ",1001 - 5000,Business Consulting,Management & Consulting,NJ,data scientist,0.37
+150000.0,4.1,Bloomberg,"Middletown, CT",10000+,Computer Hardware Development,Information Technology,CT,data scientist,0.38
+144780.0,3.9,Bristol Myers Squibb,"Princeton, NJ",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data architect,0.32
+175000.0,4.3,CyberCoders,"Stamford, CT",201 - 500,Staffing & Subcontracting,Human Resources & Staffing,CT,data scientist,0.48
+90000.0,3.8,Labcorp,"Wilmington, NC",10000+,Health Care Services & Hospitals,Healthcare,NC,data scientist,0.91
+190000.0,3.6,Peraton,"Reston, VA",10000+,Information Technology Support Services,Information Technology,VA,data scientist,0.24
+100476.0,3.5,Christus Health,"Irving, TX",10000+,Health Care Services & Hospitals,Healthcare,TX,data scientist,0.71
+137500.0,4.3,CyberCoders,"Houston, TX",201 - 500,Staffing & Subcontracting,Human Resources & Staffing,TX,data scientist,0.62
+160000.0,4.2,The HT Group,"Austin, TX",1 - 50,HR Consulting,Human Resources & Staffing,TX,data scientist,0.16
+90000.0,4.5,Joule,"Frederick, MD",201 - 500,HR Consulting,Human Resources & Staffing,MD,research scientist,0.31
+110165.0,3.7,Guidehouse,"Arlington, VA",1001 - 5000,Business Consulting,Management & Consulting,VA,data scientist,-0.12
+205000.0,4.1,Bloomberg,"Middletown, CT",10000+,Computer Hardware Development,Information Technology,CT,mle,0.37
+212500.0,4.1,Bloomberg,"Middletown, CT",10000+,Computer Hardware Development,Information Technology,CT,data scientist,0.34
+212500.0,4.1,Bloomberg,"Middletown, CT",10000+,Computer Hardware Development,Information Technology,CT,data scientist,0.34
+87785.0,3.2,Hertz,"Estero, FL",10000+,Car & Truck Rental,Transportation & Logistics,FL,data scientist,0.39
+110398.0,3.2,Hertz,"Estero, FL",10000+,Car & Truck Rental,Transportation & Logistics,FL,data scientist,0.34
+105186.0,3.8,Unum,"Atlanta, GA",5001 - 10000,Insurance Carriers,Insurance,GA,analyst,0.41
+82955.0,3.5,Mercy,"Chesterfield, MO",10000+,Health Care Services & Hospitals,Healthcare,MO,data scientist,0.59
+125000.0,4.8,"Swanktek, Inc","Austin, TX",1 - 50,Information Technology Support Services,Information Technology,TX,data scientist,0.06
+121209.0,4.4,Lawrence Livermore National Laboratory,"Livermore, CA",5001 - 10000,National Agencies,Government & Public Administration,CA,data scientist,0.7
+110000.0,3.9,Augmedix Inc.,Remote,501 - 1000,Health Care Services & Hospitals,Healthcare,Remote,data scientist,0.49
+134586.0,4.2,Chegg,"Santa Clara, CA",1001 - 5000,Internet & Web Services,Information Technology,CA,mle,0.27
+117711.0,4.0,LeewayHertz,"San Francisco, CA",51 - 200,Computer Hardware Development,Information Technology,CA,mle,0.08
+111446.0,-1.0,Swanktek,"Austin, TX",1 - 50,Information Technology Support Services,Information Technology,TX,data scientist,0.06
+212500.0,4.5,"Gametime United, Inc.",Remote,51 - 200,Ticket Sales,"Arts, Entertainment & Recreation",Remote,mle,0.41
+117041.0,4.1,Deloitte,"Rosslyn, VA",10000+,Accounting & Tax,Financial Services,VA,mle,0.39
+120000.0,3.6,Gloo,"Boulder, CO",51 - 200,Enterprise Software & Network Solutions,Information Technology,CO,data scientist,0.54
+108421.0,3.9,Nissan,"Franklin, TN",10000+,Transportation Equipment Manufacturing,Manufacturing,TN,data scientist,0.32
+61160.0,3.2,Hertz,"Estero, FL",10000+,Car & Truck Rental,Transportation & Logistics,FL,data scientist,0.46
+110591.0,3.8,Amazon.com Services LLC,"Boston, MA",10000+,Internet & Web Services,Information Technology,MA,data scientist,0.42
+125559.0,3.9,Verizon,"Boston, MA",10000+,Telecommunications Services,Telecommunications,MA,data scientist,0.27
+156900.0,2.7,Automobile Club of Southern California,"Costa Mesa, CA",5001 - 10000,Insurance Carriers,Insurance,CA,data scientist,0.21
+94895.0,3.9,EBSCO Information Services,Massachusetts,1001 - 5000,Information Technology Support Services,Information Technology,MA,data scientist,0.43
+165350.0,4.4,Adobe,"San Jose, CA",10000+,Computer Hardware Development,Information Technology,CA,mle,0.22
+155000.0,3.6,Loop,"San Francisco, CA",51 - 200,Internet & Web Services,Information Technology,CA,mle,0.09
+175500.0,4.5,Nova Credit,"New York, NY",51 - 200,Enterprise Software & Network Solutions,Information Technology,NY,data scientist,0.48
+152650.0,4.2,Booz Allen Hamilton,"Bethesda, MD",10000+,Business Consulting,Management & Consulting,MD,mle,0.35
+142830.0,4.3,Netflix,"Los Gatos, CA",5001 - 10000,Internet & Web Services,Information Technology,CA,mle,0.34
+119831.0,3.9,John Hancock,"Boston, MA",1001 - 5000,Insurance Carriers,Insurance,MA,mle,0.51
+105703.0,3.9,Verizon,"Boston, MA",10000+,Telecommunications Services,Telecommunications,MA,data scientist,0.32
+134500.0,3.8,Annapurna Labs (U.S.) Inc.,"Cupertino, CA",10000+,Internet & Web Services,Information Technology,CA,mle,0.37
+172000.0,4.0,Devoted Health,Remote,1001 - 5000,Health Care Services & Hospitals,Healthcare,Remote,data scientist,0.53
+109578.0,3.9,UBS,"Chicago, IL",10000+,Investment & Asset Management,Financial Services,IL,data scientist,0.45
+92500.0,3.6,Illumination Works,Remote,51 - 200,Information Technology Support Services,Information Technology,Remote,data scientist,0.42
+144025.0,4.2,"Viasat, Inc.",California,5001 - 10000,Telecommunications Services,Telecommunications,CA,data scientist,0.31
+175403.0,4.2,Agilent Technologies Inc.,Texas,10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,TX,mle,0.49
+240500.0,3.8,Snapchat,"Palo Alto, CA",5001 - 10000,Computer Hardware Development,Information Technology,CA,data scientist,0.54
+110761.0,3.7,Cambridge Technology Inc.,"Kansas City, MO",201 - 500,Information Technology Support Services,Information Technology,MO,analyst,0.34
+86902.0,3.7,ICF,"Rockville, MD",5001 - 10000,Business Consulting,Management & Consulting,MD,data scientist,0.36
+84097.0,4.8,cBEYONData,"Fort Belvoir, VA",201 - 500,Information Technology Support Services,Information Technology,VA,data scientist,0.38
+88146.0,3.1,Generac Power Systems,"Pewaukee, WI",1001 - 5000,Consumer Product Manufacturing,Manufacturing,WI,data scientist,0.46
+120000.0,3.6,The Intersect Group,"Wooster, OH",201 - 500,Staffing & Subcontracting,Human Resources & Staffing,OH,data scientist,0.54
+114503.0,4.1,ALTA IT Services,"Vienna, VA",201 - 500,Information Technology Support Services,Information Technology,VA,mle,0.27
+67652.0,3.9,"Metron, Inc.","Reston, VA",201 - 500,Research & Development,Management & Consulting,VA,data scientist,0.61
+101870.0,3.9,Bristol Myers Squibb,"San Diego, CA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.36
+180000.0,3.2,The Josef Group Inc.,"Annapolis Junction, MD",1001 - 5000,Security & Protective,Management & Consulting,MD,data scientist,0.35
+105320.0,3.9,Altria,"Richmond, VA",5001 - 10000,Consumer Product Manufacturing,Manufacturing,VA,data scientist,0.31
+86319.0,3.7,REV Federal Credit Union,"Summerville, SC",51 - 200,Investment & Asset Management,Financial Services,SC,analyst,0.39
+128349.0,3.9,Bristol Myers Squibb,"Princeton, NJ",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data architect,0.33
+122841.0,3.9,Bristol Myers Squibb,"Princeton, NJ",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.38
+125000.0,4.3,CyberCoders,"Raleigh, NC",201 - 500,Staffing & Subcontracting,Human Resources & Staffing,NC,mle,0.37
+72500.0,4.4,Veteran Engineering and Technology,"Washington, DC",1 - 50,National Agencies,Government & Public Administration,DC,statistician,0.31
+93429.0,4.1,Claritas Llc,"Cincinnati, OH",201 - 500,Advertising & Public Relations,Media & Communication,OH,data scientist,0.64
+104307.0,4.2,Hyperspace Ventures,"Durham, NC",1 - 50,Internet & Web Services,Information Technology,NC,data scientist,0.51
+77360.0,4.7,Interclypse Inc,"Reston, VA",51 - 200,Software Development,Information Technology,VA,data scientist,0.44
+120789.0,3.9,UST,"Santa Clara, CA",10000+,Information Technology Support Services,Information Technology,CA,data scientist,0.39
+145000.0,4.0,Devoted Health,Remote,1001 - 5000,Health Care Services & Hospitals,Healthcare,Remote,data scientist,0.58
+106442.0,4.5,Steampunk,"McLean, VA",201 - 500,Information Technology Support Services,Information Technology,VA,data scientist,0.38
+106240.0,1.0,Global Partnership Schools,"Washington, DC",1 - 50,Colleges & Universities,Education,DC,data scientist,0.0
+140000.0,4.0,etrailer.com,Remote,501 - 1000,Automotive Parts & Accessories Stores,Retail & Wholesale,Remote,data engineer,0.24
+113258.0,3.8,SRI International,"Arlington, VA",1001 - 5000,Research & Development,Management & Consulting,VA,data scientist,0.34
+121959.0,4.5,Techflairs,Remote,1 - 50,Information Technology Support Services,Information Technology,Remote,data scientist,0.5
+97061.0,3.9,managementsolutions,"York, NY",1001 - 5000,Business Consulting,Management & Consulting,NY,data scientist,0.35
+121220.0,4.3,Juniper Networks,"Westford, MA",5001 - 10000,Telecommunications Services,Telecommunications,MA,data scientist,0.31
+91050.0,-1.0,Softinc,"Melville, NY",1 - 50,Information Technology Support Services,Information Technology,NY,data scientist,0.28
+106885.0,4.4,Elder Research Inc,"Raleigh, NC",51 - 200,Business Consulting,Management & Consulting,NC,data scientist,0.37
+113924.0,4.3,Georgia Tech,"Atlanta, GA",5001 - 10000,Colleges & Universities,Education,GA,data scientist,0.22
+232752.0,4.2,The Aerospace Corporation,"Chantilly, VA",1001 - 5000,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.46
+115000.0,2.8,Success Academy,"New York, NY",1001 - 5000,Primary & Secondary Schools,Education,NY,data scientist,0.55
+85000.0,5.0,Montage Marketing Group,"Washington, DC",1 - 50,Advertising & Public Relations,Media & Communication,DC,data scientist,0.29
+94718.0,3.5,National Committee for Quality Assurance,"Washington, DC",201 - 500,Health Care Services & Hospitals,Healthcare,DC,data scientist,0.35
+106510.0,3.6,Abiomed,"Danvers, MA",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.4
+103235.0,3.8,SimpliSafe,"Boston, MA",1001 - 5000,Computer Hardware Development,Information Technology,MA,data scientist,0.45
+738400.0,4.0,"Sunrise Systems, Inc","Miami, FL",501 - 1000,Information Technology Support Services,Information Technology,FL,analyst,0.15
+128357.0,4.6,Snorkel AI,"Redwood City, CA",51 - 200,Enterprise Software & Network Solutions,Information Technology,CA,mle,0.41
+124155.0,4.4,Focal Systems,"Burlingame, CA",1 - 50,Computer Hardware Development,Information Technology,CA,data scientist,0.49
+127100.0,3.8,Cigna,"Bloomfield, CT",10000+,Health Care Services & Hospitals,Healthcare,CT,data scientist,0.48
+141737.0,4.5,Akamai,"Cambridge, MA",5001 - 10000,Information Technology Support Services,Information Technology,MA,data scientist,0.52
+94109.0,3.9,Verizon,"Lake Mary, FL",10000+,Telecommunications Services,Telecommunications,FL,data scientist,0.32
+142650.0,3.7,Guidehouse,"Atlanta, GA",1001 - 5000,Business Consulting,Management & Consulting,GA,data scientist,0.47
+87655.0,4.4,"iClassPro, Inc.","Longview, TX",1 - 50,Computer Hardware Development,Information Technology,TX,analyst,0.3
+79087.0,3.4,Konica Minolta,"Ramsey, NJ",10000+,Computer Hardware Development,Information Technology,NJ,analyst,0.71
+152650.0,4.2,Booz Allen Hamilton,"Huntsville, AL",10000+,Business Consulting,Management & Consulting,AL,data scientist,0.39
+103354.0,4.1,Takeda Pharmaceutical,"Social Circle, GA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,GA,data scientist,0.32
+167250.0,4.0,"The Travelers Companies, Inc.","Hartford, CT",10000+,Insurance Carriers,Insurance,CT,data engineer,0.35
+101737.0,3.7,Teacher Retirement System of Texas,"Austin, TX",501 - 1000,Investment & Asset Management,Financial Services,TX,data engineer,0.26
+124350.0,4.1,Navy Federal Credit Union,"Vienna, VA",10000+,Banking & Lending,Financial Services,VA,data engineer,0.3
+136000.0,3.8,Amazon.com Services LLC,"Palo Alto, CA",10000+,Internet & Web Services,Information Technology,CA,data scientist,0.31
+167000.0,3.9,Verizon,"New York, NY",10000+,Telecommunications Services,Telecommunications,NY,data scientist,0.32
+147500.0,4.3,Sony Electronics,"San Jose, CA",10000+,Consumer Product Manufacturing,Manufacturing,CA,mle,0.29
+89733.0,3.8,Cognizant Technology Solutions,"Chester Springs, PA",10000+,Information Technology Support Services,Information Technology,PA,data scientist,0.46
+120000.0,3.9,Leidos,"San Diego, CA",10000+,Aerospace & Defense,Aerospace & Defense,CA,mle,0.46
+148800.0,4.0,"The Travelers Companies, Inc.","Hartford, CT",10000+,Insurance Carriers,Insurance,CT,data scientist,0.55
+119500.0,4.2,Booz Allen Hamilton,"Huntsville, AL",10000+,Business Consulting,Management & Consulting,AL,data scientist,0.4
+152650.0,4.2,Booz Allen Hamilton,"Washington, DC",10000+,Business Consulting,Management & Consulting,DC,data engineer,0.39
+118940.0,3.7,Elevance Health,"Mason, OH",10000+,Health Care Services & Hospitals,Healthcare,OH,data scientist,0.28
+152650.0,4.2,Booz Allen Hamilton,"Springfield, VA",10000+,Business Consulting,Management & Consulting,VA,data scientist,0.49
+116500.0,3.9,Citi,"Wilmington, DE",10000+,Investment & Asset Management,Financial Services,DE,data scientist,0.09
+125574.0,3.7,Elevance Health,"Chicago, IL",10000+,Health Care Services & Hospitals,Healthcare,IL,mle,0.42
+112500.0,3.8,JMS Technical Solutions,Remote,1 - 50,HR Consulting,Human Resources & Staffing,Remote,data scientist,0.62
+101938.0,3.8,Cognizant Technology Solutions,"Plano, TX",10000+,Information Technology Support Services,Information Technology,TX,data scientist,0.36
+84702.0,3.4,Global Data Consultants,"Carlisle, PA",201 - 500,Information Technology Support Services,Information Technology,PA,data scientist,0.42
+105893.0,4.1,Deloitte,"Rosslyn, VA",10000+,Accounting & Tax,Financial Services,VA,data scientist,0.29
+85600.0,3.7,IGT International Game Technology,Remote,10000+,Gambling,"Arts, Entertainment & Recreation",Remote,data scientist,0.51
+988000.0,4.6,Plaxonic,"Austin, TX",51 - 200,Information Technology Support Services,Information Technology,TX,data scientist,0.0
+122582.0,3.1,WALGREENS,"Deerfield, IL",10000+,Drug & Health Stores,Retail & Wholesale,IL,data scientist,0.17
+97800.0,3.5,Lowe's,"Mooresville, NC",1001 - 5000,Home Furniture & Housewares Stores,Retail & Wholesale,NC,data scientist,0.34
+93125.0,3.8,Thermo Fisher Scientific,"Carlsbad, CA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.37
+89299.0,3.9,The Hershey Company,"Hershey, PA",10000+,Food & Beverage Manufacturing,Manufacturing,PA,data scientist,0.43
+89477.0,4.4,MIT,"Cambridge, MA",10000+,Colleges & Universities,Education,MA,data scientist,0.2
+92581.0,4.0,Veracity Software,"Iselin, NJ",51 - 200,Information Technology Support Services,Information Technology,NJ,data scientist,0.49
+95000.0,4.1,ECS Federal,Remote,201 - 500,Business Consulting,Management & Consulting,Remote,analyst,0.5
+104894.0,2.2,Source Enterprises,"New York, NY",51 - 200,Publishing,Media & Communication,NY,data scientist,0.43
+87500.0,3.9,Digitas,"New York, NY",5001 - 10000,Advertising & Public Relations,Media & Communication,NY,data scientist,0.22
+106973.0,3.1,WALGREENS,"Deerfield, IL",10000+,Drug & Health Stores,Retail & Wholesale,IL,mle,0.41
+769600.0,4.6,BroadStaff Inc.,"Irvine, CA",51 - 200,Telecommunications Services,Telecommunications,CA,analyst,0.34
+130000.0,3.9,Vectrus,"King George, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,mle,0.32
+99288.0,4.7,Quiet Professionals LLC,"Tampa, FL",201 - 500,Aerospace & Defense,Aerospace & Defense,FL,data scientist,0.22
+634400.0,4.6,BroadStaff Inc.,"Canonsburg, PA",51 - 200,Telecommunications Services,Telecommunications,PA,analyst,0.28
+120000.0,3.7,Devcare Solutions,Remote,51 - 200,Information Technology Support Services,Information Technology,Remote,data scientist,0.4
+95000.0,4.8,Polco,Remote,51 - 200,Municipal Agencies,Government & Public Administration,Remote,data scientist,0.58
+140000.0,4.3,Fusion Medical Staffing,"Omaha, NE",201 - 500,Health Care Services & Hospitals,Healthcare,NE,data engineer,0.46
+150000.0,3.7,Strategic Employment,"Boulder, CO",51 - 200,HR Consulting,Human Resources & Staffing,CO,data scientist,0.37
+98565.0,3.4,Rocket Pharmaceuticals,"Cranbury, NJ",51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.26
+101124.0,4.4,Vetegrity,"Fort Meade, MD",1 - 50,Information Technology Support Services,Information Technology,MD,data scientist,0.5
+112675.0,3.7,Guidehouse,"Arlington, VA",1001 - 5000,Business Consulting,Management & Consulting,VA,data scientist,0.38
+115847.0,4.0,Saab Inc.,"West Lafayette, IN",1001 - 5000,Aerospace & Defense,Aerospace & Defense,IN,mle,0.28
+97622.0,3.7,Guidehouse,"Huntsville, AL",1001 - 5000,Business Consulting,Management & Consulting,AL,data engineer,0.37
+101890.0,5.0,Penfield Search Partners,"Parsippany, NJ",1 - 50,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.4
+158250.0,4.1,Takeda Pharmaceutical,"Boston, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.42
+115158.0,3.7,Guidehouse,"Springfield, VA",1001 - 5000,Business Consulting,Management & Consulting,VA,statistician,0.36
+166600.0,4.1,Takeda Pharmaceutical,"Boston, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.49
+122828.0,3.4,MAPFRE,"Boston, MA",1001 - 5000,Insurance Carriers,Insurance,MA,data scientist,0.35
+94272.0,3.5,Hayward Industries,"Charlotte, NC",1001 - 5000,Consumer Product Manufacturing,Manufacturing,NC,data engineer,0.35
+124100.0,4.1,Takeda Pharmaceutical,"Boston, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.44
+236000.0,4.1,Takeda Pharmaceutical,"Boston, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.37
+102500.0,3.1,Fora Financial LLC,"Miami, FL",51 - 200,Banking & Lending,Financial Services,FL,analyst,0.3
+229000.0,3.8,Peloton,"Santa Clara, CA",1 - 50,Shipping & Trucking,Transportation & Logistics,CA,mle,0.38
+194500.0,4.1,Takeda Pharmaceutical,"Boston, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.43
+104194.0,3.4,Topaz Labs,"Dallas, TX",1 - 50,Software Development,Information Technology,TX,data scientist,0.39
+105976.0,3.9,Epsilon,"Chicago, IL",5001 - 10000,Advertising & Public Relations,Media & Communication,IL,data scientist,0.39
+100882.0,3.7,Guidehouse,"Arlington, VA",1001 - 5000,Business Consulting,Management & Consulting,VA,data engineer,0.27
+135000.0,4.1,DW Simpson,"Hartford, CT",51 - 200,HR Consulting,Human Resources & Staffing,CT,data scientist,0.16
+105523.0,3.7,Guidehouse,"Washington, DC",1001 - 5000,Business Consulting,Management & Consulting,DC,data scientist,0.39
+166600.0,4.1,Takeda Pharmaceutical,"Boston, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.28
+160000.0,4.3,Horizon Therapeutics,"Rockville, MD",501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MD,data scientist,0.43
+124261.0,4.1,Takeda Pharmaceutical,"Lexington, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.25
+82662.0,3.4,Global Data Consultants,"Carlisle, PA",201 - 500,Information Technology Support Services,Information Technology,PA,data engineer,0.44
+91653.0,3.4,"Servpro Industries, LLC","Gallatin, TN",201 - 500,Building & Personnel Services,Management & Consulting,TN,data scientist,0.45
+89373.0,4.1,"Modular Mining Systems, Inc","Tucson, AZ",501 - 1000,Computer Hardware Development,Information Technology,AZ,data scientist,0.46
+89373.0,3.8,Ahlstrom,"Kaukauna, WI",5001 - 10000,Consumer Product Manufacturing,Manufacturing,WI,data scientist,0.32
+152650.0,4.2,Booz Allen Hamilton,"Springfield, VA",10000+,Business Consulting,Management & Consulting,VA,data scientist,0.4
+120000.0,4.2,Rockefeller University,"New York, NY",1001 - 5000,Colleges & Universities,Education,NY,data scientist,0.32
+121000.0,3.2,Cottonwood Financial,"Irving, TX",501 - 1000,Banking & Lending,Financial Services,TX,data scientist,0.6
+83505.0,4.6,Strativia,"Washington, DC",51 - 200,National Agencies,Government & Public Administration,DC,analyst,0.47
+123464.0,4.1,ALTA IT Services,"Washington, DC",201 - 500,Information Technology Support Services,Information Technology,DC,data architect,0.13
+143100.0,4.1,Navy Federal Credit Union,"Winchester, VA",10000+,Banking & Lending,Financial Services,VA,data engineer,0.32
+130000.0,4.5,Liberty Personnel Services,"Philadelphia, PA",1 - 50,HR Consulting,Human Resources & Staffing,PA,data scientist,0.12
+175500.0,4.4,Ayahealthcare,Oregon,5001 - 10000,HR Consulting,Human Resources & Staffing,OR,mle,0.4
+150000.0,3.7,VORTO,"Denver, CO",201 - 500,Shipping & Trucking,Transportation & Logistics,CO,data scientist,0.39
+120353.0,4.0,HCSC,"Chicago, IL",10000+,Insurance Carriers,Insurance,IL,data scientist,0.22
+132476.0,3.8,Medifast Inc,"Baltimore, MD",1001 - 5000,Beauty & Wellness,Personal Consumer Services,MD,data scientist,0.59
+115625.0,3.6,Jazz Pharmaceuticals,"Palo Alto, CA",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.33
+148800.0,4.0,"The Travelers Companies, Inc.","Hartford, CT",10000+,Insurance Carriers,Insurance,CT,data scientist,0.52
+124400.0,4.0,Northrop Grumman,"Clearfield, UT",10000+,Aerospace & Defense,Aerospace & Defense,UT,data scientist,0.42
+243000.0,4.7,NVIDIA,"Santa Clara, CA",10000+,Computer Hardware Development,Information Technology,CA,data scientist,0.4
+173000.0,4.0,"The Travelers Companies, Inc.","Hartford, CT",10000+,Insurance Carriers,Insurance,CT,data scientist,0.43
+210000.0,4.1,23andMe,"South San Francisco, CA",501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,mle,0.37
+82695.0,3.7,Sappi,"Skowhegan, ME",10000+,Machinery Manufacturing,Manufacturing,ME,data scientist,0.46
+117150.0,4.0,"The Travelers Companies, Inc.","Hartford, CT",10000+,Insurance Carriers,Insurance,CT,data scientist,0.42
+80393.0,4.1,Deloitte,"Rosslyn, VA",10000+,Accounting & Tax,Financial Services,VA,data scientist,0.53
+182000.0,3.9,Leidos,"Arlington, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.38
+222000.0,3.6,Jazz Pharmaceuticals,"Palo Alto, CA",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.21
+150950.0,4.0,"The Travelers Companies, Inc.","Hartford, CT",10000+,Insurance Carriers,Insurance,CT,data engineer,0.34
+150950.0,4.0,"The Travelers Companies, Inc.","Hartford, CT",10000+,Insurance Carriers,Insurance,CT,data engineer,0.33
+151000.0,4.1,Deloitte,"Denver, CO",10000+,Accounting & Tax,Financial Services,CO,data scientist,0.44
+245500.0,4.0,Edwards Lifesciences,"Irvine, CA",10000+,Health Care Products Manufacturing,Manufacturing,CA,data scientist,0.42
+98486.0,3.0,"Genesis Financial Solutions, Inc.","Beaverton, OR",501 - 1000,Banking & Lending,Financial Services,OR,data engineer,0.38
+114341.0,3.4,Rocket Pharmaceuticals,"Cranbury, NJ",51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.43
+91937.0,3.7,Direct Connect Logistix,"Indianapolis, IN",51 - 200,Taxi & Car Services,Transportation & Logistics,IN,data engineer,0.44
+57524.0,3.6,The Bartech Group,"Auburn Hills, MI",1001 - 5000,HR Consulting,Human Resources & Staffing,MI,data scientist,0.49
+104945.0,3.2,"Nutrisystem, Inc.","Fort Washington, PA",201 - 500,Drug & Health Stores,Retail & Wholesale,PA,data engineer,0.3
+103554.0,4.5,OneGlobe LLC,"Washington, DC",51 - 200,Business Consulting,Management & Consulting,DC,data engineer,0.39
+87321.0,3.2,Sound,"Tukwila, WA",501 - 1000,Health Care Services & Hospitals,Healthcare,WA,data engineer,0.28
+98000.0,4.4,CAPITAL DISTRICT PHYSICIANS HEALTH PLAN INC,"Albany, NY",501 - 1000,Insurance Carriers,Insurance,NY,data engineer,0.33
+108655.0,3.5,Simmons Prepared Foods Inc,"Siloam Springs, AR",1001 - 5000,Food & Beverage Manufacturing,Manufacturing,AR,data engineer,0.22
+113745.0,4.4,Compeer Financial,"Bloomington, IL",1001 - 5000,Banking & Lending,Financial Services,IL,data scientist,0.35
+116947.0,4.2,Resource Data,"Portland, OR",51 - 200,Enterprise Software & Network Solutions,Information Technology,OR,data engineer,0.46
+124601.0,3.4,JLG Industries Inc,"Hagerstown, MD",1001 - 5000,Machinery Manufacturing,Manufacturing,MD,data engineer,0.27
+130500.0,4.0,Codazen,"Salt Lake City, UT",51 - 200,Business Consulting,Management & Consulting,UT,data engineer,0.47
+148650.0,4.4,SoCalGas,"Los Angeles, CA",5001 - 10000,Energy & Utilities,"Energy, Mining & Utilities",CA,data scientist,0.24
+106038.0,4.0,Sanofi,"Bridgewater, NJ",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.38
+126291.0,4.0,United Therapeutics,"Research Triangle Park, NC",501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NC,data engineer,0.42
+115595.0,4.2,Resource Data,"Boise, ID",51 - 200,Enterprise Software & Network Solutions,Information Technology,ID,data engineer,0.49
+61482.0,3.3,"Dayton T. Brown, Inc.","Bohemia, NY",201 - 500,Aerospace & Defense,Aerospace & Defense,NY,data scientist,0.43
+105751.0,3.1,CardWorks,"Woodbury, NY",501 - 1000,Banking & Lending,Financial Services,NY,data engineer,0.61
+134000.0,4.4,Global Christian Relief,"Santa Ana, CA",51 - 200,Business Consulting,Management & Consulting,CA,data engineer,0.26
+80000.0,3.9,Titan America,"Roanoke, VA",1001 - 5000,Mining & Metals,"Energy, Mining & Utilities",VA,data engineer,0.53
+212500.0,4.1,Bloomberg,"New York, NY",10000+,Computer Hardware Development,Information Technology,NY,mle,0.35
+99500.0,4.2,ClarkDietrich,"West Chester, OH",1001 - 5000,Metal & Mineral Manufacturing,Manufacturing,OH,data engineer,0.53
+127300.0,4.2,"Vizient, Inc.","Irving, TX",1001 - 5000,Health Care Services & Hospitals,Healthcare,TX,data engineer,0.32
+113650.0,3.9,Zelis,Remote,501 - 1000,Health Care Services & Hospitals,Healthcare,Remote,data engineer,0.4
+115600.0,3.8,Weyerhaeuser,"Seattle, WA",5001 - 10000,Wood & Paper Manufacturing,Manufacturing,WA,data engineer,0.33
+95700.0,4.2,Booz Allen Hamilton,"Arlington, VA",10000+,Business Consulting,Management & Consulting,VA,data engineer,0.47
+123030.0,4.1,Takeda Pharmaceutical,"Boston, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data engineer,0.24
+157500.0,3.9,Humana,Remote,10000+,Health Care Services & Hospitals,Healthcare,Remote,data engineer,0.28
+101737.0,3.7,Teacher Retirement System of Texas,"Austin, TX",501 - 1000,Investment & Asset Management,Financial Services,TX,data engineer,0.18
+91748.0,4.5,"TeamBradley, Inc","Savannah, GA",1 - 50,Advertising & Public Relations,Media & Communication,GA,data engineer,0.29
+93125.0,3.8,Genworth,"Raleigh, NC",1001 - 5000,Insurance Carriers,Insurance,NC,data engineer,0.37
+135420.0,3.8,Comcast,"Englewood, CO",10000+,Telecommunications Services,Telecommunications,CO,data engineer,0.35
+153550.0,3.9,Liberty Mutual Insurance,"Portsmouth, NH",10000+,Insurance Carriers,Insurance,NH,data engineer,0.67
+132500.0,3.3,Zoll Medical Corporation,"Broomfield, CO",1001 - 5000,Health Care Products Manufacturing,Manufacturing,CO,data engineer,0.39
+112381.0,3.9,Liberty Mutual Insurance,"Boston, MA",10000+,Insurance Carriers,Insurance,MA,data scientist,0.52
+113986.0,4.4,Boston Consulting Group,"Atlanta, GA",10000+,Business Consulting,Management & Consulting,GA,data engineer,0.44
+124350.0,4.1,Navy Federal Credit Union,"Pensacola, FL",10000+,Banking & Lending,Financial Services,FL,data engineer,0.3
+125000.0,3.6,Korn Ferry RPO for Projects (Resume),Remote,5001 - 10000,Business Consulting,Management & Consulting,Remote,data scientist,0.11
+170000.0,4.4,Ayahealthcare,Oregon,5001 - 10000,HR Consulting,Human Resources & Staffing,OR,data engineer,0.37
+155811.0,3.8,Comcast,"Philadelphia, PA",10000+,Telecommunications Services,Telecommunications,PA,data scientist,0.37
+89257.0,4.2,"Software Resources, Inc.","Miramar, FL",51 - 200,Business Consulting,Management & Consulting,FL,data scientist,0.56
+104047.0,4.4,"Intertech, Inc","Minnetonka, MN",51 - 200,Information Technology Support Services,Information Technology,MN,data engineer,0.45
+142500.0,4.3,Michael Page,"New York, NY",201 - 500,Security & Protective,Management & Consulting,NY,data engineer,0.17
+89338.0,3.5,Uline,"Pleasant Prairie, WI",5001 - 10000,Wholesale,Retail & Wholesale,WI,data engineer,0.28
+70602.0,3.8,MidFirst Bank,"Oklahoma City, OK",1001 - 5000,Investment & Asset Management,Financial Services,OK,data engineer,0.16
+91588.0,4.1,Warren CAT,"Oklahoma City, OK",1001 - 5000,Vehicle Dealers,Retail & Wholesale,OK,data scientist,0.25
+100363.0,3.4,Allstate,"Chicago, IL",10000+,Insurance Agencies & Brokerages,Insurance,IL,data engineer,0.32
+166250.0,3.6,Patreon,"San Francisco, CA",51 - 200,Internet & Web Services,Information Technology,CA,data engineer,0.42
+105000.0,3.1,CVS Health,"Irving, TX",10000+,Health Care Services & Hospitals,Healthcare,TX,data engineer,0.62
+97163.0,3.2,Child Mind Institute,"New York, NY",201 - 500,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.32
+98800.0,4.0,"ESRI, Inc.","Redlands, CA",1001 - 5000,Computer Hardware Development,Information Technology,CA,data engineer,0.49
+101500.0,4.1,Finra,"Washington, DC",1001 - 5000,Investment & Asset Management,Financial Services,DC,data engineer,0.31
+111922.0,2.7,United Wholesale Mortgage,"Pontiac, MI",5001 - 10000,Banking & Lending,Financial Services,MI,data scientist,0.38
+82200.0,3.5,Delaware North,"Buffalo, NY",10000+,Catering & Food Service Contractors,Restaurants & Food Service,NY,data engineer,0.3
+110500.0,3.9,Publicis Sapient,"Houston, TX",10000+,Business Consulting,Management & Consulting,TX,data engineer,0.49
+150000.0,3.9,Leidos,"Springfield, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.46
+80414.0,4.6,Idaho Central Credit Union,"Chubbuck, ID",1001 - 5000,Banking & Lending,Financial Services,ID,data engineer,0.29
+102499.0,3.4,Fairview Health Services,"Minneapolis, MN",10000+,Health Care Services & Hospitals,Healthcare,MN,data scientist,0.23
+171620.0,4.1,GSK,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.45
+98800.0,4.0,"ESRI, Inc.",Remote,1001 - 5000,Computer Hardware Development,Information Technology,Remote,data scientist,0.4
+200000.0,4.1,Bloomberg,"New York, NY",10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.3
+113616.0,4.0,TTX,"Chicago, IL",1001 - 5000,Rail Transportation,Transportation & Logistics,IL,data engineer,0.28
+145500.0,4.0,Codazen,"Irvine, CA",51 - 200,Business Consulting,Management & Consulting,CA,data engineer,0.47
+118329.0,4.1,Artisan Design Group,"Dallas, TX",1001 - 5000,Construction,"Construction, Repair & Maintenance Services",TX,data engineer,0.4
+90041.0,3.8,Alltech Inc,"Nicholasville, KY",1001 - 5000,Farm Support,Agriculture,KY,data engineer,0.58
+92419.0,3.7,Guidehouse,"Huntsville, AL",1001 - 5000,Business Consulting,Management & Consulting,AL,data engineer,0.32
+87425.0,3.9,BOEING,"Hazelwood, MO",10000+,Aerospace & Defense,Aerospace & Defense,MO,data scientist,0.25
+200000.0,4.1,Bloomberg,"New York, NY",10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.41
+106301.0,3.6,Medline Industries Inc,"Chicago, IL",10000+,Health Care Products Manufacturing,Manufacturing,IL,data engineer,0.56
+95650.0,4.2,Booz Allen Hamilton,"Camp H M Smith, HI",10000+,Business Consulting,Management & Consulting,HI,data engineer,0.39
+75000.0,4.3,"Cupertino Electric, Inc.","Columbus, OH",1001 - 5000,Construction,"Construction, Repair & Maintenance Services",OH,data scientist,0.23
+120000.0,4.3,Coinstar,Remote,201 - 500,Other Retail Stores,Retail & Wholesale,Remote,data engineer,0.43
+119665.0,3.9,BAE Systems,"Sterling, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.43
+80874.0,4.3,M. A. Mortenson Company,"Dekalb, IL",1001 - 5000,Construction,"Construction, Repair & Maintenance Services",IL,data scientist,0.39
+106810.0,3.0,"Radial, Inc.","King of Prussia, PA",5001 - 10000,Internet & Web Services,Information Technology,PA,data engineer,0.48
+100020.0,3.5,Uline,"Pleasant Prairie, WI",5001 - 10000,Wholesale,Retail & Wholesale,WI,data engineer,0.28
+84000.0,3.9,Leidos,"Arlington, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,data engineer,0.2
+85027.0,3.4,CGB Enterprises Inc,"Mandeville, LA",1001 - 5000,Crop Production,Agriculture,LA,data engineer,0.16
+114436.0,4.0,MetLife,"Cary, NC",10000+,Insurance Agencies & Brokerages,Insurance,NC,data engineer,0.42
+96135.0,4.0,Fidelity TalentSource,"Westlake, TX",51 - 200,Staffing & Subcontracting,Human Resources & Staffing,TX,data engineer,0.38
+84356.0,3.7,Guidehouse,"Huntsville, AL",1001 - 5000,Business Consulting,Management & Consulting,AL,data engineer,0.28
+109174.0,3.5,MJHS,"Brooklyn, NY",1001 - 5000,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.21
+86668.0,-1.0,UnitedHealthcare,"Phoenix, AZ",10000+,Health Care Services & Hospitals,Healthcare,AZ,data engineer,0.46
+96447.0,3.3,Meijer,"Grand Rapids, MI",10000+,Grocery Stores,Retail & Wholesale,MI,data engineer,0.3
+135900.0,4.0,"The Travelers Companies, Inc.","Hartford, CT",10000+,Insurance Carriers,Insurance,CT,data engineer,0.32
+94394.0,3.5,Zions Bancorporation,"Midvale, UT",10000+,Banking & Lending,Financial Services,UT,data engineer,0.31
+151400.0,4.1,Sandia National Laboratories,"Albuquerque, NM",10000+,National Agencies,Government & Public Administration,NM,data scientist,0.39
+123500.0,4.2,Colgate-Palmolive,"Piscataway, NJ",10000+,Consumer Product Manufacturing,Manufacturing,NJ,data scientist,0.45
+126800.0,4.0,Northrop Grumman,"Gilbert, AZ",10000+,Aerospace & Defense,Aerospace & Defense,AZ,data scientist,0.33
+157500.0,3.9,"GTT, LLC","Chevy Chase, MD",501 - 1000,Information Technology Support Services,Information Technology,MD,data engineer,0.46
+116993.0,4.3,Ansys,"Kirkland, WA",1001 - 5000,Computer Hardware Development,Information Technology,WA,data scientist,0.44
+82200.0,3.5,Delaware North,"Atlanta, GA",10000+,Catering & Food Service Contractors,Restaurants & Food Service,GA,data engineer,0.3
+109500.0,3.4,Allstate,"Chicago, IL",10000+,Insurance Agencies & Brokerages,Insurance,IL,data scientist,0.3
+90000.0,3.4,APCO Holdings,Remote,201 - 500,Automotive Parts & Accessories Stores,Retail & Wholesale,Remote,data engineer,0.34
+112569.0,3.9,"Mariner Finance, LLC","White Marsh, MD",1001 - 5000,Banking & Lending,Financial Services,MD,data scientist,0.23
+134390.0,4.1,Bloomberg,"Princeton, NJ",10000+,Computer Hardware Development,Information Technology,NJ,data scientist,0.42
+85000.0,-1.0,DISH - Technology,"Englewood, CO",10000+,"Cable, Internet & Telephone Providers",Telecommunications,CO,data engineer,0.32
+60055.0,3.6,Indepth Engineering Solutions,"Auburn Hills, MI",51 - 200,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",MI,data scientist,0.14
+91687.0,3.0,"Healogics, Inc","Jacksonville, FL",1001 - 5000,Health Care Services & Hospitals,Healthcare,FL,data scientist,0.28
+91687.0,3.9,"Delta Dental of Michigan, Ohio, and Indiana","Okemos, MI",1 - 50,Insurance Carriers,Insurance,MI,data engineer,0.28
+101484.0,3.6,NTT DATA,"Brighton, MA",10000+,Information Technology Support Services,Information Technology,MA,data engineer,0.31
+114410.0,2.6,NationsBenefits,"Dallas, TX",51 - 200,Health Care Services & Hospitals,Healthcare,TX,data engineer,0.54
+85648.0,3.3,Spruce,"Austin, TX",51 - 200,Energy & Utilities,"Energy, Mining & Utilities",TX,data engineer,0.44
+133571.0,4.6,Plaxonic Technologies,"New York, NY",51 - 200,Information Technology Support Services,Information Technology,NY,data engineer,0.33
+103000.0,4.0,Sia Partners,"New York, NY",1001 - 5000,Business Consulting,Management & Consulting,NY,data engineer,0.29
+73651.0,3.0,Carvana,"Carmel, IN",10000+,Other Retail Stores,Retail & Wholesale,IN,data engineer,0.27
+112000.0,3.3,ZoomCare,Remote,501 - 1000,Health Care Services & Hospitals,Healthcare,Remote,data engineer,0.34
+79761.0,4.6,"HMA Group Holdings, LLC.","Waukee, IA",1001 - 5000,Insurance Agencies & Brokerages,Insurance,IA,data engineer,0.42
+88500.0,3.0,"School Specialty, LLC","Lombard, IL",1001 - 5000,Education & Training Services,Education,IL,data engineer,0.43
+225000.0,5.0,Stytch,"New York, NY",1 - 50,Enterprise Software & Network Solutions,Information Technology,NY,data engineer,0.21
+93588.0,4.3,"Codeworks, L.L.C.","Mequon, WI",201 - 500,Computer Hardware Development,Information Technology,WI,data engineer,0.11
+73000.0,3.1,IGS Solutions LLC,"Los Angeles, CA",1 - 50,Enterprise Software & Network Solutions,Information Technology,CA,data engineer,0.36
+107959.0,3.4,Kat Enterprise LLC,"Rockville, MD",1 - 50,HR Consulting,Human Resources & Staffing,MD,data engineer,0.67
+682864.0,3.7,Newmark,"Colorado Springs, CO",5001 - 10000,Real Estate,Real Estate,CO,data scientist,0.22
+65122.0,-1.0,Another Source,"Quincy, WA",1 - 50,HR Consulting,Human Resources & Staffing,WA,data scientist,0.25
+83490.0,3.9,BOEING,"Everett, WA",10000+,Aerospace & Defense,Aerospace & Defense,WA,data scientist,0.24
+51918.0,3.5,MasTec Network Solutions,"Denver, CO",10000+,Construction,"Construction, Repair & Maintenance Services",CO,data scientist,0.32
+70000.0,4.4,ONYX Insight,"Boulder, CO",51 - 200,Energy & Utilities,"Energy, Mining & Utilities",CO,data scientist,0.37
+707200.0,4.0,Broadleaf,"Rochester, NY",10000+,HR Consulting,Human Resources & Staffing,NY,data scientist,0.26
+71994.0,4.7,Interclypse Inc,"Annapolis Junction, MD",51 - 200,Software Development,Information Technology,MD,data scientist,0.44
+95249.0,4.4,Noblis,"Reston, VA",1001 - 5000,Business Consulting,Management & Consulting,VA,data scientist,0.39
+94315.0,4.0,"Vertex, Inc.","King of Prussia, PA",1001 - 5000,Software Development,Information Technology,PA,data scientist,0.24
+91239.0,3.9,Mayo Clinic,"Rochester, MN",10000+,Health Care Services & Hospitals,Healthcare,MN,analyst,0.31
+128000.0,3.0,QuantAQ,Remote,201 - 500,Computer Hardware Development,Information Technology,Remote,data scientist,0.51
+87400.0,3.6,Denver Health,"Denver, CO",5001 - 10000,Health Care Services & Hospitals,Healthcare,CO,data scientist,0.18
+102170.0,5.0,Studio X,"Austin, TX",1 - 50,Energy & Utilities,"Energy, Mining & Utilities",TX,data scientist,0.52
+65000.0,4.3,"CAVEON, LLC",Remote,1 - 50,Computer Hardware Development,Information Technology,Remote,data scientist,0.3
+107121.0,3.9,"Calhoun International, LLC","Quantico, VA",1 - 50,Business Consulting,Management & Consulting,VA,data scientist,0.21
+125000.0,4.0,The Daily Beast,"New York, NY",51 - 200,Publishing,Media & Communication,NY,data scientist,0.26
+130941.0,3.8,"Asset Marketing Services, LLC","Eagan, MN",201 - 500,Other Retail Stores,Retail & Wholesale,MN,data scientist,0.3
+110524.0,3.9,managementsolutions,"Boston, MA",1001 - 5000,Business Consulting,Management & Consulting,MA,data scientist,0.35
+93273.0,4.5,Nursa,"Murray, UT",51 - 200,Health Care Services & Hospitals,Healthcare,UT,data scientist,0.49
+102485.0,3.9,Husch Blackwell LLP,"Austin, TX",1001 - 5000,Legal,Legal,TX,data scientist,0.35
+93987.0,4.5,Prescient Edge Federal,"Herndon, VA",51 - 200,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.34
+112210.0,4.4,Quevera LLC,"McLean, VA",51 - 200,Enterprise Software & Network Solutions,Information Technology,VA,data scientist,0.53
+115564.0,4.4,Progyny,"New York, NY",51 - 200,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.55
+105382.0,4.0,bp,"Denver, CO",10000+,Energy & Utilities,"Energy, Mining & Utilities",CO,data scientist,0.4
+130000.0,3.8,Advance Local,Remote,1001 - 5000,Publishing,Media & Communication,Remote,data scientist,0.25
+100957.0,3.9,Grinnell College,"Grinnell, IA",501 - 1000,Colleges & Universities,Education,IA,data scientist,0.36
+107574.0,4.1,Lockheed Martin,"Moorestown, NJ",10000+,Aerospace & Defense,Aerospace & Defense,NJ,mle,0.29
+111397.0,4.1,Enbridge,"Houston, TX",10000+,Energy & Utilities,"Energy, Mining & Utilities",TX,data scientist,0.35
+105000.0,4.3,"iSpecimen, Inc.","Lexington, MA",51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.44
+116848.0,4.2,Algo,"Troy, MI",51 - 200,Computer Hardware Development,Information Technology,MI,data engineer,0.19
+95221.0,4.7,SpyCloud,"Austin, TX",51 - 200,Enterprise Software & Network Solutions,Information Technology,TX,data scientist,0.27
+126583.0,4.0,vagus,"Alexandria, VA",51 - 200,Information Technology Support Services,Information Technology,VA,data engineer,0.22
+86370.0,3.8,Skill Quotient,"Auburn Hills, MI",501 - 1000,Information Technology Support Services,Information Technology,MI,data engineer,0.16
+120000.0,4.8,GVEC,"Seguin, TX",201 - 500,Energy & Utilities,"Energy, Mining & Utilities",TX,data engineer,0.42
+80605.0,3.3,MedSpeed,"Elmhurst, IL",201 - 500,Taxi & Car Services,Transportation & Logistics,IL,data engineer,0.5
+175000.0,4.0,Costco Wholesale,"Seattle, WA",10000+,General Merchandise & Superstores,Retail & Wholesale,WA,data engineer,0.3
+112500.0,4.2,"TeamWorx Security, LLC","Columbia, MD",1 - 50,Aerospace & Defense,Aerospace & Defense,MD,data engineer,0.43
+112500.0,4.0,Milliman,"Seattle, WA",1001 - 5000,Business Consulting,Management & Consulting,WA,data engineer,0.37
+82757.0,3.8,ICON GPHS,"Gaithersburg, MD",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MD,statistician,0.15
+85000.0,2.9,"Lotus Clinical Research, LLC",Remote,51 - 200,Health Care Services & Hospitals,Healthcare,Remote,statistician,0.24
+48500.0,4.1,Georgetown University,"Washington, DC",5001 - 10000,Colleges & Universities,Education,DC,data scientist,-0.2
+147500.0,4.5,Joule,"Cranbury, NJ",201 - 500,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.11
+99989.0,5.0,Penfield Search Partners,"Philadelphia, PA",1 - 50,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,PA,data scientist,0.27
+81569.0,4.5,Joule,"Florham Park, NJ",201 - 500,HR Consulting,Human Resources & Staffing,NJ,statistician,0.29
+123521.0,5.0,Penfield Search Partners,"Bridgewater, NJ",1 - 50,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NJ,data scientist,0.23
+94016.0,4.3,University of California - Irvine,"Irvine, CA",10000+,Colleges & Universities,Education,CA,analyst,0.35
+115500.0,4.1,Corteva,"Indianapolis, IN",10000+,Farm Support,Agriculture,IN,research scientist,0.32
+118873.0,3.4,"Signature Science, LLC","Charlottesville, VA",51 - 200,Business Consulting,Management & Consulting,VA,data scientist,0.15
+748800.0,2.4,Quantam Solutions,"Frankfort, KY",51 - 200,Information Technology Support Services,Information Technology,KY,analyst,0.23
+118831.0,3.7,Abt Associates,"Rockville, MD",1001 - 5000,Research & Development,Management & Consulting,MD,statistician,0.35
+84768.0,3.9,Los Alamos National Laboratory,"Los Alamos, NM",10000+,National Agencies,Government & Public Administration,NM,statistician,0.2
+80800.0,4.1,Cancer Research And Biostatistics (CRAB),"Seattle, WA",51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,WA,data scientist,0.32
+65050.0,4.1,University of North Carolina at Chapel Hill,North Carolina,1 - 50,Colleges & Universities,Education,NC,statistician,0.48
+772720.0,4.4,Rangam Consultants Inc.,"North Chicago, IL",501 - 1000,HR Consulting,Human Resources & Staffing,IL,statistician,0.14
+78199.0,4.1,Duke University,"Durham, NC",10000+,Colleges & Universities,Education,NC,statistician,0.27
+87200.0,4.0,Northwell Health,"Manhasset, NY",10000+,Health Care Services & Hospitals,Healthcare,NY,statistician,0.11
+72500.0,3.9,UTMB Health,"Galveston, TX",10000+,Health Care Services & Hospitals,Healthcare,TX,statistician,0.12
+131474.0,3.0,OTTR Chronic Care Solutions,"Brisbane, CA",1 - 50,Health Care Services & Hospitals,Healthcare,CA,statistician,0.26
+63650.0,4.2,University of Utah,"Salt Lake City, UT",10000+,Colleges & Universities,Education,UT,statistician,0.18
+121500.0,4.2,Procter & Gamble,"Mason, OH",10000+,Consumer Product Manufacturing,Manufacturing,OH,data scientist,0.34
+70000.0,4.0,FHI 360,"Durham, NC",1001 - 5000,Civic & Social Services,Nonprofit & NGO,NC,statistician,0.11
+105935.0,4.2,Astellas,"Northbrook, IL",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,IL,data scientist,0.33
+164531.0,4.1,Incyte Corporation,"Wilmington, DE",501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,DE,data scientist,0.3
+111196.0,3.6,Apellis Pharmaceuticals,"Waltham, MA",501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,statistician,0.31
+112650.0,4.1,Linus Health,"Boston, MA",51 - 200,Health Care Services & Hospitals,Healthcare,MA,statistician,0.45
+130807.0,4.3,"IGM Biosciences, Inc.","Mountain View, CA",201 - 500,Biotechnology,Pharmaceutical & Biotechnology,CA,data scientist,0.21
+78591.0,4.2,The University of Chicago,"Chicago, IL",10000+,Colleges & Universities,Education,IL,statistician,0.17
+76746.0,3.9,Baylor College of Medicine,"Houston, TX",5001 - 10000,Colleges & Universities,Education,TX,statistician,0.26
+70644.0,3.8,The University of Iowa,"Iowa City, IA",10000+,Health Care Services & Hospitals,Healthcare,IA,statistician,0.21
+60750.0,4.1,Columbia University Medical Center,"New York, NY",10000+,Colleges & Universities,Education,NY,data scientist,0.53
+114670.0,3.8,U.S. Army Training and Doctrine Command,"Fort Eustis, VA",10000+,National Agencies,Government & Public Administration,VA,statistician,0.18
+107500.0,4.3,Stanford University,"Stanford, CA",10000+,Colleges & Universities,Education,CA,statistician,0.24
+73015.0,3.6,American College of Surgeons,"Chicago, IL",201 - 500,Health Care Services & Hospitals,Healthcare,IL,statistician,0.29
+83836.0,4.3,USC,"Los Angeles, CA",10000+,Colleges & Universities,Education,CA,statistician,0.11
+72590.0,3.9,NORC at the University of Chicago,"Chicago, IL",1001 - 5000,Research & Development,Management & Consulting,IL,statistician,0.23
+111196.0,3.6,Apellis,"Waltham, MA",501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,statistician,0.31
+98517.0,4.1,Fred Hutchinson Cancer Research Center,"Seattle, WA",1001 - 5000,Civic & Social Services,Nonprofit & NGO,WA,statistician,0.17
+47012.0,3.9,Mayo Clinic,"Jacksonville, FL",10000+,Health Care Services & Hospitals,Healthcare,FL,data scientist,0.3
+86262.0,3.9,KBR,"Houston, TX",10000+,Aerospace & Defense,Aerospace & Defense,TX,statistician,0.31
+50329.0,4.1,Columbia University Medical Center,"New York, NY",10000+,Colleges & Universities,Education,NY,data scientist,0.23
+72134.0,4.4,University of Michigan,"Ann Arbor, MI",10000+,Colleges & Universities,Education,MI,data scientist,0.29
+93177.0,4.0,Hospital for Special Surgery,"New York, NY",1001 - 5000,Health Care Services & Hospitals,Healthcare,NY,statistician,0.52
+70004.0,3.9,The Ohio State University Wexner Medical Center,"Columbus, OH",10000+,Health Care Services & Hospitals,Healthcare,OH,analyst,0.15
+60750.0,4.1,Columbia University,"New York, NY",10000+,Colleges & Universities,Education,NY,data scientist,0.46
+71701.0,4.2,University of Texas at Arlington,"Arlington, TX",5001 - 10000,Colleges & Universities,Education,TX,data scientist,0.24
+130855.0,4.1,Verona Pharma,"Raleigh, NC",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,NC,statistician,0.35
+93908.0,3.6,Moderna Therapeutics,"Cambridge, MA",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,statistician,0.35
+84286.0,4.0,Massachusetts General Hospital(MGH),"Boston, MA",10000+,Health Care Services & Hospitals,Healthcare,MA,data scientist,0.27
+82901.0,4.0,Spectral MD Inc,"Dallas, TX",51 - 200,Biotechnology,Pharmaceutical & Biotechnology,TX,statistician,0.33
+98334.0,4.1,Corteva,"Champaign, IL",10000+,Farm Support,Agriculture,IL,statistician,0.5
+49001.0,4.1,University of South Carolina,"Spartanburg, SC",5001 - 10000,Colleges & Universities,Education,SC,analyst,0.35
+134000.0,4.0,Edwards Lifesciences,"Irvine, CA",10000+,Health Care Products Manufacturing,Manufacturing,CA,statistician,0.24
+92448.0,4.1,Pfizer,"Groton, CT",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CT,statistician,0.35
+109621.0,4.1,GSK,"Collegeville, PA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,PA,statistician,0.35
+93500.0,3.9,UT Southwestern Medical Center,Remote,10000+,Health Care Services & Hospitals,Healthcare,Remote,statistician,0.28
+110834.0,4.2,Vertex Pharmaceuticals,"Boston, MA",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,statistician,0.21
+78740.0,4.3,Stanford University,"Redwood City, CA",10000+,Colleges & Universities,Education,CA,analyst,0.24
+115500.0,4.1,Corteva Agriscience,"Indianapolis, IN",10000+,Farm Support,Agriculture,IN,research scientist,0.33
+115000.0,3.7,Active Motif Inc,"Carlsbad, CA",51 - 200,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,statistician,0.5
+97062.0,4.0,Hospital for Special Surgery,"New York, NY",1001 - 5000,Health Care Services & Hospitals,Healthcare,NY,analyst,0.35
+100638.0,3.9,Beam Inc.,"Chicago, IL",5001 - 10000,Food & Beverage Manufacturing,Manufacturing,IL,data scientist,0.46
+120000.0,3.9,Leidos,"Arlington, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,mle,0.46
+205000.0,4.1,Bloomberg,"New York, NY",10000+,Computer Hardware Development,Information Technology,NY,statistician,0.34
+164600.0,4.3,Genentech,"South San Francisco, CA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,data scientist,0.31
+145000.0,4.3,Horizon Therapeutics,"Deerfield, IL",501 - 1000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,IL,data scientist,0.4
+116383.0,4.1,SullivanCotter,"Atlanta, GA",201 - 500,Business Consulting,Management & Consulting,GA,data scientist,0.3
+136508.0,3.3,Adtalem Global Education,Remote,10000+,Colleges & Universities,Education,Remote,data scientist,0.26
+121142.0,4.1,Fives,"Seattle, WA",5001 - 10000,Machinery Manufacturing,Manufacturing,WA,mle,0.34
+189971.0,3.8,Comcast,"Irvine, CA",10000+,Telecommunications Services,Telecommunications,CA,data scientist,0.28
+114579.0,4.5,Highlight Technologies,"Washington, DC",201 - 500,Information Technology Support Services,Information Technology,DC,data scientist,0.46
+70229.0,3.5,Tyson Foods,"Springdale, AR",10000+,Food & Beverage Manufacturing,Manufacturing,AR,data scientist,0.29
+185000.0,3.7,Vanguard,Remote,10000+,Investment & Asset Management,Financial Services,Remote,mle,0.41
+146250.0,3.7,Logic20/20 Inc.,Remote,201 - 500,Business Consulting,Management & Consulting,Remote,data engineer,0.47
+160000.0,4.1,DW Simpson,"Fairfield, OH",51 - 200,HR Consulting,Human Resources & Staffing,OH,data scientist,0.35
+141000.0,3.6,Honeywell,"Charlotte, NC",5001 - 10000,Business Consulting,Management & Consulting,NC,data scientist,0.36
+134100.0,4.1,Navy Federal Credit Union,"Vienna, VA",10000+,Banking & Lending,Financial Services,VA,data scientist,0.35
+120000.0,4.5,Liberty Personnel Services,"Lawrenceville, NJ",1 - 50,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.3
+160000.0,4.2,The HT Group,"Austin, TX",1 - 50,HR Consulting,Human Resources & Staffing,TX,data scientist,0.23
+182375.0,3.4,Allstate,"Chicago, IL",10000+,Insurance Agencies & Brokerages,Insurance,IL,data scientist,0.35
+160500.0,4.4,Ayahealthcare,Oregon,5001 - 10000,HR Consulting,Human Resources & Staffing,OR,mle,0.4
+193300.0,3.9,Alaska Airlines,"Seattle, WA",10000+,"Airlines, Airports & Air Transportation",Transportation & Logistics,WA,data scientist,0.35
+106345.0,4.2,MATRIX Resources,"Phoenix, TX",201 - 500,Staffing & Subcontracting,Human Resources & Staffing,TX,mle,0.34
+123460.0,3.9,Insight Global,"Phoenix, AZ",1001 - 5000,HR Consulting,Human Resources & Staffing,AZ,mle,0.29
+93698.0,3.7,Vanguard,"Charlotte, NC",10000+,Investment & Asset Management,Financial Services,NC,analyst,0.34
+82640.0,4.5,Joule,"Florham Park, NJ",201 - 500,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.15
+101000.0,3.0,NJM Insurance,"Trenton, NJ",1001 - 5000,Insurance Carriers,Insurance,NJ,analyst,0.28
+884000.0,3.0,"Penda Aiken, Inc.","Long Island City, NY",51 - 200,HR Consulting,Human Resources & Staffing,NY,analyst,0.42
+150000.0,4.5,Joule,"Cranbury, NJ",201 - 500,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.12
+72940.0,3.3,Adtalem Global Education,Remote,10000+,Colleges & Universities,Education,Remote,analyst,0.48
+101335.0,3.3,Houston Independent School District,"Houston, TX",10000+,Preschools & Child Care Services,Education,TX,analyst,0.15
+114943.0,4.0,CPChem,"The Woodlands, TX",1001 - 5000,Chemical Manufacturing,Manufacturing,TX,data scientist,0.31
+120100.0,4.0,SCAN Health Plan,"Long Beach, CA",1001 - 5000,Insurance Carriers,Insurance,CA,analyst,0.38
+90000.0,4.0,Lhoist North America,"Brierfield, AL",5001 - 10000,Metal & Mineral Manufacturing,Manufacturing,AL,data scientist,0.31
+46073.0,3.1,Valcor Engineering,"Springfield, NJ",201 - 500,Machinery Manufacturing,Manufacturing,NJ,data scientist,0.17
+116000.0,3.0,"Fiore & Sons, Inc","Denver, CO",201 - 500,Construction,"Construction, Repair & Maintenance Services",CO,data scientist,0.38
+75460.0,3.7,Weaver Consultants Group Llc,"Naperville, IL",201 - 500,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",IL,data scientist,0.44
+63094.0,3.1,Multisourcemfg.com,"Anoka, MN",201 - 500,Machinery Manufacturing,Manufacturing,MN,data scientist,0.26
+55000.0,5.0,Petersen Brothers Construction,"Twin Falls, ID",1 - 50,Construction,"Construction, Repair & Maintenance Services",ID,data scientist,0.34
+105000.0,3.5,"Kaiser Aluminum Fabricated Products - Newark, Ohio","Heath, OH",1001 - 5000,Metal & Mineral Manufacturing,Manufacturing,OH,data scientist,0.43
+65000.0,5.0,Encore Dredging Partners,"Gulf, TX",201 - 500,Construction,"Construction, Repair & Maintenance Services",TX,data scientist,0.41
+416000.0,-1.0,"Aztalan Engineering, Inc.","Lake Mills, WI",51 - 200,Health Care Products Manufacturing,Manufacturing,WI,data scientist,0.58
+72500.0,1.4,HDM Hydraulics LLC,"Tonawanda, NY",51 - 200,Machinery Manufacturing,Manufacturing,NY,data scientist,0.23
+55000.0,3.5,Demco,"Boyden, IA",201 - 500,Machinery Manufacturing,Manufacturing,IA,data scientist,0.29
+162500.0,4.8,Zapata Technology,"Wahiawa, HI",51 - 200,Information Technology Support Services,Information Technology,HI,data scientist,0.42
+107500.0,3.7,Linde,"Magna, UT",10000+,Chemical Manufacturing,Manufacturing,UT,data scientist,0.31
+70000.0,2.8,Elgin Fastener Group,"Rockford, IL",501 - 1000,Metal & Mineral Manufacturing,Manufacturing,IL,data scientist,0.32
+53956.0,3.3,Kcw Engineering Technologies Inc,"Baltimore, MD",51 - 200,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",MD,data scientist,0.29
+47217.0,4.0,SpatialGIS LLC,"Scott Air Force Base, IL",1001 - 5000,Computer Hardware Development,Information Technology,IL,data scientist,0.36
+87500.0,3.7,Scholastic Inc,"Jefferson City, MO",51 - 200,Publishing,Media & Communication,MO,data scientist,0.36
+72279.0,3.7,Brown and Root,"Deepwater, NJ",51 - 200,Construction,"Construction, Repair & Maintenance Services",NJ,data scientist,0.4
+137500.0,2.3,"Mullen Technologies, Inc","Irvine, CA",1 - 50,Automotive Parts & Accessories Stores,Retail & Wholesale,CA,data scientist,0.34
+84735.0,4.3,Biourja Renewables LLC,"Peoria, IL",201 - 500,Advertising & Public Relations,Media & Communication,IL,data scientist,0.29
+83500.0,2.8,Explore Industries,"Marion, SC",201 - 500,Consumer Product Manufacturing,Manufacturing,SC,data scientist,0.48
+160000.0,4.1,My Headhunter LLC,"Santa Barbara, CA",1 - 50,HR Consulting,Human Resources & Staffing,CA,data scientist,0.43
+70918.0,3.3,"Marquardt Switches, Inc.","Cazenovia, NY",501 - 1000,Computer Hardware Development,Information Technology,NY,data scientist,0.37
+69365.0,4.3,City of Moorhead,"Moorhead, MN",201 - 500,National Agencies,Government & Public Administration,MN,data scientist,0.21
+52500.0,3.4,Grammer Americas,"Tiffin, OH",10000+,Transportation Equipment Manufacturing,Manufacturing,OH,data scientist,0.21
+72770.0,3.7,Hamlet Protein,"Findlay, OH",51 - 200,Food & Beverage Manufacturing,Manufacturing,OH,data scientist,0.31
+46890.0,4.3,"Cross Manufacturing, Inc.","Lewis, KS",51 - 200,Metal & Mineral Manufacturing,Manufacturing,KS,data scientist,0.46
+87500.0,3.3,"Felix Schoeller North America, Inc.","Pulaski, NY",1001 - 5000,Consumer Product Manufacturing,Manufacturing,NY,data scientist,0.24
+90000.0,4.0,GC Associates USA,"Picatinny Arsenal, NJ",1 - 50,Accounting & Tax,Financial Services,NJ,data scientist,0.44
+60000.0,3.4,Yorozu Automotive,"Morrison, TN",5001 - 10000,Advertising & Public Relations,Media & Communication,TN,data scientist,0.25
+160000.0,3.2,Unigen Corporation,"Newark, CA",501 - 1000,Electronics Manufacturing,Manufacturing,CA,data scientist,0.36
+65000.0,5.0,Encore Dredging Partners,Alabama,201 - 500,Construction,"Construction, Repair & Maintenance Services",AL,data scientist,0.41
+120000.0,3.9,Freudenberg Medical,"Jeffersonville, IN",10000+,Machinery Manufacturing,Manufacturing,IN,data scientist,0.66
+115000.0,2.9,Velcro USA,"Manchester, NH",1001 - 5000,Machinery Manufacturing,Manufacturing,NH,data scientist,0.29
+115000.0,3.0,Versa Engineering & Technology,"Modesto, CA",51 - 200,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",CA,data scientist,0.46
+69559.0,3.4,"Weather Shield Mfg., Inc.","Park Falls, WI",1001 - 5000,Consumer Product Manufacturing,Manufacturing,WI,data scientist,0.33
+72642.0,5.0,Petersen Brothers Construction,"Twin Falls, ID",1 - 50,Construction,"Construction, Repair & Maintenance Services",ID,data scientist,0.33
+108000.0,4.0,ONEOK,"Tulsa, OK",1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",OK,data scientist,0.25
+72500.0,2.8,Elgin Fastener Group,"Rockford, IL",501 - 1000,Metal & Mineral Manufacturing,Manufacturing,IL,data scientist,0.32
+73049.0,3.0,HandyTube,"Camden, DE",201 - 500,Machinery Manufacturing,Manufacturing,DE,data scientist,0.39
+96878.0,3.4,SCHLUTER SYSTEMS L.P.,"Plattsburgh, NY",501 - 1000,Construction,"Construction, Repair & Maintenance Services",NY,data scientist,0.19
+117500.0,3.9,Marich Confectionery,"Hollister, CA",51 - 200,Food & Beverage Manufacturing,Manufacturing,CA,data scientist,0.44
+122500.0,3.6,EPS - Can discuss via phone,"Charlottesville, VA",1001 - 5000,HR Consulting,Human Resources & Staffing,VA,data scientist,0.32
+75000.0,3.8,Prince Industries,"Batavia, IL",201 - 500,Machinery Manufacturing,Manufacturing,IL,data scientist,0.34
+101525.0,3.2,"CVR Energy, Inc.","Wynnewood, OK",1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",OK,data scientist,0.4
+68993.0,3.4,Overhead Door Corporation,"Mount Hope, OH",1001 - 5000,Machinery Manufacturing,Manufacturing,OH,data scientist,0.2
+62217.0,3.3,TT Electronics plc,"Perry, OH",1001 - 5000,Electronics Manufacturing,Manufacturing,OH,data scientist,0.32
+86709.0,2.9,Velcro USA,"Manchester, NH",1001 - 5000,Machinery Manufacturing,Manufacturing,NH,data scientist,0.37
+76500.0,3.6,The AZEK Company,"Wilmington, OH",1001 - 5000,Consumer Product Manufacturing,Manufacturing,OH,data scientist,0.32
+137500.0,2.3,"Mullen Technologies, Inc","Irvine, CA",1 - 50,Automotive Parts & Accessories Stores,Retail & Wholesale,CA,data scientist,0.32
+205000.0,4.1,Bloomberg,"New York, NY",10000+,Computer Hardware Development,Information Technology,NY,mle,0.39
+150000.0,4.1,Bloomberg,"New York, NY",10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.39
+97000.0,3.9,Leidos,"Dayton, OH",10000+,Aerospace & Defense,Aerospace & Defense,OH,data scientist,0.23
+212500.0,4.1,Bloomberg,"New York, NY",10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.34
+90000.0,3.1,Fresenius Kabi,"Lake Zurich, IL",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,IL,analyst,0.32
+154200.0,4.0,Northrop Grumman,"Clearfield, UT",10000+,Aerospace & Defense,Aerospace & Defense,UT,data scientist,0.42
+212500.0,4.1,Bloomberg,"New York, NY",10000+,Computer Hardware Development,Information Technology,NY,data scientist,0.35
+102500.0,3.1,Fora Financial LLC,"New York, NY",51 - 200,Banking & Lending,Financial Services,NY,analyst,0.3
+143100.0,4.1,Navy Federal Credit Union,"Vienna, VA",10000+,Banking & Lending,Financial Services,VA,data engineer,0.32
+140000.0,3.7,Vanguard,Remote,10000+,Investment & Asset Management,Financial Services,Remote,mle,0.45
+171200.0,4.2,Vertex Pharmaceuticals,"Boston, MA",1001 - 5000,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,MA,data scientist,0.29
+149513.0,4.3,Genentech,"South San Francisco, CA",10000+,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,CA,mle,0.24
+120000.0,3.5,Pinkerton,"Seattle, WA",1001 - 5000,Business Consulting,Management & Consulting,WA,analyst,0.31
+121163.0,3.4,Allstate,"Chicago, IL",10000+,Insurance Agencies & Brokerages,Insurance,IL,data scientist,0.34
+190000.0,3.6,Peraton,"Annapolis Junction, MD",10000+,Information Technology Support Services,Information Technology,MD,data scientist,0.17
+133405.0,4.0,Fidelity TalentSource,"Boston, MA",51 - 200,Staffing & Subcontracting,Human Resources & Staffing,MA,mle,0.3
+127158.0,4.1,Snohomish County PUD No.1,"Everett, WA",501 - 1000,Energy & Utilities,"Energy, Mining & Utilities",WA,analyst,0.23
+72784.0,4.3,AIDT,"Montgomery, AL",51 - 200,Education & Training Services,Education,AL,data scientist,0.17
+81038.0,3.8,"Draeger Medical Systems, Inc.","Andover, MA",10000+,Health Care Products Manufacturing,Manufacturing,MA,analyst,0.29
+140000.0,4.0,Idea Evolver,Remote,1 - 50,Advertising & Public Relations,Media & Communication,Remote,mle,0.28
+137500.0,3.3,1010data,"New York, NY",201 - 500,Computer Hardware Development,Information Technology,NY,data scientist,0.39
+107697.0,3.6,Kershner Trading,"Austin, TX",51 - 200,Investment & Asset Management,Financial Services,TX,data scientist,0.3
+91283.0,4.7,Improvix Technologies,"Reston, VA",51 - 200,Information Technology Support Services,Information Technology,VA,data scientist,0.53
+76922.0,2.5,Meduit,"Waco, TX",501 - 1000,Health Care Services & Hospitals,Healthcare,TX,data scientist,0.33
+91507.0,3.6,Axle Informatics,"Rockville, MD",501 - 1000,Research & Development,Management & Consulting,MD,data scientist,0.36
+105000.0,3.7,Meetup,"New York, NY",51 - 200,Internet & Web Services,Information Technology,NY,mle,0.4
+99954.0,4.6,Budderfly,"Shelton, CT",51 - 200,Energy & Utilities,"Energy, Mining & Utilities",CT,data scientist,0.58
+159847.0,4.5,Turo,"San Francisco, CA",501 - 1000,Internet & Web Services,Information Technology,CA,data scientist,0.38
+90000.0,3.1,Netrush,"Vancouver, WA",51 - 200,Advertising & Public Relations,Media & Communication,WA,data scientist,0.36
+84493.0,3.5,Daikin Comfort Technologies,"Waller, TX",10000+,Wholesale,Retail & Wholesale,TX,data scientist,0.37
+103862.0,4.4,Central Mutual Insurance Company,"Van Wert, OH",501 - 1000,Insurance Carriers,Insurance,OH,data scientist,0.44
+63000.0,2.9,We Are Sharing Hope Sc,"North Charleston, SC",51 - 200,Civic & Social Services,Nonprofit & NGO,SC,data scientist,0.29
+88650.0,3.8,PSW,"Olympia, WA",51 - 200,Health Care Services & Hospitals,Healthcare,WA,analyst,0.21
+64914.0,3.3,IMMI,"Westfield, IN",1001 - 5000,Machinery Manufacturing,Manufacturing,IN,analyst,0.55
+63000.0,3.8,Quakertown Community School District,"Quakertown, PA",201 - 500,Primary & Secondary Schools,Education,PA,analyst,0.56
+83555.0,3.8,JMD CARE SERVICES,"Hicksville, NY",51 - 200,Health Care Services & Hospitals,Healthcare,NY,analyst,0.37
+78477.0,3.9,Putnam Investments,"Boston, MA",1001 - 5000,Investment & Asset Management,Financial Services,MA,analyst,0.46
+60696.0,3.5,PRA Group,"Norfolk, VA",1001 - 5000,Debt Relief,Financial Services,VA,analyst,0.7
+86250.0,3.0,Acorn Health,"Crofton, MD",1001 - 5000,Health Care Services & Hospitals,Healthcare,MD,analyst,0.48
+67092.0,3.5,"Pacific Southwest Container, LLC","Modesto, CA",501 - 1000,Consumer Product Manufacturing,Manufacturing,CA,analyst,0.24
+59986.0,4.4,USAble Life,"Portland, OR",501 - 1000,Insurance Carriers,Insurance,OR,analyst,0.26
+65000.0,3.4,Supreme Court of Appeals of West Virginia,"Charleston, WV",1 - 50,State & Regional Agencies,Government & Public Administration,WV,analyst,0.29
+634400.0,4.6,BroadStaff Inc.,"Canonsburg, PA",51 - 200,Telecommunications Services,Telecommunications,PA,analyst,0.28
+38539.0,3.7,Hmong College Prep Academy,"Saint Paul, MN",51 - 200,Primary & Secondary Schools,Education,MN,analyst,0.31
+61512.0,4.0,"Turn5, Inc.","Paoli, PA",201 - 500,Automotive Parts & Accessories Stores,Retail & Wholesale,PA,analyst,0.49
+665600.0,4.1,Friedman's Home Improvement,"Petaluma, CA",201 - 500,Home Furniture & Housewares Stores,Retail & Wholesale,CA,analyst,0.32
+56329.0,3.3,Old Republic Title,"Minnetonka, MN",1001 - 5000,Insurance Carriers,Insurance,MN,analyst,0.29
+67742.0,3.0,Fulton Bank,"East Petersburg, PA",501 - 1000,Banking & Lending,Financial Services,PA,analyst,0.3
+62121.0,3.5,Select Medical,"Mechanicsburg, PA",10000+,Health Care Services & Hospitals,Healthcare,PA,analyst,0.33
+63760.0,3.9,Josselyn,"Northfield, IL",51 - 200,Civic & Social Services,Nonprofit & NGO,IL,analyst,0.72
+71996.0,3.4,Denver Public Schools,"Denver, CO",10000+,Primary & Secondary Schools,Education,CO,analyst,0.31
+73500.0,3.4,Aspire Living & Learning,"New Haven, CT",1001 - 5000,Health Care Services & Hospitals,Healthcare,CT,analyst,0.42
+70000.0,2.5,"Virtuoso, Ltd.","Fort Worth, TX",201 - 500,Travel Agencies,Hotels & Travel Accommodation,TX,analyst,0.31
+75526.0,2.8,Thin Film Technology Corporation,"North Mankato, MN",1 - 50,Machinery Manufacturing,Manufacturing,MN,analyst,0.58
+71329.0,4.2,KeyLogic Systems,"Morgantown, WV",501 - 1000,Energy & Utilities,"Energy, Mining & Utilities",WV,analyst,0.49
+67192.0,3.2,"Coordinated Transportation Solutions, Inc.","Trumbull, CT",51 - 200,Machinery Manufacturing,Manufacturing,CT,analyst,0.31
+53468.0,3.5,"Backhaul Direct, LLC","Indianapolis, IN",51 - 200,Shipping & Trucking,Transportation & Logistics,IN,analyst,0.47
+70093.0,4.4,Gallup,"Omaha, NE",501 - 1000,Business Consulting,Management & Consulting,NE,analyst,0.41
+67005.0,4.0,AIPSO,"Johnston, RI",201 - 500,Insurance Agencies & Brokerages,Insurance,RI,analyst,0.26
+60639.0,3.7,West Fraser,"Germantown, TN",5001 - 10000,Wood & Paper Manufacturing,Manufacturing,TN,analyst,0.34
+72500.0,3.5,Guttman Energy Inc,"Belle Vernon, PA",51 - 200,Energy & Utilities,"Energy, Mining & Utilities",PA,analyst,0.56
+76105.0,4.1,Exelon Corporation,"Christiana, DE",10000+,Energy & Utilities,"Energy, Mining & Utilities",DE,analyst,0.28
+73417.0,3.0,RESICAP,"Atlanta, GA",501 - 1000,Real Estate,Real Estate,GA,analyst,0.43
+60000.0,3.3,Goodwill Industries of Central Oklahoma,"Oklahoma City, OK",51 - 200,Civic & Social Services,Nonprofit & NGO,OK,analyst,0.29
+93554.0,4.1,ASML,"San Diego, CA",10000+,Electronics Manufacturing,Manufacturing,CA,analyst,0.27
+71219.0,3.3,Sedgwick County,"Wichita, KS",1001 - 5000,State & Regional Agencies,Government & Public Administration,KS,analyst,0.32
+47000.0,4.3,webfx.com,"Harrisburg, PA",501 - 1000,Internet & Web Services,Information Technology,PA,analyst,0.54
+54501.0,4.1,TELCOR Inc,"Lincoln, NE",201 - 500,Health Care Services & Hospitals,Healthcare,NE,analyst,0.59
+58764.0,3.9,Baptist Health South Florida,"Miami, FL",10000+,Health Care Services & Hospitals,Healthcare,FL,analyst,0.31
+95000.0,4.0,Citizens Property Insurance Corporation,"Tallahassee, FL",1001 - 5000,Insurance Carriers,Insurance,FL,analyst,0.27
+100970.0,3.7,Corporate,"Bridgewater, NJ",10000+,"Department, Clothing & Shoe Stores",Retail & Wholesale,NJ,analyst,0.63
+55574.0,3.9,Archrock,"Midland, TX",1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",TX,analyst,0.14
+69700.0,-1.0,DISH - Corporate,"Englewood, CO",10000+,"Cable, Internet & Telephone Providers",Telecommunications,CO,analyst,0.34
+55691.0,3.6,Christiana Care Health Systems,"Wilmington, DE",10000+,Health Care Services & Hospitals,Healthcare,DE,analyst,0.5
+62500.0,5.0,Fuse3 Solutions,"Oklahoma City, OK",1 - 50,HR Consulting,Human Resources & Staffing,OK,analyst,0.49
+65000.0,3.2,Sealing Devices Inc.,"Lancaster, NY",51 - 200,Transportation Equipment Manufacturing,Manufacturing,NY,analyst,0.36
+61643.0,3.5,Arizona Financial Credit Union,"Phoenix, AZ",501 - 1000,Banking & Lending,Financial Services,AZ,analyst,0.25
+228800.0,3.7,CPS Energy,"San Antonio, TX",1001 - 5000,Energy & Utilities,"Energy, Mining & Utilities",TX,analyst,0.28
+75131.0,3.0,Asmodee North America Inc,"Lino Lakes, MN",501 - 1000,Sports & Recreation,"Arts, Entertainment & Recreation",MN,analyst,0.43
+61294.0,3.8,Affiliated Monitoring,"Union, NJ",501 - 1000,Security & Protective,Management & Consulting,NJ,analyst,0.32
+65000.0,2.6,GC America Inc.,"Alsip, IL",201 - 500,Health Care Products Manufacturing,Manufacturing,IL,analyst,0.42
+44658.0,4.1,Heartland Community College,"Normal, IL",501 - 1000,Colleges & Universities,Education,IL,analyst,0.55
+60000.0,4.0,HCD International,"Lanham, MD",1 - 50,Business Consulting,Management & Consulting,MD,analyst,0.39
+52128.0,3.4,HYDAC TECHNOLOGY CORPORATION,"Bethlehem, PA",5001 - 10000,Machinery Manufacturing,Manufacturing,PA,analyst,0.23
+64735.0,3.6,Kimball Midwest,"Columbus, OH",1001 - 5000,Wholesale,Retail & Wholesale,OH,analyst,0.25
+65080.0,3.4,NFI Industries,"Camden, NJ",10000+,Shipping & Trucking,Transportation & Logistics,NJ,analyst,0.33
+49222.0,2.9,Panoramic Health,"Tempe, AZ",1001 - 5000,Health Care Services & Hospitals,Healthcare,AZ,analyst,0.58
+70000.0,4.0,Centre For Neuro Skills,"Bakersfield, CA",501 - 1000,Health Care Services & Hospitals,Healthcare,CA,analyst,0.18
+70274.0,3.2,Wayne Farms,"Oakwood, GA",10000+,Food & Beverage Manufacturing,Manufacturing,GA,analyst,0.27
+66474.0,3.9,Archer Daniels Midland Company,"Decatur, IL",10000+,Food & Beverage Manufacturing,Manufacturing,IL,analyst,0.4
+87422.0,3.1,Sound,"Tukwila, WA",501 - 1000,Health Care Services & Hospitals,Healthcare,WA,data engineer,0.28
+100080.0,4.0,Chelan County Public Utility District,"Wenatchee, WA",501 - 1000,Energy & Utilities,"Energy, Mining & Utilities",WA,data engineer,0.19
+105000.0,4.5,GovDocs,"Saint Paul, MN",51 - 200,Enterprise Software & Network Solutions,Information Technology,MN,data engineer,0.49
+110996.0,3.0,The Oncology Institute of Hope and Innovation,"Cerritos, CA",501 - 1000,Health Care Services & Hospitals,Healthcare,CA,data engineer,0.29
+769600.0,-1.0,Paragon Services Engineering,"San Diego, CA",51 - 200,General Repair & Maintenance,"Construction, Repair & Maintenance Services",CA,data scientist,0.27
+603200.0,3.9,Randstad Technologies,"Bear, DE",501 - 1000,HR Consulting,Human Resources & Staffing,DE,data scientist,0.2
+132500.0,3.4,Zoll Medical Corporation,"Broomfield, CO",1001 - 5000,Health Care Products Manufacturing,Manufacturing,CO,data engineer,0.39
+93867.0,3.7,Securian Financial Group,"Saint Paul, MN",5001 - 10000,Insurance Carriers,Insurance,MN,data scientist,0.38
+728000.0,4.5,"Maas Energy Works, Inc","Redding, CA",1 - 50,Energy & Utilities,"Energy, Mining & Utilities",CA,data engineer,0.43
+130000.0,3.8,Major League Baseball,"New York, NY",201 - 500,Sports & Recreation,"Arts, Entertainment & Recreation",NY,data engineer,0.44
+125000.0,4.0,Bay & Bay Transportation,"Eagan, MN",201 - 500,Shipping & Trucking,Transportation & Logistics,MN,data engineer,0.27
+123750.0,3.7,HelloFresh,"Grand Prairie, TX",10000+,Beauty & Wellness,Personal Consumer Services,TX,data engineer,0.53
+108000.0,4.0,Sia Partners,"Bellevue, WA",1001 - 5000,Business Consulting,Management & Consulting,WA,data engineer,0.29
+79446.0,3.7,NexTraq LLC,"Atlanta, GA",201 - 500,Software Development,Information Technology,GA,data engineer,0.42
+100219.0,3.6,Radcube LLC,"Cincinnati, OH",51 - 200,Information Technology Support Services,Information Technology,OH,data engineer,0.99
+87409.0,4.4,"Alianza, Inc.","Pleasant Grove, UT",201 - 500,Software Development,Information Technology,UT,data engineer,0.35
+99000.0,3.4,MediaMath,"New York, NY",501 - 1000,Publishing,Media & Communication,NY,data engineer,0.48
+64000.0,4.1,Small Batch Standard,Remote,1 - 50,Accounting & Tax,Financial Services,Remote,data engineer,0.32
+75715.0,3.8,Ryman Hospitality Properties,"Nashville, TN",501 - 1000,Culture & Entertainment,"Arts, Entertainment & Recreation",TN,data engineer,0.41
+114026.0,3.7,HCL America Inc,"Dallas, TX",10000+,Computer Hardware Development,Information Technology,TX,data engineer,0.14
+117327.0,4.2,Jetty,"New York, NY",51 - 200,Insurance Agencies & Brokerages,Insurance,NY,data engineer,0.51
+88197.0,4.1,Anblicks,"Dallas, TX",201 - 500,Information Technology Support Services,Information Technology,TX,data engineer,0.98
+87017.0,3.2,Ixaris,"Malta, MT",51 - 200,Financial Transaction Processing,Financial Services,MT,data engineer,0.37
+915200.0,4.8,Excelgens,Remote,51 - 200,Information Technology Support Services,Information Technology,Remote,data engineer,0.17
+90000.0,3.7,Mark43,"Denver, CO",51 - 200,Enterprise Software & Network Solutions,Information Technology,CO,data scientist,0.47
+98843.0,4.1,Anblicks,"Dallas, TX",201 - 500,Information Technology Support Services,Information Technology,TX,data engineer,0.19
+85515.0,3.0,Monogram Foods,"Memphis, TN",1001 - 5000,Food & Beverage Manufacturing,Manufacturing,TN,data engineer,0.21
+130500.0,3.8,Codazen,"Salt Lake City, UT",51 - 200,Business Consulting,Management & Consulting,UT,data engineer,0.47
+110000.0,4.6,DiamondPick,"New York, NY",1001 - 5000,HR Consulting,Human Resources & Staffing,NY,data engineer,0.45
+72500.0,4.4,APLOMB Technologies,"Princeton, NJ",51 - 200,Information Technology Support Services,Information Technology,NJ,data engineer,0.44
+120000.0,4.1,Coinstar,Remote,201 - 500,Other Retail Stores,Retail & Wholesale,Remote,data engineer,0.43
+110000.0,3.7,Holman,Remote,5001 - 10000,Vehicle Dealers,Retail & Wholesale,Remote,data engineer,0.81
+99026.0,3.0,Infinitive Inc,"Ashburn, VA",51 - 200,Business Consulting,Management & Consulting,VA,data engineer,0.48
+108057.0,4.6,REPS & Co.,"Seattle, WA",201 - 500,Information Technology Support Services,Information Technology,WA,data engineer,0.4
+112500.0,3.8,Michael Kors,"New York, NY",1001 - 5000,Other Retail Stores,Retail & Wholesale,NY,data engineer,0.36
+106112.0,3.7,Cirrus Design Corporation,"Dallas, TX",1001 - 5000,Aerospace & Defense,Aerospace & Defense,TX,data engineer,0.38
+90041.0,3.7,Alltech Inc,"Nicholasville, KY",1001 - 5000,Farm Support,Agriculture,KY,data engineer,0.58
+145000.0,4.6,Plaxonic Technologies,"Dallas, TX",51 - 200,Information Technology Support Services,Information Technology,TX,data engineer,0.7
+148500.0,3.3,Child Mind Institute,"New York, NY",201 - 500,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.32
+109242.0,3.7,MJHS,"Brooklyn, NY",1001 - 5000,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.21
+112500.0,4.6,T-Rex Solutions,"Washington, DC",201 - 500,Information Technology Support Services,Information Technology,DC,data engineer,0.48
+729040.0,3.7,Newmark,"Southlake, TX",5001 - 10000,Real Estate,Real Estate,TX,data scientist,0.16
+114545.0,4.0,"Nuvative, Inc.","Wichita, KS",1 - 50,Banking & Lending,Financial Services,KS,data scientist,0.31
+99288.0,4.5,Quiet Professionals LLC,"Tampa, FL",201 - 500,Aerospace & Defense,Aerospace & Defense,FL,data scientist,0.22
+130000.0,3.8,Vectrus,"King George, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,mle,0.32
+89628.0,4.0,"Nuvative, Inc.","Wichita, KS",1 - 50,Banking & Lending,Financial Services,KS,data scientist,0.29
+707200.0,3.5,Broadleaf,"Rochester, NY",10000+,HR Consulting,Human Resources & Staffing,NY,data scientist,0.26
+134799.0,4.1,Charter Manufacturing,"Mequon, WI",1001 - 5000,Metal & Mineral Manufacturing,Manufacturing,WI,data scientist,0.25
+117954.0,2.8,Washington State Department of Corrections,"Tumwater, WA",5001 - 10000,State & Regional Agencies,Government & Public Administration,WA,statistician,0.35
+185000.0,3.6,Aequor Technologies,"King of Prussia, PA",501 - 1000,Information Technology Support Services,Information Technology,PA,data scientist,0.27
+115000.0,3.2,Postal Center International,"Weston, FL",201 - 500,Office Supply & Copy Stores,Retail & Wholesale,FL,analyst,0.24
+109856.0,3.7,The Judge Group,"Trenton, NJ",1001 - 5000,HR Consulting,Human Resources & Staffing,NJ,data scientist,0.99
+91585.0,3.2,"Cal-Tex Protective Coatings, Inc.","Schertz, TX",51 - 200,Chemical Manufacturing,Manufacturing,TX,data scientist,0.24
+133385.0,3.5,Oscar Health,"New York, NY",1001 - 5000,Insurance Agencies & Brokerages,Insurance,NY,data scientist,0.28
+100629.0,3.8,Abbott Laboratories,"Austin, TX",10000+,Health Care Services & Hospitals,Healthcare,TX,data scientist,0.48
+110400.0,4.1,Jefferson Lab,"Newport News, VA",501 - 1000,National Agencies,Government & Public Administration,VA,data scientist,0.35
+102500.0,4.6,ApolloMed,Remote,501 - 1000,Health Care Services & Hospitals,Healthcare,Remote,data scientist,0.53
+124156.0,3.1,WALGREENS,"Deerfield, IL",10000+,Drug & Health Stores,Retail & Wholesale,IL,data scientist,0.37
+117500.0,4.2,Nanit,"New York, NY",1 - 50,Consumer Electronics & Appliances Stores,Retail & Wholesale,NY,data scientist,0.35
+132419.0,3.7,Starbucks,"Seattle, WA",10000+,Restaurants & Cafes,Restaurants & Food Service,WA,mle,0.18
+93000.0,-1.0,Mutual of Omaha - Corporate,Remote,5001 - 10000,Insurance Carriers,Insurance,Remote,data scientist,0.32
+80500.0,4.4,"E-Logic, Inc.","Sacramento, CA",1 - 50,Information Technology Support Services,Information Technology,CA,data engineer,0.29
+101567.0,4.4,Experian,"Costa Mesa, CA",10000+,Business Consulting,Management & Consulting,CA,data scientist,0.47
+67427.0,4.9,Camgian,"Starkville, MS",1 - 50,Computer Hardware Development,Information Technology,MS,data scientist,0.66
+117307.0,3.6,Stellar,"Dallas, TX",51 - 200,Information Technology Support Services,Information Technology,TX,data scientist,0.55
+100385.0,4.1,John Deere,"Moline, IL",10000+,Machinery Manufacturing,Manufacturing,IL,data scientist,0.32
+99955.0,2.5,DreamBox Learning,"Bellevue, WA",201 - 500,Education & Training Services,Education,WA,data scientist,0.43
+91353.0,3.8,DICK'S Sporting Goods,"Melville, NY",10000+,Sporting Goods Stores,Retail & Wholesale,NY,data scientist,0.23
+106210.0,4.2,GE Healthcare,"Wauwatosa, WI",10000+,Health Care Services & Hospitals,Healthcare,WI,data scientist,0.27
+73000.0,3.6,NYC Health + Hospitals,"New York, NY",5001 - 10000,Health Care Services & Hospitals,Healthcare,NY,data scientist,0.45
+160708.0,4.0,Pinterest,"San Francisco, CA",1001 - 5000,Internet & Web Services,Information Technology,CA,data scientist,0.33
+84892.0,3.3,Grand Casino,"Onamia, MN",1001 - 5000,Gambling,"Arts, Entertainment & Recreation",MN,data scientist,0.39
+100346.0,3.6,Banyan Data Services,"San Jose, CA",51 - 200,Information Technology Support Services,Information Technology,CA,analyst,0.4
+93124.0,3.9,HiLabs,"Bethesda, MD",51 - 200,Software Development,Information Technology,MD,data scientist,0.18
+92988.0,3.2,Auctane Careers,"Austin, TX",201 - 500,Computer Hardware Development,Information Technology,TX,data scientist,0.15
+96589.0,3.3,Kinetix Trading Solutions Inc,"Irving, TX",51 - 200,Investment & Asset Management,Financial Services,TX,mle,0.2
+133143.0,3.5,CareFirst BlueCross BlueShield,"Reston, VA",5001 - 10000,Insurance Carriers,Insurance,VA,data scientist,0.2
+105946.0,4.3,MNTN,"Austin, TX",201 - 500,Internet & Web Services,Information Technology,TX,mle,0.27
+86500.0,3.0,Lauretta AI LLC,"Austin, TX",1 - 50,Information Technology Support Services,Information Technology,TX,mle,0.97
+153938.0,3.1,WALGREENS,"Deerfield, IL",10000+,Drug & Health Stores,Retail & Wholesale,IL,data scientist,0.22
+135000.0,4.3,IUNU,"Seattle, WA",1 - 50,Computer Hardware Development,Information Technology,WA,mle,0.51
+120000.0,4.1,Cross River,"Fort Lee, NJ",501 - 1000,Banking & Lending,Financial Services,NJ,data scientist,0.35
+76304.0,4.1,Smith & Associates,"Houston, TX",501 - 1000,Information Technology Support Services,Information Technology,TX,data scientist,0.37
+149166.0,4.2,EarnIn,"Palo Alto, CA",201 - 500,Information Technology Support Services,Information Technology,CA,data scientist,0.49
+99950.0,4.2,Plasma Computing Group,"Dallas, TX",51 - 200,Enterprise Software & Network Solutions,Information Technology,TX,mle,0.11
+125000.0,4.1,Cenergy International Services,"Boston, MA",10000+,Energy & Utilities,"Energy, Mining & Utilities",MA,data scientist,0.53
+110100.0,3.6,Blue Cross & Blue Shield of Rhode Island,"Providence, RI",501 - 1000,Insurance Carriers,Insurance,RI,data scientist,0.34
+104957.0,4.3,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD",5001 - 10000,Aerospace & Defense,Aerospace & Defense,MD,data scientist,0.4
+72000.0,3.8,Tecolote Research,"Albuquerque, NM",501 - 1000,Aerospace & Defense,Aerospace & Defense,NM,data scientist,0.46
+87500.0,3.4,University of Maryland Medical System,"Linthicum, MD",10000+,Health Care Services & Hospitals,Health Care,MD,data scientist,0.47
+85000.0,4.8,KnowBe4,"Clearwater, FL",501 - 1000,Security Services,Business Services,FL,data scientist,0.33
+76500.0,3.8,PNNL,"Richland, WA",1001 - 5000,Energy,"Oil, Gas, Energy & Utilities",WA,data scientist,0.39
+114500.0,2.9,Affinity Solutions,"New York, NY",51 - 200,Advertising & Marketing,Business Services,NY,data scientist,0.55
+95000.0,3.4,CyrusOne,"Dallas, TX",201 - 500,Real Estate,Real Estate,TX,data scientist,0.51
+73500.0,4.1,ClearOne Advantage,"Baltimore, MD",501 - 1000,Banks & Credit Unions,Finance,MD,data scientist,0.51
+114000.0,3.8,Logic20/20,"San Jose, CA",201 - 500,Consulting,Business Services,CA,data scientist,0.58
+61000.0,3.3,Rochester Regional Health,"Rochester, NY",10000+,Health Care Services & Hospitals,Health Care,NY,research scientist,-0.01
+140000.0,4.6,<intent>,"New York, NY",51 - 200,Internet,Information Technology,NY,data scientist,0.46
+163500.0,3.5,Wish,"San Jose, CA",501 - 1000,Other Retail Stores,Retail,CA,data scientist,0.44
+85000.0,4.1,ManTech,"Chantilly, VA",5001 - 10000,Research & Development,Business Services,VA,data scientist,0.33
+139000.0,3.2,Walmart,"Plano, TX",10000+,"Department, Clothing, & Shoe Stores",Retail,TX,data scientist,0.25
+65500.0,4.1,Yesler,"Seattle, WA",201 - 500,Advertising & Marketing,Business Services,WA,analyst,0.57
+113500.0,3.7,Takeda Pharmaceuticals,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.23
+146000.0,3.6,Audible,"Newark, NJ",1001 - 5000,Motion Picture Production & Distribution,Media,NJ,data engineer,0.47
+102000.0,3.9,Blueprint Medicines,"Cambridge, MA",51 - 200,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.22
+153500.0,4.3,h2o.ai,"Mountain View, CA",201 - 500,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.22
+142500.0,4.2,Nuna,"San Francisco, CA",51 - 200,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.46
+87500.0,4.0,Pinnacol Assurance,"Denver, CO",501 - 1000,Insurance Carriers,Insurance,CO,data scientist,0.43
+105500.0,3.2,Porch,"Seattle, WA",201 - 500,Internet,Information Technology,WA,data scientist,0.64
+96000.0,3.9,Health IQ,"Dallas, TX",201 - 500,Insurance Agencies & Brokerages,Insurance,TX,mle,0.44
+112500.0,3.8,Truckstop.com,"Chicago, IL",501 - 1000,Logistics & Supply Chain,Transportation & Logistics,IL,data scientist,0.3
+84000.0,4.3,SMC 3,"Louisville, KY",51 - 200,Logistics & Supply Chain,Transportation & Logistics,KY,data scientist,0.66
+143000.0,4.0,Novetta,"Herndon, VA",501 - 1000,Enterprise Software & Network Solutions,Information Technology,VA,data scientist,0.38
+86500.0,4.0,Pfizer,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.43
+99500.0,3.5,First Tech Federal Credit Union,"Hillsboro, OR",1001 - 5000,Banks & Credit Unions,Finance,OR,data scientist,0.62
+47500.0,3.7,The Hanover Insurance Group,"Worcester, MA",5001 - 10000,Insurance Carriers,Insurance,MA,analyst,0.28
+84000.0,4.0,Pfizer,"Groton, CT",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CT,data scientist,0.49
+96000.0,3.6,Amrock,"Detroit, MI",1001 - 5000,Real Estate,Real Estate,MI,data scientist,0.35
+114500.0,3.8,Novartis,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,mle,0.38
+121000.0,3.8,Juniper Networks,"Sunnyvale, CA",5001 - 10000,Telecommunications Services,Telecommunications,CA,data scientist,0.3
+112500.0,4.7,New England Biolabs,"Ipswich, MA",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.24
+106000.0,4.2,Clarity Insights,"San Jose, CA",201 - 500,IT Services,Information Technology,CA,analyst,0.34
+107000.0,3.5,Esri,"Redlands, CA",1001 - 5000,Computer Hardware & Software,Information Technology,CA,data scientist,0.66
+110000.0,4.7,Systems & Technology Research,"Woburn, MA",201 - 500,Aerospace & Defense,Aerospace & Defense,MA,data scientist,0.62
+147500.0,3.5,Sartorius,"Fremont, CA",5001 - 10000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.71
+106000.0,3.5,Lancer Insurance,"Long Beach, NY",201 - 500,Insurance Carriers,Insurance,NY,data engineer,0.26
+88000.0,4.2,Sauce Labs,"San Francisco, CA",201 - 500,IT Services,Information Technology,CA,analyst,0.42
+142500.0,4.2,Nuna,"San Francisco, CA",51 - 200,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.47
+82500.0,3.4,Edgewell Personal Care,"Allendale, NJ",5001 - 10000,Consumer Products Manufacturing,Manufacturing,NJ,data scientist,0.3
+130000.0,4.3,Equity Residential,"Chicago, IL",1001 - 5000,Real Estate,Real Estate,IL,data scientist,0.38
+184500.0,3.7,Visa Inc.,"Bellevue, WA",10000+,IT Services,Information Technology,WA,data scientist,0.41
+29500.0,3.1,Intrado,"Longmont, CO",5001 - 10000,Enterprise Software & Network Solutions,Information Technology,CO,analyst,0.2
+86500.0,4.7,Centauri,"Beavercreek, OH",501 - 1000,Aerospace & Defense,Aerospace & Defense,OH,data scientist,0.49
+81000.0,3.7,Caterpillar,"Peoria, IL",10000+,Industrial Manufacturing,Manufacturing,IL,data scientist,0.36
+91000.0,3.8,Zimmerman Advertising,"Fort Lauderdale, FL",501 - 1000,Advertising & Marketing,Business Services,FL,data scientist,0.32
+114500.0,3.3,Liberty Mutual Insurance,"Boston, MA",10000+,Insurance Carriers,Insurance,MA,data scientist,0.45
+68000.0,4.6,"Torch Technologies, Inc.","Huntsville, AL",1001 - 5000,Aerospace & Defense,Aerospace & Defense,AL,analyst,0.46
+115000.0,3.7,Swiss Re,"Armonk, NY",10000+,Insurance Agencies & Brokerages,Insurance,NY,data scientist,0.32
+109500.0,3.7,Northrop Grumman,"San Diego, CA",10000+,Aerospace & Defense,Aerospace & Defense,CA,data scientist,0.44
+75500.0,3.5,Sartorius,"Albuquerque, NM",5001 - 10000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,NM,data scientist,0.71
+154500.0,4.1,Netskope,"San Francisco, CA",501 - 1000,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.56
+143500.0,4.7,1904labs,"Saint Louis, MO",51 - 200,IT Services,Information Technology,MO,data scientist,0.41
+107000.0,4.4,The David J. Joseph Company,"Cincinnati, OH",201 - 500,Metals Brokers,Mining & Metals,OH,data scientist,0.37
+115000.0,4.3,USEReady,"New York, NY",201 - 500,Consulting,Business Services,NY,data scientist,0.66
+139500.0,3.8,Bill.com,"Palo Alto, CA",501 - 1000,Financial Transaction Processing,Finance,CA,data scientist,0.23
+67000.0,3.8,Pacific Northwest National Laboratory,"Richland, WA",1001 - 5000,Energy,"Oil, Gas, Energy & Utilities",WA,data scientist,0.36
+85000.0,3.8,DICK'S Sporting Goods - Corporate,"Coraopolis, PA",10000+,Sporting Goods Stores,Retail,PA,data scientist,0.37
+118000.0,2.8,Berg Health,"Framingham, MA",51 - 200,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.77
+79500.0,4.7,Oversight Systems,"Atlanta, GA",51 - 200,Computer Hardware & Software,Information Technology,GA,data scientist,0.3
+56500.0,3.1,C Space,"Boston, MA",201 - 500,Advertising & Marketing,Business Services,MA,data scientist,0.44
+128500.0,3.2,"Numeric, LLC","Philadelphia, PA",1 - 50,Staffing & Outsourcing,Business Services,PA,data scientist,0.39
+97500.0,4.0,HP Inc.,"Vancouver, WA",10000+,Computer Hardware & Software,Information Technology,WA,data scientist,0.15
+66500.0,4.4,SpringML,"Indianapolis, IN",1 - 50,Enterprise Software & Network Solutions,Information Technology,IN,data scientist,0.11
+179500.0,3.6,Grainger,"Lake Forest, IL",10000+,Wholesale,Business Services,IL,data scientist,0.38
+76000.0,2.7,EAG Laboratories,"Maryland Heights, MO",501 - 1000,Research & Development,Business Services,MO,data scientist,0.28
+112000.0,3.9,The Buffalo Group,"Charlottesville, VA",501 - 1000,IT Services,Information Technology,VA,data scientist,0.21
+98000.0,3.1,Carmeuse,"Pittsburgh, PA",1001 - 5000,Mining,Mining & Metals,PA,data scientist,0.35
+128000.0,4.0,HP Inc.,"Vancouver, WA",10000+,Computer Hardware & Software,Information Technology,WA,data scientist,0.38
+150500.0,4.3,h2o.ai,"Mountain View, CA",201 - 500,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.26
+87500.0,1.9,GNS Healthcare,"Cambridge, MA",51 - 200,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,research scientist,0.36
+110000.0,3.3,Peraton,"Chantilly, VA",1001 - 5000,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.38
+113500.0,4.4,Pactera,"San Jose, CA",10000+,IT Services,Information Technology,CA,data scientist,0.47
+124000.0,3.9,Nurx,"San Francisco, CA",51 - 200,Health Care Services & Hospitals,Health Care,CA,data scientist,0.36
+56500.0,4.7,webfx.com,"Harrisburg, PA",201 - 500,Advertising & Marketing,Business Services,PA,analyst,0.61
+130000.0,4.5,Johns Hopkins University Applied Physics Laboratory,"Laurel, MD",5001 - 10000,Aerospace & Defense,Aerospace & Defense,MD,data scientist,0.36
+77500.0,4.3,Productive Edge,"Chicago, IL",51 - 200,Computer Hardware & Software,Information Technology,IL,analyst,0.52
+87000.0,4.0,Excella Consulting,"Arlington, VA",201 - 500,Consulting,Business Services,VA,data engineer,0.43
+53500.0,4.4,Gensco,"Tacoma, WA",501 - 1000,Wholesale,Business Services,WA,analyst,0.35
+85500.0,4.2,goTRG,"Miami, FL",501 - 1000,Enterprise Software & Network Solutions,Information Technology,FL,data scientist,0.42
+48000.0,4.5,NMR Consulting,"Huntsville, AL",51 - 200,IT Services,Information Technology,AL,data scientist,0.46
+48000.0,3.5,iSeatz,"New Orleans, LA",51 - 200,Enterprise Software & Network Solutions,Information Technology,LA,analyst,0.67
+174000.0,3.5,Nektar Therapeutics,"San Francisco, CA",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.41
+85000.0,3.9,TransUnion,"Atlanta, GA",5001 - 10000,Financial Analytics & Research,Finance,GA,data scientist,0.63
+106500.0,4.7,IT Concepts,"Landover, MD",51 - 200,IT Services,Information Technology,MD,data modeler,0.2
+72500.0,4.2,Scientific Research Corporation,"Patuxent River, MD",1001 - 5000,IT Services,Information Technology,MD,analyst,0.42
+85500.0,3.4,General Dynamics Information Technology,"Suitland, MD",10000+,IT Services,Information Technology,MD,data scientist,0.31
+97500.0,3.2,MITRE,"McLean, VA",5001 - 10000,Federal Agencies,Government,VA,data scientist,0.49
+99000.0,3.9,The Buffalo Group,"Fort Belvoir, VA",501 - 1000,IT Services,Information Technology,VA,data scientist,0.47
+56500.0,3.1,DentaQuest,"Milwaukee, WI",1001 - 5000,Insurance Carriers,Insurance,WI,analyst,0.26
+133000.0,4.1,Redjack,"Silver Spring, MD",1 - 50,IT Services,Information Technology,MD,data scientist,0.24
+121000.0,3.8,7Park Data,"New York, NY",51 - 200,Research & Development,Business Services,NY,data scientist,0.56
+85500.0,4.7,Rapid Response Monitoring,"Syracuse, NY",501 - 1000,Security Services,Business Services,NY,data scientist,0.28
+87500.0,4.3,Trilogy Ed,"Houston, TX",1001 - 5000,Education Training Services,Education,TX,data scientist,0.45
+237500.0,4.2,Gallup,"Washington, DC",1001 - 5000,Consulting,Business Services,DC,data scientist,0.46
+95500.0,3.9,CapTech,"Charlotte, NC",1001 - 5000,IT Services,Information Technology,NC,data engineer,0.41
+104500.0,3.3,American Axle & Manufacturing,"Southfield, MI",10000+,Transportation Equipment Manufacturing,Manufacturing,MI,data scientist,0.32
+56500.0,4.7,CentralReach,"Matawan, NJ",201 - 500,Computer Hardware & Software,Information Technology,NJ,analyst,0.55
+55000.0,4.3,Integrate,"Phoenix, AZ",201 - 500,Enterprise Software & Network Solutions,Information Technology,AZ,analyst,0.44
+61500.0,2.9,Boys Town Hospital,"Omaha, NE",1001 - 5000,Health Care Services & Hospitals,Health Care,NE,research scientist,0.45
+157000.0,4.5,Demandbase,"San Francisco, CA",201 - 500,Computer Hardware & Software,Information Technology,CA,data scientist,0.43
+78000.0,3.4,Sapphire Digital,"Lyndhurst, NJ",201 - 500,Internet,Information Technology,NJ,data engineer,0.36
+132500.0,3.2,Formation,"San Francisco, CA",51 - 200,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.43
+108000.0,4.0,Autodesk,"San Francisco, CA",5001 - 10000,Computer Hardware & Software,Information Technology,CA,data engineer,0.57
+80500.0,4.6,Beck's Hybrids,"Atlanta, IN",501 - 1000,Farm Support Services,Agriculture & Forestry,IN,data scientist,0.32
+107500.0,2.8,DrFirst,"Rockville, MD",201 - 500,Health Care Services & Hospitals,Health Care,MD,data scientist,0.29
+95000.0,4.7,Object Partners,"Minneapolis, MN",51 - 200,Consulting,Business Services,MN,data engineer,0.24
+119500.0,3.0,L.A. Care Health Plan,"Los Angeles, CA",1001 - 5000,Health Care Services & Hospitals,Health Care,CA,data scientist,0.21
+134000.0,3.2,Red Ventures,"Charlotte, NC",1001 - 5000,Advertising & Marketing,Business Services,NC,data engineer,0.4
+100500.0,4.4,Quick Base,"Cambridge, MA",201 - 500,Enterprise Software & Network Solutions,Information Technology,MA,data scientist,0.58
+107500.0,3.5,The E.W. Scripps Company,"Cincinnati, OH",1001 - 5000,TV Broadcast & Cable Networks,Media,OH,data scientist,0.26
+122000.0,4.0,Upside Business Travel,"Washington, DC",51 - 200,Internet,Information Technology,DC,data engineer,0.32
+92500.0,4.3,Equity Residential,"Chicago, IL",1001 - 5000,Real Estate,Real Estate,IL,data engineer,0.39
+62000.0,2.3,Synagro,"Baltimore, MD",501 - 1000,Research & Development,Business Services,MD,analyst,0.38
+39500.0,4.0,Alliance Source Testing,"Alabaster, AL",51 - 200,Architectural & Engineering Services,Business Services,AL,data scientist,0.28
+107500.0,3.6,Accuride International,"Santa Fe Springs, Los Angeles, CA",1001 - 5000,Industrial Manufacturing,Manufacturing,CA,data scientist,0.34
+40500.0,3.8,Full Potential Solutions,"Kansas City, MO",501 - 1000,Staffing & Outsourcing,Business Services,MO,data scientist,0.93
+89500.0,3.7,Visa Inc.,"Ashburn, VA",10000+,IT Services,Information Technology,VA,mle,0.34
+81000.0,4.4,Maven Wave Partners,"Chicago, IL",201 - 500,Consulting,Business Services,IL,data scientist,0.26
+147000.0,4.0,Novetta,"Herndon, VA",501 - 1000,Enterprise Software & Network Solutions,Information Technology,VA,data scientist,0.36
+85000.0,3.2,"First Command Financial Services, Inc.","Fort Worth, TX",1001 - 5000,Brokerage Services,Finance,TX,data scientist,0.2
+81500.0,2.9,Pharmavite,"Valencia, CA",1001 - 5000,Consumer Products Manufacturing,Manufacturing,CA,data scientist,0.43
+168000.0,3.8,BioMarin Pharmaceutical,"Novato, CA",1001 - 5000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.34
+100500.0,4.3,Stratagem Group,"Aurora, CO",1 - 50,Aerospace & Defense,Aerospace & Defense,CO,mle,0.47
+97000.0,3.4,PA Consulting,"New York, NY",1001 - 5000,Consulting,Business Services,NY,data scientist,0.5
+132500.0,5.0,Gridiron IT,"Tampa, FL",51 - 200,IT Services,Information Technology,FL,data engineer,-0.01
+100000.0,4.3,Productive Edge,"Chicago, IL",51 - 200,Computer Hardware & Software,Information Technology,IL,data engineer,0.33
+105000.0,3.7,Evolve Vacation Rental,"Denver, CO",201 - 500,Travel Agencies,Travel & Tourism,CO,data scientist,0.54
+87000.0,4.2,The Church of Jesus Christ of Latter-day Saints,"Riverton, UT",10000+,Religious Organizations,Non-Profit,UT,data engineer,0.49
+103500.0,4.3,Maximus Real Estate Partners,"San Francisco, CA",51 - 200,Real Estate,Real Estate,CA,analyst,0.26
+124000.0,2.6,Software Engineering Institute,"Pittsburgh, PA",501 - 1000,Colleges & Universities,Education,PA,research scientist,0.39
+67000.0,3.8,PNNL,"Richland, WA",1001 - 5000,Energy,"Oil, Gas, Energy & Utilities",WA,data scientist,0.29
+87000.0,3.9,AVANADE,"Washington, DC",10000+,IT Services,Information Technology,DC,data engineer,0.55
+137500.0,4.3,h2o.ai,"Chicago, IL",201 - 500,Enterprise Software & Network Solutions,Information Technology,IL,data scientist,0.26
+100000.0,3.8,PatientPoint,"Cincinnati, OH",201 - 500,Advertising & Marketing,Business Services,OH,data scientist,0.35
+106500.0,3.8,BlueCross BlueShield of Tennessee,"Chattanooga, TN",5001 - 10000,Insurance Carriers,Insurance,TN,data engineer,0.27
+98500.0,3.8,PNNL,"Richland, WA",1001 - 5000,Energy,"Oil, Gas, Energy & Utilities",WA,data scientist,0.36
+61000.0,4.8,KnowBe4,"Clearwater, FL",501 - 1000,Security Services,Business Services,FL,analyst,0.5
+106500.0,4.4,KSM Consulting,"Indianapolis, IN",51 - 200,Consulting,Business Services,IN,data scientist,0.42
+84500.0,3.9,Cogo Labs,"Cambridge, MA",51 - 200,Internet,Information Technology,MA,data engineer,0.36
+109500.0,3.4,Church & Dwight,"Ewing, NJ",1001 - 5000,Consumer Products Manufacturing,Manufacturing,NJ,data scientist,0.41
+164000.0,3.6,MassMutual,"Boston, MA",5001 - 10000,Insurance Carriers,Insurance,MA,data scientist,0.54
+169000.0,3.9,Genentech,"South San Francisco, CA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.3
+142000.0,3.8,Juniper Networks,"Cupertino, CA",5001 - 10000,Telecommunications Services,Telecommunications,CA,data scientist,0.26
+76500.0,3.7,Takeda Pharmaceuticals,"Boston, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.39
+107000.0,3.8,Legal & General America,"Frederick, MD",501 - 1000,Insurance Carriers,Insurance,MD,data scientist,0.37
+171500.0,3.5,Western Digital,"San Jose, CA",10000+,Computer Hardware & Software,Information Technology,CA,data scientist,0.15
+107000.0,4.2,The Church of Jesus Christ of Latter-day Saints,"Riverton, UT",10000+,Religious Organizations,Non-Profit,UT,data engineer,0.46
+145000.0,3.5,Sunovion,"Marlborough, MA",1001 - 5000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.25
+61500.0,2.9,National Student Clearinghouse,"Herndon, VA",201 - 500,Colleges & Universities,Education,VA,analyst,0.28
+20500.0,3.6,Tower Health,"West Reading, PA",5001 - 10000,Health Care Services & Hospitals,Health Care,PA,data scientist,0.41
+120000.0,2.7,State of Wisconsin Investment Board,"Madison, WI",51 - 200,Investment Banking & Asset Management,Finance,WI,data scientist,0.57
+62000.0,4.4,Rubius Therapeutics,"Cambridge, MA",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.18
+150500.0,4.0,Autodesk,"San Francisco, CA",5001 - 10000,Computer Hardware & Software,Information Technology,CA,data scientist,0.45
+87500.0,4.3,OneMagnify,"Dearborn, MI",201 - 500,Advertising & Marketing,Business Services,MI,data scientist,0.32
+71500.0,4.2,IZEA,"Winter Park, FL",51 - 200,Advertising & Marketing,Business Services,FL,data engineer,0.27
+51500.0,3.6,Vionic Group,"San Rafael, CA",51 - 200,"Department, Clothing, & Shoe Stores",Retail,CA,analyst,0.38
+151500.0,3.7,Takeda Pharmaceuticals,"San Diego, CA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.41
+77500.0,2.8,Dodge Data & Analytics,"Hamilton, NJ",201 - 500,IT Services,Information Technology,NJ,analyst,0.5
+140000.0,3.7,Takeda Pharmaceuticals,"Boston, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.42
+98500.0,3.3,Plymouth Rock Assurance,"Woodbridge, NJ",1001 - 5000,Insurance Carriers,Insurance,NJ,data scientist,0.23
+225000.0,-1.0,CA-One Tech Cloud,"San Francisco, CA",51 - 200,IT Services,Information Technology,CA,data scientist,0.36
+27500.0,3.6,Beebe Healthcare,"Lewes, DE",1001 - 5000,Health Care Services & Hospitals,Health Care,DE,data scientist,0.26
+161500.0,3.7,Takeda Pharmaceuticals,"Boston, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.06
+147000.0,3.4,Argo Group US,"New York, NY",1001 - 5000,Insurance Carriers,Insurance,NY,data scientist,0.15
+61000.0,4.1,Associated Electric Cooperative,"Springfield, MO",501 - 1000,Energy,"Oil, Gas, Energy & Utilities",MO,analyst,0.44
+120000.0,2.6,Software Engineering Institute,"Pittsburgh, PA",501 - 1000,Colleges & Universities,Education,PA,mle,0.36
+124500.0,3.2,PennyMac,"Phoenix, AZ",1001 - 5000,Lending,Finance,AZ,data scientist,0.45
+148000.0,3.9,Zest AI,"Burbank, CA",51 - 200,Financial Analytics & Research,Finance,CA,data scientist,0.56
+59000.0,4.7,DECISIVE ANALYTICS Corporation,"Huntsville, AL",51 - 200,Aerospace & Defense,Aerospace & Defense,AL,analyst,0.4
+146500.0,3.7,The Hanover Insurance Group,"Worcester, MA",5001 - 10000,Insurance Carriers,Insurance,MA,data scientist,0.29
+91500.0,2.9,Karyopharm Therapeutics Inc.,"Newton, MA",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.55
+133000.0,3.0,Tempus Labs,"Chicago, IL",501 - 1000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,IL,mle,0.24
+140500.0,4.7,Recursion Pharmaceuticals,"Salt Lake City, UT",51 - 200,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,UT,data scientist,0.32
+70500.0,3.7,P2 Energy Solutions,"Lafayette, LA",501 - 1000,Computer Hardware & Software,Information Technology,LA,data engineer,0.38
+84500.0,3.3,Rochester Regional Health,"Rochester, NY",10000+,Health Care Services & Hospitals,Health Care,NY,data scientist,0.18
+93500.0,4.0,ClearEdge,"Annapolis Junction, MD",51 - 200,Computer Hardware & Software,Information Technology,MD,data scientist,0.42
+134500.0,4.4,Rubius Therapeutics,"Cambridge, MA",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.3
+181000.0,3.9,Tapjoy,"San Francisco, CA",201 - 500,Internet,Information Technology,CA,mle,0.36
+84500.0,3.3,Rochester Regional Health,"Rochester, NY",10000+,Health Care Services & Hospitals,Health Care,NY,data scientist,0.18
+205000.0,4.1,Credit Sesame,"Mountain View, CA",51 - 200,Internet,Information Technology,CA,data engineer,0.62
+48500.0,3.6,San Manuel Casino,"Highland, CA",1001 - 5000,Gambling,"Arts, Entertainment & Recreation",CA,analyst,0.23
+21500.0,4.0,Texas Health Huguley Hospital,"Burleson, TX",1001 - 5000,Health Care Services & Hospitals,Health Care,TX,data scientist,0.29
+52500.0,2.4,Teasdale Latin Foods,"Hoopeston, IL",501 - 1000,Food & Beverage Manufacturing,Manufacturing,IL,data scientist,0.25
+124000.0,2.6,Software Engineering Institute,"Pittsburgh, PA",501 - 1000,Colleges & Universities,Education,PA,mle,0.35
+64000.0,3.5,Central California Alliance for Health,"Scotts Valley, CA",501 - 1000,Health Care Services & Hospitals,Health Care,CA,data scientist,0.4
+98000.0,3.0,Pilot Flying J Travel Centers LLC,"Knoxville, TN",10000+,Gas Stations,Retail,TN,data engineer,0.19
+27500.0,3.6,Beebe Healthcare,"Millville, DE",1001 - 5000,Health Care Services & Hospitals,Health Care,DE,data scientist,0.24
+54000.0,3.3,Palermo's Pizza,"Milwaukee, WI",501 - 1000,Food & Beverage Manufacturing,Manufacturing,WI,data scientist,0.48
+81000.0,2.7,Advanced BioScience Laboratories,"Rockville, MD",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MD,data scientist,0.27
+107500.0,3.4,Echo Global Logistics,"Chicago, IL",1001 - 5000,Transportation Management,Transportation & Logistics,IL,data engineer,0.34
+89000.0,3.7,Lockheed Martin,"Herndon, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.31
+100500.0,4.8,Acuity Insurance,"Sheboygan, WI",1001 - 5000,Insurance Carriers,Insurance,WI,statistician,0.2
+65000.0,3.8,Fareportal,"New York, NY",1001 - 5000,Travel Agencies,Travel & Tourism,NY,analyst,0.47
+20000.0,3.4,"Veterans Affairs, Veterans Health Administration","New Orleans, LA",10000+,Federal Agencies,Government,LA,data scientist,0.08
+72500.0,4.3,Credera,"Dallas, TX",201 - 500,Consulting,Business Services,TX,data scientist,0.39
+87500.0,3.4,Spectrum Communications and Consulting,"Chicago, IL",51 - 200,Advertising & Marketing,Business Services,IL,data scientist,0.35
+92500.0,3.1,NCSOFT,"San Mateo, CA",1001 - 5000,Video Games,Media,CA,analyst,0.66
+81500.0,3.2,MITRE,"McLean, VA",5001 - 10000,Federal Agencies,Government,VA,data scientist,0.47
+79000.0,4.3,"Dayton Freight Lines, Inc.","Dayton, OH",1001 - 5000,Trucking,Transportation & Logistics,OH,analyst,0.83
+47500.0,2.8,Community Action Partnership of San Luis Obispo,"Parlier, CA",501 - 1000,Social Assistance,Non-Profit,CA,analyst,0.12
+69000.0,3.4,TrueAccord,"San Francisco, CA",51 - 200,Enterprise Software & Network Solutions,Information Technology,CA,analyst,0.37
+49000.0,4.0,DRB Systems,"Meridian, ID",201 - 500,Computer Hardware & Software,Information Technology,ID,analyst,0.49
+59000.0,3.7,Corcentric,"Cherry Hill, NJ",201 - 500,Enterprise Software & Network Solutions,Information Technology,NJ,analyst,0.49
+88500.0,3.5,U.Group,"Indianapolis, IN",201 - 500,IT Services,Information Technology,IN,data scientist,0.29
+114500.0,4.7,Systems Evolution Inc.,"New York, NY",201 - 500,Consulting,Business Services,NY,data scientist,0.46
+88000.0,4.4,Eventbrite,"Nashville, TN",1001 - 5000,Internet,Information Technology,TN,data engineer,0.26
+100000.0,4.1,Centro,"Chicago, IL",501 - 1000,Internet,Information Technology,IL,data engineer,0.35
+96500.0,2.5,comScore,"Portland, OR",1001 - 5000,Advertising & Marketing,Business Services,OR,data scientist,0.37
+76000.0,4.2,SullivanCotter,"Minneapolis, MN",201 - 500,Consulting,Business Services,MN,analyst,0.29
+15500.0,3.9,NPD,"Port Washington, NY",1001 - 5000,Research & Development,Business Services,NY,data scientist,0.42
+83500.0,4.3,Bakery Agency,"Austin, TX",1 - 50,Advertising & Marketing,Business Services,TX,data scientist,0.56
+163000.0,3.9,Genentech,"South San Francisco, CA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.16
+100000.0,3.4,Blue Cross & Blue Shield of Rhode Island,"Providence, RI",501 - 1000,Insurance Carriers,Insurance,RI,analyst,0.25
+52500.0,3.8,Boys Town,"Omaha, NE",1001 - 5000,Social Assistance,Non-Profit,NE,research scientist,0.45
+50000.0,3.3,The HSC Health Care System,"Washington, DC",501 - 1000,Health Care Services & Hospitals,Health Care,DC,analyst,0.3
+93000.0,3.4,Pro-Sphere Tek,"Austin, TX",201 - 500,Consulting,Business Services,TX,data engineer,0.29
+94500.0,3.0,Ameritas Life Insurance Corp,"Cincinnati, OH",1001 - 5000,Insurance Agencies & Brokerages,Insurance,OH,data scientist,0.57
+102000.0,3.7,Genworth,"Raleigh, NC",1001 - 5000,Insurance Carriers,Insurance,NC,data scientist,0.5
+155000.0,3.2,"Numeric, LLC","Phila, PA",1 - 50,Staffing & Outsourcing,Business Services,PA,data scientist,0.32
+108000.0,3.9,Trace Data,"Oakland, CA",51 - 200,Insurance Carriers,Insurance,CA,data scientist,0.42
+63500.0,4.2,Clearwater Analytics,"Boise, ID",501 - 1000,Investment Banking & Asset Management,Finance,ID,analyst,0.24
+109000.0,4.0,"Tekvalley, Corp.","San Francisco, CA",1 - 50,IT Services,Information Technology,CA,data scientist,0.49
+96000.0,3.5,BWX Technologies,"Oak Ridge, TN",5001 - 10000,Aerospace & Defense,Aerospace & Defense,TN,data scientist,0.18
+101000.0,3.2,PennyMac,"Agoura Hills, CA",1001 - 5000,Lending,Finance,CA,data engineer,0.65
+77500.0,3.9,Vermeer,"Pella, IA",1001 - 5000,Industrial Manufacturing,Manufacturing,IA,data engineer,0.2
+90000.0,3.5,L&T Infotech,"San Ramon, CA",10000+,IT Services,Information Technology,CA,data scientist,0.31
+58000.0,4.3,OceanFirst Financial,"Red Bank, NJ",501 - 1000,Banks & Credit Unions,Finance,NJ,analyst,0.27
+128000.0,3.6,Sotheby's,"New York, NY",1001 - 5000,Auctions & Galleries,Retail,NY,data scientist,0.36
+101000.0,2.3,Vanda Pharmaceuticals,"Washington, DC",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,DC,data scientist,0.99
+142000.0,4.0,Novetta,"Fort Belvoir, VA",501 - 1000,Enterprise Software & Network Solutions,Information Technology,VA,data scientist,0.49
+169000.0,4.1,CK-12 Foundation,"Palo Alto, CA",1 - 50,K-12 Education,Education,CA,data scientist,0.54
+52500.0,4.2,Opinion Dynamics,"San Diego, CA",51 - 200,Consulting,Business Services,CA,data scientist,0.57
+75500.0,4.6,Applied Information Sciences,"Houston, TX",501 - 1000,IT Services,Information Technology,TX,data engineer,0.53
+139000.0,3.7,Swiss Re,"Armonk, NY",10000+,Insurance Agencies & Brokerages,Insurance,NY,data scientist,0.32
+102500.0,3.7,Takeda Pharmaceuticals,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data engineer,0.28
+60500.0,4.4,WK Dickson,"Columbia, SC",201 - 500,Architectural & Engineering Services,Business Services,SC,data scientist,0.49
+125000.0,3.9,Genentech,"South San Francisco, CA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.36
+81000.0,3.6,MassMutual,"Springfield, MA",5001 - 10000,Insurance Carriers,Insurance,MA,analyst,0.48
+77000.0,3.4,General Dynamics Information Technology,"Washington, DC",10000+,IT Services,Information Technology,DC,analyst,0.32
+92000.0,4.1,ManTech,"Herndon, VA",5001 - 10000,Research & Development,Business Services,VA,data engineer,0.32
+121000.0,3.8,Novartis,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.34
+162500.0,4.0,Autodesk,"San Francisco, CA",5001 - 10000,Computer Hardware & Software,Information Technology,CA,data engineer,0.79
+60000.0,3.9,Southwest Research Institute,"San Antonio, TX",1001 - 5000,Research & Development,Business Services,TX,research scientist,0.26
+90500.0,4.4,SpringML,"Indianapolis, IN",1 - 50,Enterprise Software & Network Solutions,Information Technology,IN,data engineer,0.34
+110000.0,2.2,The Integer Group,"Dallas, TX",501 - 1000,Advertising & Marketing,Business Services,TX,data scientist,0.38
+70500.0,4.1,ManTech,"Portsmouth, VA",5001 - 10000,Research & Development,Business Services,VA,analyst,0.25
+76500.0,3.8,PNNL,"Richland, WA",1001 - 5000,Energy,"Oil, Gas, Energy & Utilities",WA,data scientist,0.24
+92000.0,3.6,MassMutual,"Springfield, MA",5001 - 10000,Insurance Carriers,Insurance,MA,data engineer,0.31
+82000.0,3.5,Esri,"Arlington, VA",1001 - 5000,Computer Hardware & Software,Information Technology,VA,data scientist,0.49
+164500.0,3.3,Samba TV,"San Francisco, CA",201 - 500,Advertising & Marketing,Business Services,CA,data scientist,0.28
+44000.0,3.4,SV Microwave,"West Palm Beach, FL",201 - 500,Telecommunications Manufacturing,Telecommunications,FL,analyst,0.56
+109000.0,4.4,SpringML,"Herndon, VA",1 - 50,Enterprise Software & Network Solutions,Information Technology,VA,data engineer,0.4
+149500.0,3.8,Sumo Logic,"Austin, TX",501 - 1000,Computer Hardware & Software,Information Technology,TX,data engineer,0.21
+65500.0,3.5,EAB,"Washington, DC",1001 - 5000,Research & Development,Business Services,DC,data engineer,0.49
+124500.0,3.5,Brighthouse Financial,"Charlotte, NC",1001 - 5000,Insurance Carriers,Insurance,NC,data scientist,0.51
+114000.0,2.9,Affinity Solutions,"San Jose, CA",51 - 200,Advertising & Marketing,Business Services,CA,data engineer,0.37
+49000.0,3.9,Citadel Federal Credit Union,"Exton, PA",501 - 1000,Banks & Credit Unions,Finance,PA,analyst,0.33
+71000.0,3.7,CALIBRE Systems,"Alexandria, VA",501 - 1000,IT Services,Information Technology,VA,analyst,0.29
+101000.0,3.6,MassMutual,"Boston, MA",5001 - 10000,Insurance Carriers,Insurance,MA,data scientist,0.26
+61000.0,3.7,Motorola Solutions,"Chicago, IL",10000+,Computer Hardware & Software,Information Technology,IL,analyst,0.29
+103500.0,3.1,Reynolds American,"Owensboro, KY",5001 - 10000,Consumer Products Manufacturing,Manufacturing,KY,data scientist,0.45
+63000.0,3.6,MassMutual,"Springfield, MA",5001 - 10000,Insurance Carriers,Insurance,MA,data scientist,0.5
+62500.0,3.0,Infosys,"Hartford, CT",10000+,IT Services,Information Technology,CT,data scientist,0.32
+94500.0,3.5,Alignment Healthcare,"Orange, CA",501 - 1000,Health Care Services & Hospitals,Health Care,CA,data engineer,0.38
+154500.0,3.5,Sunovion,"Marlborough, MA",1001 - 5000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.27
+87000.0,3.7,Cboe Global Markets,"Lenexa, KS",501 - 1000,Stock Exchanges,Finance,KS,mle,0.17
+64500.0,3.2,Guidepoint,"New York, NY",501 - 1000,Research & Development,Business Services,NY,data engineer,0.45
+111500.0,2.1,Cerus Corporation,"Concord, CA",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.48
+154500.0,3.7,Takeda Pharmaceuticals,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data engineer,0.3
+128500.0,4.4,Maven Wave Partners,"Chicago, IL",201 - 500,Consulting,Business Services,IL,data scientist,0.26
+31500.0,3.7,Vail Health,"Vail, CO",501 - 1000,Health Care Services & Hospitals,Health Care,CO,data scientist,0.03
+137000.0,3.9,AstraZeneca,"New York, NY",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,NY,data scientist,0.18
+99000.0,4.0,Pinnacol Assurance,"Denver, CO",501 - 1000,Insurance Carriers,Insurance,CO,data engineer,0.45
+139500.0,4.4,MathWorks,"Natick, MA",1001 - 5000,Computer Hardware & Software,Information Technology,MA,data scientist,0.47
+109000.0,3.4,MetroStar Systems,"Rockville, MD",201 - 500,IT Services,Information Technology,MD,data engineer,0.39
+254000.0,3.3,Liberty Mutual Insurance,"Chicago, IL",10000+,Insurance Carriers,Insurance,IL,data scientist,0.37
+73000.0,2.9,Audentes Therapeutics,"South San Francisco, CA",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.3
+99500.0,3.1,Reynolds American,"Winston-Salem, NC",5001 - 10000,Consumer Products Manufacturing,Manufacturing,NC,data scientist,0.47
+45500.0,3.3,National Interstate,"Richfield, OH",501 - 1000,Insurance Carriers,Insurance,OH,analyst,0.31
+122500.0,4.5,Moser Consulting,"Indianapolis, IN",51 - 200,Consulting,Business Services,IN,data engineer,0.62
+140000.0,3.9,TransUnion,"Chicago, IL",5001 - 10000,Financial Analytics & Research,Finance,IL,data scientist,0.44
+77500.0,3.2,MITRE,"Hampton, VA",5001 - 10000,Federal Agencies,Government,VA,data scientist,0.38
+26500.0,3.3,Mcphail Associates,"Cambridge, MA",1 - 50,Construction,"Construction, Repair & Maintenance",MA,data scientist,0.15
+117500.0,3.1,Reynolds American,"Winston-Salem, NC",5001 - 10000,Consumer Products Manufacturing,Manufacturing,NC,data scientist,0.54
+70500.0,2.4,Crown Bioscience,"San Diego, CA",501 - 1000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.38
+61500.0,4.8,HOVER,"San Francisco, CA",51 - 200,Computer Hardware & Software,Information Technology,CA,data scientist,0.57
+70000.0,2.9,Q2 Solutions,"Ithaca, NY",1001 - 5000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,NY,data scientist,0.42
+80000.0,2.9,Q2 Solutions,"Marietta, GA",1001 - 5000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,GA,data scientist,0.59
+90000.0,3.4,Arbella Insurance,"Quincy, MA",1001 - 5000,Insurance Carriers,Insurance,MA,data engineer,0.27
+73500.0,2.6,Software Engineering Institute,"Pittsburgh, PA",501 - 1000,Colleges & Universities,Education,PA,data scientist,0.47
+129500.0,3.6,MassMutual,"Boston, MA",5001 - 10000,Insurance Carriers,Insurance,MA,data scientist,0.45
+167500.0,4.0,Pfizer,"New York, NY",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,NY,data scientist,0.51
+60000.0,3.8,Associated Banc-Corp,"Green Bay, WI",1001 - 5000,Banks & Credit Unions,Finance,WI,analyst,0.29
+180000.0,3.9,Zest AI,"Burbank, CA",51 - 200,Financial Analytics & Research,Finance,CA,data scientist,0.6
+65000.0,3.8,Fareportal,"New York, NY",1001 - 5000,Travel Agencies,Travel & Tourism,NY,analyst,0.3
+112500.0,4.3,Genesys,"Durham, NC",5001 - 10000,Computer Hardware & Software,Information Technology,NC,data engineer,0.28
+87500.0,1.9,Moda Operandi,"New York, NY",201 - 500,"Department, Clothing, & Shoe Stores",Retail,NY,analyst,0.48
+51500.0,3.3,Liberty Mutual Insurance,"Indianapolis, IN",10000+,Insurance Carriers,Insurance,IN,data modeler,0.56
+51000.0,4.7,QK,"Clovis, CA",51 - 200,Architectural & Engineering Services,Business Services,CA,data scientist,0.13
+62500.0,3.1,Santander,"Boston, MA",10000+,Banks & Credit Unions,Finance,MA,data scientist,0.43
+100000.0,3.4,Tivity Health,"Chandler, AZ",501 - 1000,Health Care Services & Hospitals,Health Care,AZ,data engineer,0.33
+85000.0,4.4,BRMi,"Chantilly, VA",51 - 200,IT Services,Information Technology,VA,data engineer,0.28
+122000.0,3.9,Luminar Technologies,"Orlando, FL",201 - 500,Computer Hardware & Software,Information Technology,FL,data scientist,0.58
+66500.0,3.9,"Emtec, Inc.","Chicago, IL",501 - 1000,Enterprise Software & Network Solutions,Information Technology,IL,data scientist,0.52
+70500.0,4.7,Veterans United Home Loans,"Columbia, MO",1001 - 5000,Lending,Finance,MO,data scientist,0.54
+138500.0,4.7,Praetorian,"Austin, TX",51 - 200,Security Services,Business Services,TX,data engineer,0.69
+107500.0,3.4,PA Consulting,"Boston, MA",1001 - 5000,Consulting,Business Services,MA,data scientist,0.51
+120500.0,3.8,Agios Pharmaceuticals,"Cambridge, MA",501 - 1000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.45
+81000.0,2.7,Advanced BioScience Laboratories,"Rockville, MD",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MD,data scientist,0.35
+103500.0,3.1,Reynolds American,"Owensboro, KY",5001 - 10000,Consumer Products Manufacturing,Manufacturing,KY,data scientist,0.45
+162000.0,4.0,Glassdoor,"San Francisco, CA",1001 - 5000,Internet,Information Technology,CA,data engineer,0.35
+68500.0,3.5,Esri,"Redlands, CA",1001 - 5000,Computer Hardware & Software,Information Technology,CA,data scientist,0.62
+110500.0,3.4,Assurant,"Westlake, OH",10000+,Insurance Carriers,Insurance,OH,data scientist,0.62
+115500.0,3.7,F&G,"Des Moines, IA",201 - 500,Insurance Carriers,Insurance,IA,data engineer,0.49
+80500.0,3.8,PNNL,"Richland, WA",1001 - 5000,Energy,"Oil, Gas, Energy & Utilities",WA,data scientist,0.41
+43000.0,4.6,GreatAmerica Financial Services,"Cedar Rapids, IA",501 - 1000,Lending,Finance,IA,analyst,0.38
+140000.0,4.4,Acceleron Pharma,"Cambridge, MA",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.43
+66500.0,3.0,AmeriHealth Caritas,"Philadelphia, PA",5001 - 10000,Insurance Carriers,Insurance,PA,analyst,0.29
+94500.0,4.7,Strategic Employment Partners,"San Francisco, CA",51 - 200,Staffing & Outsourcing,Business Services,CA,data engineer,0.74
+119000.0,3.8,PNNL,"Seattle, WA",1001 - 5000,Energy,"Oil, Gas, Energy & Utilities",WA,data scientist,0.41
+25000.0,3.2,Catholic Health Initiatives,"Omaha, NE",10000+,Health Care Services & Hospitals,Health Care,NE,data scientist,0.25
+194500.0,3.3,Liberty Mutual Insurance,"Chicago, IL",10000+,Insurance Carriers,Insurance,IL,data scientist,0.5
+71500.0,3.9,Southwest Research Institute,"San Antonio, TX",1001 - 5000,Research & Development,Business Services,TX,data scientist,0.3
+105500.0,3.7,Applied Research Laboratories,"Austin, TX",501 - 1000,Colleges & Universities,Education,TX,data scientist,0.17
+74000.0,3.1,Reynolds American,"Winston-Salem, NC",5001 - 10000,Consumer Products Manufacturing,Manufacturing,NC,data scientist,0.41
+62500.0,3.7,Raytheon,"Huntsville, AL",10000+,Aerospace & Defense,Aerospace & Defense,AL,analyst,0.2
+65500.0,4.3,RTI International,"Durham, NC",1001 - 5000,Research & Development,Business Services,NC,data scientist,0.56
+161500.0,3.6,TRANZACT,"Fort Lee, NJ",1001 - 5000,Advertising & Marketing,Business Services,NJ,data scientist,0.45
+72500.0,2.1,United BioSource,"Blue Bell, PA",1001 - 5000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,PA,analyst,0.31
+139000.0,3.9,Figure Eight,"San Francisco, CA",51 - 200,Computer Hardware & Software,Information Technology,CA,data engineer,0.24
+136500.0,3.9,Tapjoy,"San Francisco, CA",201 - 500,Internet,Information Technology,CA,data engineer,0.53
+74500.0,3.8,Fareportal,"New York, NY",1001 - 5000,Travel Agencies,Travel & Tourism,NY,mle,0.61
+80500.0,3.1,Reynolds American,"Winston-Salem, NC",5001 - 10000,Consumer Products Manufacturing,Manufacturing,NC,statistician,0.37
+101000.0,5.0,Royce Geospatial,"Springfield, VA",51 - 200,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.68
+116500.0,3.6,Citi,"Jersey City, NJ",10000+,Investment Banking & Asset Management,Finance,NJ,data scientist,0.45
+232500.0,4.7,Sage Intacct,"San Francisco, CA",501 - 1000,Computer Hardware & Software,Information Technology,CA,mle,0.25
+120500.0,3.5,Scale AI,"San Francisco, CA",51 - 200,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.43
+153000.0,2.7,Change Healthcare,"Emeryville, CA",10000+,IT Services,Information Technology,CA,data scientist,0.49
+127000.0,3.4,MZ,"Palo Alto, CA",501 - 1000,Internet,Information Technology,CA,data scientist,0.36
+85500.0,4.7,HG Insights,"Santa Barbara, CA",51 - 200,Computer Hardware & Software,Information Technology,CA,data scientist,0.46
+76500.0,2.8,"1-800-FLOWERS.COM, Inc.","Carle Place, NY",1001 - 5000,Wholesale,Business Services,NY,data scientist,0.58
+128000.0,3.5,CBS Interactive,"New York, NY",1001 - 5000,TV Broadcast & Cable Networks,Media,NY,data scientist,0.35
+91500.0,3.2,"Numeric, LLC","King of Prussia, PA",1 - 50,Staffing & Outsourcing,Business Services,PA,data engineer,0.46
+177000.0,3.7,Samsung Research America,"Mountain View, CA",1001 - 5000,Computer Hardware & Software,Information Technology,CA,data engineer,0.46
+107000.0,4.7,Systems & Technology Research,"Arlington, VA",201 - 500,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.62
+154500.0,4.1,Netskope,"Santa Clara, CA",501 - 1000,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.56
+113500.0,4.0,Lorven Technologies Inc,"Santa Clara, CA",1 - 50,Accounting,Accounting & Legal,CA,data scientist,0.23
+143500.0,2.5,CareDx,"Brisbane, CA",1 - 50,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.52
+113500.0,3.9,Serigor Inc.,"San Francisco, CA",1 - 50,IT Services,Information Technology,CA,data scientist,0.52
+101500.0,3.4,Leidos,"Springfield, VA",10000+,Aerospace & Defense,Aerospace & Defense,VA,data scientist,0.29
+73000.0,3.6,Beckman Coulter Diagnostics,"New York, NY",10000+,Health Care Products Manufacturing,Manufacturing,NY,analyst,0.31
+80500.0,3.5,IHS Markit,"New York, NY",10000+,Consulting,Business Services,NY,data scientist,0.37
+139500.0,3.5,e-IT Professionals Corp.,"Foster City, CA",51 - 200,"Health, Beauty, & Fitness",Consumer Services,CA,data scientist,0.99
+145500.0,4.8,TechProjects,"New York, NY",1 - 50,IT Services,Information Technology,NY,data scientist,0.33
+87000.0,4.0,Biz2Credit Inc,"New York, NY",201 - 500,Lending,Finance,NY,data scientist,0.44
+100500.0,4.2,PeoplesBank,"Holyoke, MA",201 - 500,Banks & Credit Unions,Finance,MA,data scientist,0.22
+147000.0,3.8,Capgemini,"New York, NY",10000+,Enterprise Software & Network Solutions,Information Technology,NY,data scientist,0.2
+110500.0,3.7,GNY Insurance Companies,"New York, NY",201 - 500,Insurance Carriers,Insurance,NY,data engineer,0.63
+94000.0,4.6,"Conch Technologies, Inc","Waltham, MA",51 - 200,Consulting,Business Services,MA,data scientist,0.31
+123500.0,4.3,Medidata Solutions,"New York, NY",1001 - 5000,Enterprise Software & Network Solutions,Information Technology,NY,data scientist,0.37
+73000.0,4.0,HP Inc.,"Corvallis, OR",10000+,Computer Hardware & Software,Information Technology,OR,data engineer,0.12
+165000.0,3.9,Quartet Health,"New York, NY",201 - 500,Enterprise Software & Network Solutions,Information Technology,NY,data scientist,0.29
+59500.0,3.1,Success Academy Charter Schools,"New York, NY",1001 - 5000,K-12 Education,Education,NY,analyst,0.42
+66000.0,3.6,AXION Healthcare Solutions,"New York, NY",1 - 50,Health Care Services & Hospitals,Health Care,NY,analyst,0.13
+75500.0,4.2,ExecOnline,"New York, NY",51 - 200,Education Training Services,Education,NY,data scientist,0.38
+87000.0,4.0,Mteq,"Fort Belvoir, VA",501 - 1000,Aerospace & Defense,Aerospace & Defense,VA,mle,0.26
+140000.0,3.9,AstraZeneca,"Gaithersburg, MD",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MD,data scientist,0.35
+86000.0,3.7,Brillient,"Silver Spring, MD",201 - 500,IT Services,Information Technology,MD,data scientist,0.33
+116500.0,4.4,Entefy,"Palo Alto, CA",1 - 50,Internet,Information Technology,CA,data scientist,0.31
+80000.0,3.4,Trace3,"Houston, TX",501 - 1000,IT Services,Information Technology,TX,data engineer,0.37
+173000.0,3.7,Northrop Grumman,"San Jose, CA",10000+,Aerospace & Defense,Aerospace & Defense,CA,data scientist,0.28
+68500.0,3.5,Saama Technologies Inc,"Phoenix, AZ",501 - 1000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,AZ,data engineer,0.26
+172000.0,4.4,Two Sigma,"New York, NY",1001 - 5000,Investment Banking & Asset Management,Finance,NY,data scientist,0.32
+95000.0,3.9,AstraZeneca,"Gaithersburg, MD",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MD,data scientist,0.54
+69500.0,3.2,MITRE,"Bedford, MA",5001 - 10000,Federal Agencies,Government,MA,data scientist,0.48
+97500.0,4.0,Strategic Financial Solutions,"New York, NY",501 - 1000,Consumer Product Rental,Consumer Services,NY,data scientist,0.46
+95000.0,3.4,"Remedy BPCI Partners, LLC.","New York, NY",201 - 500,Health Care Services & Hospitals,Health Care,NY,data scientist,0.31
+194000.0,3.2,The Climate Corporation,"San Francisco, CA",501 - 1000,Enterprise Software & Network Solutions,Information Technology,CA,data scientist,0.53
+104500.0,3.5,Crossix Solutions,"New York, NY",201 - 500,Advertising & Marketing,Business Services,NY,data scientist,0.54
+85500.0,4.2,Clarity Insights,"Charlotte, NC",201 - 500,IT Services,Information Technology,NC,data engineer,0.34
+50000.0,4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",10000+,Religious Organizations,Non-Profit,UT,analyst,0.24
+113000.0,3.1,NCSOFT,"Aliso Viejo, CA",1001 - 5000,Video Games,Media,CA,data engineer,0.38
+90500.0,3.9,GSK,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.42
+153000.0,4.3,Factual,"Los Angeles, CA",51 - 200,Computer Hardware & Software,Information Technology,CA,data scientist,0.53
+123500.0,3.3,TriNet,"Dublin, CA",1001 - 5000,Consulting,Business Services,CA,analyst,0.38
+47000.0,3.9,Signpost,"New York, NY",201 - 500,Internet,Information Technology,NY,analyst,0.62
+162000.0,4.0,Adobe,"San Jose, CA",10000+,Computer Hardware & Software,Information Technology,CA,data scientist,0.36
+133500.0,3.5,Sartorius,"Arvada, CO",5001 - 10000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CO,data scientist,0.71
+109000.0,3.2,Equian LLC,"Franklin, TN",1001 - 5000,Health Care Services & Hospitals,Health Care,TN,data engineer,0.73
+125000.0,3.2,Information Builders,"New York, NY",1001 - 5000,Computer Hardware & Software,Information Technology,NY,mle,0.33
+106500.0,3.8,Novartis,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.5
+54000.0,3.7,The Hanover Insurance Group,"Worcester, MA",5001 - 10000,Insurance Carriers,Insurance,MA,analyst,0.39
+37500.0,3.0,Greenway Health,"Tampa, FL",1001 - 5000,Enterprise Software & Network Solutions,Information Technology,FL,analyst,0.53
+53500.0,3.8,Fareportal,"New York, NY",1001 - 5000,Travel Agencies,Travel & Tourism,NY,analyst,0.6
+168000.0,4.7,Confluent,"Mountain View, CA",501 - 1000,Computer Hardware & Software,Information Technology,CA,data scientist,0.4
+138500.0,3.9,Life360,"San Francisco, CA",51 - 200,Computer Hardware & Software,Information Technology,CA,analyst,0.4
+111500.0,3.6,IQVIA,"Plymouth Meeting, PA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,PA,data scientist,0.48
+68500.0,3.6,MassMutual,"Boston, MA",5001 - 10000,Insurance Carriers,Insurance,MA,data scientist,0.55
+84500.0,3.9,GSK,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.44
+102500.0,4.4,Eventbrite,"Nashville, TN",1001 - 5000,Internet,Information Technology,TN,data engineer,0.37
+93500.0,3.6,Riverside Research Institute,"Beavercreek, OH",501 - 1000,Federal Agencies,Government,OH,research scientist,0.44
+127500.0,3.2,"Numeric, LLC","Allentown, PA",1 - 50,Staffing & Outsourcing,Business Services,PA,data scientist,0.99
+72000.0,4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",10000+,Religious Organizations,Non-Profit,UT,analyst,0.27
+47000.0,3.1,Icon Health and Fitness,"Logan, UT",1001 - 5000,Consumer Products Manufacturing,Manufacturing,UT,analyst,0.23
+65000.0,3.8,Shipt,"Birmingham, AL",501 - 1000,Consumer Product Rental,Consumer Services,AL,data engineer,0.48
+94000.0,4.0,Novetta,"Herndon, VA",501 - 1000,Enterprise Software & Network Solutions,Information Technology,VA,analyst,0.36
+97000.0,4.0,Novetta,"Reston, VA",501 - 1000,Enterprise Software & Network Solutions,Information Technology,VA,data engineer,0.49
+91500.0,3.6,MassMutual,"Boston, MA",5001 - 10000,Insurance Carriers,Insurance,MA,data modeler,0.29
+114500.0,3.8,Novartis,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.38
+74000.0,3.2,"Numeric, LLC","Phila, PA",1 - 50,Staffing & Outsourcing,Business Services,PA,data scientist,0.4
+121000.0,3.8,Novartis,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.35
+121500.0,4.5,Demandbase,"San Francisco, CA",201 - 500,Computer Hardware & Software,Information Technology,CA,analyst,0.34
+60500.0,3.4,IntraEdge,"Scottsdale, AZ",501 - 1000,IT Services,Information Technology,AZ,data engineer,0.6
+118500.0,3.3,Peraton,"Chantilly, VA",1001 - 5000,Aerospace & Defense,Aerospace & Defense,VA,data engineer,0.28
+58500.0,3.8,COUNTRY Financial,"Bloomington, IL",1001 - 5000,Insurance Carriers,Insurance,IL,data engineer,0.16
+63500.0,3.9,Tapjoy,"San Francisco, CA",201 - 500,Internet,Information Technology,CA,data scientist,0.25
+107000.0,4.1,Mentor Graphics,"Fremont, CA",5001 - 10000,Computer Hardware & Software,Information Technology,CA,data scientist,0.26
+105500.0,3.7,Maxar Technologies,"Springfield, VA",5001 - 10000,Aerospace & Defense,Aerospace & Defense,VA,data engineer,0.46
+83000.0,2.8,ICW Group,"San Diego, CA",501 - 1000,Insurance Carriers,Insurance,CA,data engineer,0.13
+87500.0,3.0,Exelixis,"Alameda, CA",501 - 1000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,research scientist,0.27
+172000.0,4.0,Pfizer,"Cambridge, MA",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.46
+100000.0,3.0,Exelixis,"Alameda, CA",501 - 1000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.19
+221500.0,4.2,Grand Rounds,"San Francisco, CA",501 - 1000,Health Care Services & Hospitals,Health Care,CA,data scientist,0.52
+95500.0,3.5,"SPINS, LLC","Chicago, IL",201 - 500,Consulting,Business Services,IL,data engineer,0.36
+173000.0,3.3,DTCC,"Jersey City, NJ",1001 - 5000,Brokerage Services,Finance,NJ,analyst,0.45
+147500.0,3.9,AstraZeneca,"Gaithersburg, MD",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MD,data scientist,0.3
+81000.0,3.7,Carilion Clinic,"Roanoke, VA",10000+,Health Care Services & Hospitals,Health Care,VA,data engineer,0.28
+83000.0,3.2,DoubleVerify,"New York, NY",201 - 500,Internet,Information Technology,NY,analyst,0.51
+121000.0,4.6,Mitsubishi Electric Research Labs,"Cambridge, MA",51 - 200,Research & Development,Business Services,MA,research scientist,0.39
+85500.0,2.2,"Rodan and Fields, LLC","San Francisco, CA",501 - 1000,Beauty & Personal Accessories Stores,Retail,CA,analyst,0.43
+167500.0,4.6,Mitsubishi Electric Research Labs,"Cambridge, MA",51 - 200,Research & Development,Business Services,MA,research scientist,0.52
+107500.0,2.6,Software Engineering Institute,"Pittsburgh, PA",501 - 1000,Colleges & Universities,Education,PA,mle,0.58
+44500.0,3.4,DESC,"Seattle, WA",501 - 1000,Social Assistance,Non-Profit,WA,analyst,0.3
+107500.0,3.3,Johns Hopkins Health Care,"Glen Burnie, MD",1001 - 5000,Health Care Services & Hospitals,Health Care,MD,analyst,0.2
+69500.0,3.7,Community Behavioral Health,"Philadelphia, PA",201 - 500,Health Care Services & Hospitals,Health Care,PA,analyst,0.24
+98500.0,3.5,Western Digital,"Milpitas, CA",10000+,Computer Hardware & Software,Information Technology,CA,data scientist,0.19
+80500.0,2.7,Advanced BioScience Laboratories,"Rockville, MD",201 - 500,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MD,data scientist,0.28
+37000.0,3.8,FORMA THERAPEUTICS,"Watertown, MA",51 - 200,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.25
+99000.0,3.7,Raytheon,"Cambridge, MD",10000+,Aerospace & Defense,Aerospace & Defense,MD,data scientist,0.44
+96500.0,3.8,Agios Pharmaceuticals,"Cambridge, MA",501 - 1000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MA,data scientist,0.71
+53000.0,3.3,Liberty Mutual Insurance,"Boston, MA",10000+,Insurance Carriers,Insurance,MA,data scientist,0.44
+103000.0,2.7,Bridg,"Los Angeles, CA",1 - 50,Enterprise Software & Network Solutions,Information Technology,CA,data engineer,0.46
+92000.0,3.9,AstraZeneca,"Gaithersburg, MD",10000+,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,MD,data scientist,0.32
+114000.0,3.6,TRANZACT,"Fort Lee, NJ",1001 - 5000,Advertising & Marketing,Business Services,NJ,data scientist,0.42
+96000.0,3.5,Charter Spectrum,"Maryland Heights, MO",1 - 50,K-12 Education,Education,MO,data scientist,0.78
+96500.0,3.4,CompQsoft,"Washington, DC",51 - 200,Consulting,Business Services,DC,data scientist,0.18
+69500.0,4.3,Solugenix Corporation,"Phoenix, AZ",201 - 500,IT Services,Information Technology,AZ,data scientist,0.21
+121000.0,2.6,West Coast University,"Irvine, CA",10000+,Colleges & Universities,Education,CA,data scientist,0.24
+103000.0,3.8,SoftBank Robotics,"San Francisco, CA",201 - 500,Consumer Products Manufacturing,Manufacturing,CA,data scientist,0.36
+106500.0,3.2,MITRE,"McLean, VA",5001 - 10000,Federal Agencies,Government,VA,data scientist,0.31
+130000.0,5.0,SkySync,"Ann Arbor, MI",51 - 200,Computer Hardware & Software,Information Technology,MI,data scientist,0.46
+86500.0,4.3,Medidata Solutions,"New York, NY",1001 - 5000,Enterprise Software & Network Solutions,Information Technology,NY,data architect,0.31
+89000.0,3.4,"DatamanUSA, LLC","Olympia, WA",51 - 200,IT Services,Information Technology,WA,data scientist,0.58
+92000.0,4.0,23andMe,"South San Francisco, CA",501 - 1000,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,CA,data scientist,0.41
+111000.0,4.1,CK-12 Foundation,"Palo Alto, CA",1 - 50,K-12 Education,Education,CA,mle,0.52
+87500.0,3.9,Fivestars,"San Francisco, CA",201 - 500,Internet,Information Technology,CA,data engineer,0.33
